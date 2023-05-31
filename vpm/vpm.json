@@ -41,6 +41,7 @@
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.2.0"
           }
+        }
       }
     },
     "com.vrsuya.syncchildavatar": {
@@ -62,6 +63,7 @@
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.0.9"
           }
+        }
       }
     }
   },
