@@ -15,7 +15,7 @@
             "url": "https://github.com/crestudio"
           },
           "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.00/com.vrsuya.avatarsettingupdater-1.0.0.zip?",
-          "repo": "https://macchiato.kr/vpm/vpm.json",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.0.9"
           }
@@ -37,7 +37,7 @@
             "url": "https://github.com/crestudio"
           },
           "url": "https://github.com/crestudio/ChangePhysBoneVersion/releases/download/1.02/com.vrsuya.changephysboneversion-1.0.2.zip?",
-          "repo": "https://macchiato.kr/vpm/vpm.json",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.2.0"
           }
@@ -59,7 +59,7 @@
             "url": "https://github.com/crestudio"
           },
           "url": "https://github.com/crestudio/SyncChildAvatar/releases/download/1.00/com.vrsuya.syncchildavatar-1.0.0.zip?",
-          "repo": "https://macchiato.kr/vpm/vpm.json",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.0.9"
           }
@@ -70,5 +70,5 @@
   "author": "VRSuya",
   "name": "VRSuya",
   "id": "com.vrsuya.vpm",
-  "url": "https://macchiato.kr/vpm/vpm.json"
+  "url": "https://server.macchiato.kr/vpm/vpm.json"
 }
