@@ -32,7 +32,7 @@
             "email": "crestudioplus@gmail.com",
             "url": "https://github.com/crestudio"
           },
-          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.00/com.vrsuya.avatarsettingupdater-1.0.1.zip?",
+          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.01/com.vrsuya.avatarsettingupdater-1.0.1.zip?",
           "repo": "https://server.macchiato.kr/vpm/vpm.json",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.0.9"
