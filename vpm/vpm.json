@@ -131,6 +131,24 @@
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.0.9"
           }
+        },
+        "1.0.5": {
+          "name": "com.vrsuya.avatarsettingupdater",
+          "version": "1.0.5",
+          "displayName": "VRSuya - Avatar Setting Updater",
+          "description": "Automatic install VRSuya assets program for VRChat avatars",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "Macchiato",
+            "email": "crestudioplus@gmail.com",
+            "url": "https://github.com/crestudio"
+          },
+          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.05/com.vrsuya.avatarsettingupdater-1.0.5.zip?",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.0.9"
+          }
         }
       }
     },
