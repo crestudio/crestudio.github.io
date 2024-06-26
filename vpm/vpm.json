@@ -268,6 +268,28 @@
         }
       }
     },
+    "com.vrsuya.suyasuyafacial": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.vrsuya.suyasuyafacial",
+          "version": "1.0.0",
+          "displayName": "VRSuya - Suyasuya Facial",
+          "description": "Adding Empty Blendshape Animation Program for VRSuya Suyasuya Product",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "Macchiato",
+            "email": "crestudioplus@gmail.com",
+            "url": "https://github.com/crestudio"
+          },
+          "url": "https://github.com/crestudio/SuyasuyaFacial/releases/download/1.00/com.vrsuya.suyasuyafacial-1.0.0.zip?",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.0.9"
+          }
+        }
+      }
+    },
     "com.vrsuya.syncchildavatar": {
       "versions": {
         "1.0.0": {
