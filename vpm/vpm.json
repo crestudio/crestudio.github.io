@@ -340,6 +340,50 @@
         }
       }
     },
+    "com.vrsuya.materialoptimizer": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.vrsuya.materialoptimizer",
+          "version": "1.0.0",
+          "displayName": "VRSuya - MaterialOptimizer",
+          "description": "VRChat Avatar Material Optimization Program",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "Macchiato",
+            "email": "crestudioplus@gmail.com",
+            "url": "https://github.com/crestudio"
+          },
+          "url": "https://github.com/crestudio/MaterialOptimizer/releases/download/1.00/com.vrsuya.materialoptimizer-1.0.0.zip?",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.0.9"
+          }
+        }
+      }
+    },
+    "com.vrsuya.portraitcamera": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.vrsuya.portraitcamera",
+          "version": "1.0.0",
+          "displayName": "VRSuya - PortraitCamera",
+          "description": "VRChat Avatar Thumbnail Camera",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "Macchiato",
+            "email": "crestudioplus@gmail.com",
+            "url": "https://github.com/crestudio"
+          },
+          "url": "https://github.com/crestudio/PortraitCamera/releases/download/1.00/com.vrsuya.portraitcamera-1.0.0.zip?",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.0.9"
+          }
+        }
+      }
+    },
     "com.vrsuya.suyasuyafacial": {
       "versions": {
         "1.0.0": {
