@@ -4,15 +4,15 @@
         <title>VRSuya Blog</title>
         <link>https://crestudio.github.io/blog</link>
         <description>VRSuya Blog</description>
-        <lastBuildDate>Fri, 23 Aug 2024 20:16:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 22:03:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ko</language>
         <item>
             <title><![CDATA[블로그]]></title>
-            <link>https://crestudio.github.io/blog/temp</link>
-            <guid>https://crestudio.github.io/blog/temp</guid>
-            <pubDate>Fri, 23 Aug 2024 20:16:33 GMT</pubDate>
+            <link>https://crestudio.github.io/blog/intro</link>
+            <guid>https://crestudio.github.io/blog/intro</guid>
+            <pubDate>Fri, 23 Aug 2024 22:03:59 GMT</pubDate>
         </item>
     </channel>
 </rss>

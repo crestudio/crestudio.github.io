@@ -2,16 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://crestudio.github.io/blog</id>
     <title>VRSuya Blog</title>
-    <updated>2024-08-23T20:16:33.701Z</updated>
+    <updated>2024-08-23T22:03:59.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://crestudio.github.io/blog"/>
     <subtitle>VRSuya Blog</subtitle>
     <icon>https://crestudio.github.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[블로그]]></title>
-        <id>https://crestudio.github.io/blog/temp</id>
-        <link href="https://crestudio.github.io/blog/temp"/>
-        <updated>2024-08-23T20:16:33.701Z</updated>
+        <id>https://crestudio.github.io/blog/intro</id>
+        <link href="https://crestudio.github.io/blog/intro"/>
+        <updated>2024-08-23T22:03:59.000Z</updated>
         <author>
             <name>마끼아또</name>
             <uri>https://twitter.com/VRC_Macchiato</uri>
