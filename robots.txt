@@ -1,8 +1,0 @@
-User-Agent: *
-Disallow: /_includes
-Disallow: /_layouts
-Disallow: /_sass
-Disallow: /.github
-Disallow: /assets
-Disallow: /docs
-Disallow: /script
