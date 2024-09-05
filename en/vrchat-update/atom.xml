@@ -2,12 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://crestudio.github.io/en/vrchat-update</id>
     <title>VRSuya Blog</title>
-    <updated>2024-08-22T00:00:00.000Z</updated>
+    <updated>2024-09-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://crestudio.github.io/en/vrchat-update"/>
     <subtitle>VRSuya Blog</subtitle>
     <icon>https://crestudio.github.io/en/favicon.ico</icon>
     <rights>Copyright © 2024 VRSuya. All rights reserved.</rights>
+    <entry>
+        <title type="html"><![CDATA[개발자 업데이트 2024. 09. 05.]]></title>
+        <id>https://crestudio.github.io/en/vrchat-update/20240905</id>
+        <link href="https://crestudio.github.io/en/vrchat-update/20240905"/>
+        <updated>2024-09-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[스티커]]></summary>
+        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">VRC+ 스티커 및 공유 소개</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p><img decoding="async" loading="lazy" alt="스티커" src="https://crestudio.github.io/en/assets/images/93C9B3CA9CAD989D1280E66EC84AAB35A864E036-229f16d616877a2edfc4591815c29cbe.png" width="1920" height="1080" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrc-새로운-기능--스티커">VRC+ 새로운 기능 : 스티커<a href="https://crestudio.github.io/en/vrchat-update/20240905#vrc-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5--%EC%8A%A4%ED%8B%B0%EC%BB%A4" class="hash-link" aria-label="Direct link to VRC+ 새로운 기능 : 스티커" title="Direct link to VRC+ 새로운 기능 : 스티커">​</a></h2>
+<ul>
+<li>월드에 스티커를 붙이는 기능 추가</li>
+<li>개발 중인 현재 9개까지 보유 가능한 것으로 구현</li>
+<li>스티커는 월드에 1인당 1개만 부착 가능</li>
+<li>해당 스티커만 숨기는 기능, 인스턴스 퇴장 등 유저가 없어지면 스티커도 사라짐</li>
+<li>스티커가 부적절하지 않은지 VRChat에서 검사함</li>
+</ul>
+<p><img decoding="async" loading="lazy" alt="공유" src="https://crestudio.github.io/en/assets/images/34B3A09513720472EE4D7941376DF9BBA5D16260-80c98c21b7f0b1c2bb8e302de908bdd1.png" width="1920" height="1080" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrc-새로운-기능--공유">VRC+ 새로운 기능 : 공유<a href="https://crestudio.github.io/en/vrchat-update/20240905#vrc-%EC%83%88%EB%A1%9C%EC%9A%B4-%EA%B8%B0%EB%8A%A5--%EA%B3%B5%EC%9C%A0" class="hash-link" aria-label="Direct link to VRC+ 새로운 기능 : 공유" title="Direct link to VRC+ 새로운 기능 : 공유">​</a></h2>
+<ul>
+<li>스티커나 이모지, UI 배색 등 컨텐츠 공유용 포탈 같은게 추가 예정</li>
+<li>월드 포탈처럼 드랍이 되며, 일정 시간 또는 유저가 떠나기 전까지 드랍 가능</li>
+<li>공유 가능한 대상 지정 가능(퍼블릭, 친구, 그룹 등)</li>
+<li>이벤트 참가자용 선물처럼 다양한 이벤트나 모임에서 사용하기 좋을 듯</li>
+</ul>]]></content>
+        <category label="VRChat" term="VRChat"/>
+        <category label="개발자 업데이트" term="개발자 업데이트"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개발자 업데이트 2024. 08. 22.]]></title>
         <id>https://crestudio.github.io/en/vrchat-update/20240822</id>
@@ -75,7 +102,7 @@
 <li>게임 캐시나 메모리 핵, API를 통해 아바타나 월드를 추출하고 변환한 도구를 사용한 약 2400개 계정을 추가 밴 처리</li>
 <li>리핑을 위해 서브 계정을 통해 사용한 경우 본 계정도 밴 처리</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="웹에서도-친구-즐겨찾기-관리-가능">웹에서도 친구 즐겨찾기 관리 가능<a href="https://crestudio.github.io/en/vrchat-update/20240808#%EC%9B%B9%EC%97%90%EC%84%9C%EB%8F%84-%EC%B9%9C%EA%B5%AC-%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0-%EA%B4%80%EB%A6%AC-%EA%B0%80%EB%8A%A5" class="hash-link" aria-label="Direct link to 웹에서도 친구 즐겨찾기 관리 가능" title="Direct link to 웹에서도 친구 즐겨찾기 관리 가능">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="웹에서도-친구-즐겨찾기-관��리-가능">웹에서도 친구 즐겨찾기 관리 가능<a href="https://crestudio.github.io/en/vrchat-update/20240808#%EC%9B%B9%EC%97%90%EC%84%9C%EB%8F%84-%EC%B9%9C%EA%B5%AC-%EC%A6%90%EA%B2%A8%EC%B0%BE%EA%B8%B0-%EA%B4%80%EB%A6%AC-%EA%B0%80%EB%8A%A5" class="hash-link" aria-label="Direct link to 웹에서도 친구 즐겨찾기 관리 가능" title="Direct link to 웹에서도 친구 즐겨찾기 관리 가능">​</a></h2>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="오프라인-상태인-친구를-초대하는-기능">오프라인 상태인 친구를 초대하는 기능<a href="https://crestudio.github.io/en/vrchat-update/20240808#%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%83%81%ED%83%9C%EC%9D%B8-%EC%B9%9C%EA%B5%AC%EB%A5%BC-%EC%B4%88%EB%8C%80%ED%95%98%EB%8A%94-%EA%B8%B0%EB%8A%A5" class="hash-link" aria-label="Direct link to 오프라인 상태인 친구를 초대하는 기능" title="Direct link to 오프라인 상태인 친구를 초대하는 기능">​</a></h2>
 <ul>
 <li>VRChat 모바일 앱을 통해 푸시 알림 받는 기능</li>
@@ -258,7 +285,7 @@
 <ul>
 <li>많은 컨트롤러에서 대부분 VRChat 기능을 할당해서 사용 가능해질 것</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-한국어-완전-ui-지원">VRChat 한국어 완전 UI 지원<a href="https://crestudio.github.io/en/vrchat-update/20240502#vrchat-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%99%84%EC%A0%84-ui-%EF%BF%BD%EF%BF%BD%EC%A7%80%EC%9B%90" class="hash-link" aria-label="Direct link to VRChat 한국어 완전 UI 지원" title="Direct link to VRChat 한국어 완전 UI 지원">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-한국어-완전-ui-지원">VRChat 한국어 완전 UI 지원<a href="https://crestudio.github.io/en/vrchat-update/20240502#vrchat-%ED%95%9C%EA%B5%AD%EC%96%B4-%EC%99%84%EC%A0%84-ui-%EC%A7%80%EC%9B%90" class="hash-link" aria-label="Direct link to VRChat 한국어 완전 UI 지원" title="Direct link to VRChat 한국어 완전 UI 지원">​</a></h2>
 <ul>
 <li>다양한 언어 완전 UI 지원</li>
 <li>도움말 문서도 번역될 예정</li>
@@ -306,7 +333,7 @@
 <ul>
 <li>퍼플릭 아바타 대부분 적용되는게 목표, 웹 사이트에서 언제든지 제거 가능</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="프로필에-추가-가능한-언어-추가">프로필에 추가 가능한 언어 추가<a href="https://crestudio.github.io/en/vrchat-update/20240411#%ED%94%84%EB%A1%9C%ED%95%84%EC%97%90-%EC%B6%94%EA%B0%80-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%96%B8%EC%96%B4-%EC%B6%94%EA%B0%80" class="hash-link" aria-label="Direct link to 프로필에 추가 가능한 언어 추가" title="Direct link to 프로필에 추가 가능한 언어 추가">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="프로�필에-추가-가능한-언어-추가">프로필에 추가 가능한 언어 추가<a href="https://crestudio.github.io/en/vrchat-update/20240411#%ED%94%84%EB%A1%9C%ED%95%84%EC%97%90-%EC%B6%94%EA%B0%80-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%96%B8%EC%96%B4-%EC%B6%94%EA%B0%80" class="hash-link" aria-label="Direct link to 프로필에 추가 가능한 언어 추가" title="Direct link to 프로필에 추가 가능한 언어 추가">​</a></h2>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="그룹-관련">그룹 관련<a href="https://crestudio.github.io/en/vrchat-update/20240411#%EA%B7%B8%EB%A3%B9-%EA%B4%80%EB%A0%A8" class="hash-link" aria-label="Direct link to 그룹 관련" title="Direct link to 그룹 관련">​</a></h2>
 <ul>
 <li>그룹에서 Kick 할 때, 상대방에게 알림이 전송되지 않음</li>
@@ -364,31 +391,5 @@
 </ul>]]></content>
         <category label="VRChat" term="VRChat"/>
         <category label="베타" term="베타"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자 업데이트 2024. 03. 28.]]></title>
-        <id>https://crestudio.github.io/en/vrchat-update/20240328</id>
-        <link href="https://crestudio.github.io/en/vrchat-update/20240328"/>
-        <updated>2024-03-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Space Jam 4월 5일 마감]]></summary>
-        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">VRChat 웹사이트 개선</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="space-jam-4월-5일-마감">Space Jam 4월 5일 마감<a href="https://crestudio.github.io/en/vrchat-update/20240328#space-jam-4%EC%9B%94-5%EC%9D%BC-%EB%A7%88%EA%B0%90" class="hash-link" aria-label="Direct link to Space Jam 4월 5일 마감" title="Direct link to Space Jam 4월 5일 마감">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="웹-사이트-개선">웹 사이트 개선<a href="https://crestudio.github.io/en/vrchat-update/20240328#%EC%9B%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EA%B0%9C%EC%84%A0" class="hash-link" aria-label="Direct link to 웹 사이트 개선" title="Direct link to 웹 사이트 개선">​</a></h2>
-<ul>
-<li>웹에서 그룹 공개용 포스트 읽기/작성/편집 가능</li>
-<li>그 외 다수 개선 포함</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="그룹-소유권-이전-기능-릴리즈">그룹 소유권 이전 기능 릴리즈<a href="https://crestudio.github.io/en/vrchat-update/20240328#%EA%B7%B8%EB%A3%B9-%EC%86%8C%EC%9C%A0%EA%B6%8C-%EC%9D%B4%EC%A0%84-%EA%B8%B0%EB%8A%A5-%EB%A6%B4%EB%A6%AC%EC%A6%88" class="hash-link" aria-label="Direct link to 그룹 소유권 이전 기능 릴리즈" title="Direct link to 그룹 소유권 이전 기능 릴리즈">​</a></h2>
-<ul>
-<li>웹 사이트에서 확인 가능</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="그룹-퍼미션-관리-편의성-증대">그룹 퍼미션 관리 편의성 증대<a href="https://crestudio.github.io/en/vrchat-update/20240328#%EA%B7%B8%EB%A3%B9-%ED%8D%BC%EB%AF%B8%EC%85%98-%EA%B4%80%EB%A6%AC-%ED%8E%B8%EC%9D%98%EC%84%B1-%EC%A6%9D%EB%8C%80" class="hash-link" aria-label="Direct link to 그룹 퍼미션 관리 편의성 증대" title="Direct link to 그룹 퍼미션 관리 편의성 증대">​</a></h2>
-<ul>
-<li>모든 사람에게 할당되는 역할, 가입시 자동 추가 역할 선택 기능으로 그룹 성격에 맞는 퍼미션 할당 가능</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="canny-로그인-없이-방문-가능">Canny 로그인 없이 방문 가능<a href="https://crestudio.github.io/en/vrchat-update/20240328#canny-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%97%86%EC%9D%B4-%EB%B0%A9%EB%AC%B8-%EA%B0%80%EB%8A%A5" class="hash-link" aria-label="Direct link to Canny 로그인 없이 방문 가능" title="Direct link to Canny 로그인 없이 방문 가능">​</a></h2>
-<p><a href="https://ask.vrchat.com/t/developer-update-28-march-2024/23676" target="_blank" rel="noopener noreferrer">https://ask.vrchat.com/t/developer-update-28-march-2024/23676</a></p>]]></content>
-        <category label="VRChat" term="VRChat"/>
-        <category label="개발자 업데이트" term="개발자 업데이트"/>
     </entry>
 </feed>
