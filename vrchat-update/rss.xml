@@ -23,6 +23,7 @@
 <li>개발 중인 현재 9개까지 보유 가능한 것으로 구현</li>
 <li>스티커는 월드에 1인당 1개만 부착 가능</li>
 <li>해당 스티커만 숨기는 기능, 인스턴스 퇴장 등 유저가 없어지면 스티커도 사라짐</li>
+<li>월드에서 스티커 부착 허용 여부 설정 가능</li>
 <li>스티커가 부적절하지 않은지 VRChat에서 검사함</li>
 </ul>
 <p><img decoding="async" loading="lazy" alt="공유" src="https://crestudio.github.io/assets/images/34B3A09513720472EE4D7941376DF9BBA5D16260-80c98c21b7f0b1c2bb8e302de908bdd1.png" width="1920" height="1080" class="img_ev3q"></p>
