@@ -2,32 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://crestudio.github.io/en/vrchat-update</id>
     <title>VRSuya Blog</title>
-    <updated>2024-10-17T00:00:00.000Z</updated>
+    <updated>2024-10-31T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://crestudio.github.io/en/vrchat-update"/>
     <subtitle>VRSuya Blog</subtitle>
     <icon>https://crestudio.github.io/en/favicon.ico</icon>
     <rights>Copyright © 2024 VRSuya. All rights reserved.</rights>
     <entry>
+        <title type="html"><![CDATA[개발자 업데이트 2024.10.31]]></title>
+        <id>https://crestudio.github.io/en/vrchat-update/20241031</id>
+        <link href="https://crestudio.github.io/en/vrchat-update/20241031"/>
+        <updated>2024-10-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[VRChat 2024.4.1 릴리즈]]></summary>
+        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">서버 단위에서 PC 아바타 크기 제한 적용 / VRChat 모바일 헤드 트래킹</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-202441-릴리즈">VRChat 2024.4.1 릴리즈<a href="https://crestudio.github.io/en/vrchat-update/20241031#vrchat-202441-%EB%A6%B4%EB%A6%AC%EC%A6%88" class="hash-link" aria-label="Direct link to VRChat 2024.4.1 릴리즈" title="Direct link to VRChat 2024.4.1 릴리즈">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="nvidia-geforce-now에서-vrchat-플레이-가능">NVIDIA GeForce Now에서 VRChat 플레이 가능<a href="https://crestudio.github.io/en/vrchat-update/20241031#nvidia-geforce-now%EC%97%90%EC%84%9C-vrchat-%ED%94%8C%EB%A0%88%EC%9D%B4-%EA%B0%80%EB%8A%A5" class="hash-link" aria-label="Direct link to NVIDIA GeForce Now에서 VRChat 플레이 가능" title="Direct link to NVIDIA GeForce Now에서 VRChat 플레이 가능">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="spookality-2024-우승자-발표">Spookality 2024 우승자 발표<a href="https://crestudio.github.io/en/vrchat-update/20241031#spookality-2024-%EC%9A%B0%EC%8A%B9%EC%9E%90-%EB%B0%9C%ED%91%9C" class="hash-link" aria-label="Direct link to Spookality 2024 우승자 발표" title="Direct link to Spookality 2024 우승자 발표">​</a></h2>
+<ul>
+<li>수상자 10명 ( <a href="https://hello.vrchat.com/blog/spookality-2024-winners" target="_blank" rel="noopener noreferrer">https://hello.vrchat.com/blog/spookality-2024-winners</a> )</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="서버-단위에서-pc-아바타-크기-제한-적용">서버 단위에서 PC 아바타 크기 제한 적용<a href="https://crestudio.github.io/en/vrchat-update/20241031#%EC%84%9C%EB%B2%84-%EB%8B%A8%EC%9C%84%EC%97%90%EC%84%9C-pc-%EC%95%84%EB%B0%94%ED%83%80-%ED%81%AC%EA%B8%B0-%EC%A0%9C%ED%95%9C-%EC%A0%81%EC%9A%A9" class="hash-link" aria-label="Direct link to 서버 단위에서 PC 아바타 크기 제한 적용" title="Direct link to 서버 단위에서 PC 아바타 크기 제한 적용">​</a></h2>
+<ul>
+<li>다운로드 크기 200MB, 비압축 크기 500MB 넘으면 로드 불가능</li>
+<li>넘을 경우 <code>Security Checks Failed</code>라고 표시</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="amd-gpu-유저-알림">AMD GPU 유저 알림<a href="https://crestudio.github.io/en/vrchat-update/20241031#amd-gpu-%EC%9C%A0%EC%A0%80-%EC%95%8C%EB%A6%BC" class="hash-link" aria-label="Direct link to AMD GPU 유저 알림" title="Direct link to AMD GPU 유저 알림">​</a></h2>
+<ul>
+<li>AMD 그래픽 카드에서 특정 VR로 무선 스트리밍을 하고 있으면 끊김이 발생</li>
+<li>AMD 그래픽 카드에서는 하드웨어 비디오 디코딩이 비활성화 상태</li>
+<li>따라서 비디오 플레이어는 CPU가 연산을 하고 있었음</li>
+<li>최근 드라이버 업데이트로 문제가 해결 된 것으로 알고 있으나 현재 체크 중</li>
+<li><code>--enable-hw-video-decoding</code> 플래그를 사용하여 강제 적용 가능</li>
+<li>테스트 후 문제 있으면 보고 바람</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="웹사이트-업데이트">웹사이트 업데이트<a href="https://crestudio.github.io/en/vrchat-update/20241031#%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="hash-link" aria-label="Direct link to 웹사이트 업데이트" title="Direct link to 웹사이트 업데이트">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-안드로이드-모바일에서-헤드-트래킹-지원">VRChat 안드로이드 모바일에서 헤드 트래킹 지원<a href="https://crestudio.github.io/en/vrchat-update/20241031#vrchat-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%97%90%EC%84%9C-%ED%97%A4%EB%93%9C-%ED%8A%B8%EB%9E%98%ED%82%B9-%EC%A7%80%EC%9B%90" class="hash-link" aria-label="Direct link to VRChat 안드로이드 모바일에서 헤드 트래킹 지원" title="Direct link to VRChat 안드로이드 모바일에서 헤드 트래킹 지원">​</a></h2>
+<ul>
+<li>머리 트래킹 및 눈, 입 관련 표정 트래킹 지원</li>
+<li>Viseme 및 Blink 설정을 활용하여 지원</li>
+<li>VRCFT를 최대한 활용 할 수 있는 쪽으로 개발 목표</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="크리에이터-문서에-샘플-추가함">크리에이터 문서에 샘플 추가함<a href="https://crestudio.github.io/en/vrchat-update/20241031#%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0-%EB%AC%B8%EC%84%9C%EC%97%90-%EC%83%98%ED%94%8C-%EC%B6%94%EA%B0%80%ED%95%A8" class="hash-link" aria-label="Direct link to 크리에이터 문서에 샘플 추가함" title="Direct link to 크리에이터 문서에 샘플 추가함">​</a></h2>
+<ul>
+<li>월드 만들 때 참고하여서 개발하면 좋음</li>
+<li><a href="https://creators.vrchat.com/worlds/examples/" target="_blank" rel="noopener noreferrer">https://creators.vrchat.com/worlds/examples/</a></li>
+</ul>]]></content>
+        <category label="VRChat" term="VRChat"/>
+        <category label="개발자 업데이트" term="개발자 업데이트"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[개발자 업데이트 2024.10.17]]></title>
         <id>https://crestudio.github.io/en/vrchat-update/20241017</id>
         <link href="https://crestudio.github.io/en/vrchat-update/20241017"/>
         <updated>2024-10-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[iOS 베타 테스트 접수 중]]></summary>
-        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">2024.3.3 공개 및 영구 유저 데이터 저장소 오픈 베타</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">2024.3.3 릴리즈 및 영구 유저 데이터 저장소 오픈 베타</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="ios-베타-테스트-접수-중">iOS 베타 테스트 접수 중<a href="https://crestudio.github.io/en/vrchat-update/20241017#ios-%EB%B2%A0%ED%83%80-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%A0%91%EC%88%98-%EC%A4%91" class="hash-link" aria-label="Direct link to iOS 베타 테스트 접수 중" title="Direct link to iOS 베타 테스트 접수 중">​</a></h2>
 <ul>
 <li><a href="https://www.surveymonkey.com/r/vrchat-ios-closed-beta" target="_blank" rel="noopener noreferrer">https://www.surveymonkey.com/r/vrchat-ios-closed-beta</a></li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="202433-공개">2024.3.3 공개<a href="https://crestudio.github.io/en/vrchat-update/20241017#202433-%EA%B3%B5%EA%B0%9C" class="hash-link" aria-label="Direct link to 2024.3.3 공개" title="Direct link to 2024.3.3 공개">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="202433-릴리즈">2024.3.3 릴리즈<a href="https://crestudio.github.io/en/vrchat-update/20241017#202433-%EB%A6%B4%EB%A6%AC%EC%A6%88" class="hash-link" aria-label="Direct link to 2024.3.3 릴리즈" title="Direct link to 2024.3.3 릴리즈">​</a></h2>
 <ul>
 <li>스티커, 공유, Chatbox 2.0, 카메라 업데이트</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="영구-유저-데이터-저장소-오픈-베타">영구 유저 데이터 저장소 오픈 베타<a href="https://crestudio.github.io/en/vrchat-update/20241017#%EC%98%81%EA%B5%AC-%EC%9C%A0%EC%A0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EC%9E%A5%EC%86%8C-%EC%98%A4%ED%94%88-%EB%B2%A0%ED%83%80" class="hash-link" aria-label="Direct link to 영구 유저 데이터 저장소 오픈 베타" title="Direct link to 영구 유저 데이터 저장�소 오픈 베타">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="영구-유저-데이터-저장소-오픈-베타">영구 유저 데이터 저장소 오픈 베타<a href="https://crestudio.github.io/en/vrchat-update/20241017#%EC%98%81%EA%B5%AC-%EC%9C%A0%EC%A0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EC%9E%A5%EC%86%8C-%EC%98%A4%ED%94%88-%EB%B2%A0%ED%83%80" class="hash-link" aria-label="Direct link to 영구 유저 데이터 저장소 오픈 베타" title="Direct link to 영구 유저 데이터 저장소 오픈 베타">​</a></h2>
 <ul>
-<li>Example Central에 샘플 제공</li>
+<li>Example Central에서 샘플 제공</li>
 <li>VCC에서 베타로 SDK 설치 필요</li>
-<li>VRChat 오븐 베타로 테스트</li>
+<li>VRChat 오픈 베타로 테스트</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="웹-업데이트">웹 업데이트<a href="https://crestudio.github.io/en/vrchat-update/20241017#%EC%9B%B9-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="hash-link" aria-label="Direct link to 웹 업데이트" title="Direct link to 웹 업데이트">​</a></h2>
 <ul>
@@ -35,7 +77,7 @@
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="크리에이터-경제-프리팹-제공">크리에이터 경제 프리팹 제공<a href="https://crestudio.github.io/en/vrchat-update/20241017#%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0-%EA%B2%BD%EC%A0%9C-%ED%94%84%EB%A6%AC%ED%8C%B9-%EC%A0%9C%EA%B3%B5" class="hash-link" aria-label="Direct link to 크리에이터 경제 프리팹 제공" title="Direct link to 크리에이터 경제 프리팹 제공">​</a></h2>
 <ul>
-<li>Example Central에 샘플 제공</li>
+<li>Example Central에서 샘플 제공</li>
 </ul>]]></content>
         <category label="VRChat" term="VRChat"/>
         <category label="개발자 업데이트" term="개발자 업데이트"/>
@@ -128,7 +170,7 @@
 <li><strong>월드 제작할 때 자주 쓰이는 기능을 빌트인해서 빠르게 월드 구축</strong>을 도와주는 시스템</li>
 <li>월드 세팅, 리더보드, 방문자 알림 등등 자주 쓰는 기능의 템플릿을 제공하는 듯</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="모바일-빌드-및-테스트-기능-�예정">모바일 빌드 및 테스트 기능 예정<a href="https://crestudio.github.io/en/vrchat-update/20240920#%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%B9%8C%EB%93%9C-%EB%B0%8F-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B8%B0%EB%8A%A5-%EC%98%88%EC%A0%95" class="hash-link" aria-label="Direct link to 모바일 빌드 및 테스트 기능 예정" title="Direct link to 모바일 빌드 및 테스트 기능 예정">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="모바일-빌드-및-테스트-기능-예정">모바일 빌드 및 테스트 기능 예정<a href="https://crestudio.github.io/en/vrchat-update/20240920#%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%B9%8C%EB%93%9C-%EB%B0%8F-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B8%B0%EB%8A%A5-%EC%98%88%EC%A0%95" class="hash-link" aria-label="Direct link to 모바일 빌드 및 테스트 기능 예정" title="Direct link to 모바일 빌드 및 테스트 기능 예정">​</a></h2>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="할로윈-vrchat-jam-예정">할로윈 VRChat Jam 예정<a href="https://crestudio.github.io/en/vrchat-update/20240920#%ED%95%A0%EB%A1%9C%EC%9C%88-vrchat-jam-%EC%98%88%EC%A0%95" class="hash-link" aria-label="Direct link to 할로윈 VRChat Jam 예정" title="Direct link to 할로윈 VRChat Jam 예정">​</a></h2>]]></content>
         <category label="VRChat" term="VRChat"/>
         <category label="개발자 업데이트" term="개발자 업데이트"/>
@@ -173,7 +215,7 @@
 <li>8월 26일 오후 5시 (태평양 표준시) Ministry 그룹에서 시행</li>
 <li>DJ 이벤트 타임라인 홈페이지 : <a href="https://vrc.tl/" target="_blank" rel="noopener noreferrer">https://vrc.tl/</a></li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="아바타-용량-제한-초과-아바타-업로드-불가">아바타 용량 제한 초과 아바타 업로드 불가<a href="https://crestudio.github.io/en/vrchat-update/20240823#%EC%95%84%EB%B0%94%ED%83%80-%EC%9A%A9%EB%9F%89-%EC%A0%9C%ED%95%9C-%EC%B4%88%EA%B3%BC-%EC%95%84%EB%B0%94%ED%83%80-%EC%97%85%EB%A1%9C%EB%93%9C-%EB%B6%88%EA%B0%80" class="hash-link" aria-label="Direct link to 아바타 용량 제한 초과 아바타 업로드 불가" title="Direct link to 아바타 용량 제한 초과 아바타 업로드 불가">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="아바타-용량-제한-초과-아바타-업로드-불가">아바타 용량 제한 초과 아바타 업로드 불가<a href="https://crestudio.github.io/en/vrchat-update/20240823#%EC%95%84%EB%B0%94%ED%83%80-%EC%9A%A9%EB%9F%89-%EC%A0%9C%ED%95%9C-%EC%B4%88%EA%B3%BC-%EC%95%84%EB%B0%94%ED%83%80-%EC%97%85%EB%A1%9C%EB%93%9C-%EB%B6%88%EA%B0%80" class="hash-link" aria-label="Direct link to 아바타 용량 제한 초과 아바타 업로드 불가" title="Direct link to 아바타 용량 제한 초과 아바타 업로�드 불가">​</a></h2>
 <ul>
 <li>다음 주부터 서버 단위에서 초과하는 아바타 업로드 거부</li>
 <li>11월 1일부터 제한을 초과하는 아바타는 VRChat에서 로드 안 됨</li>
@@ -308,7 +350,7 @@
 <li><a href="https://hello.vrchat.com/blog/summer-music-jam" target="_blank" rel="noopener noreferrer">https://hello.vrchat.com/blog/summer-music-jam</a></li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="pico-vr-유저는-os-업데이트-권고">Pico VR 유저는 OS 업데이트 권고<a href="https://crestudio.github.io/en/vrchat-update/20240712#pico-vr-%EC%9C%A0%EC%A0%80%EB%8A%94-os-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EA%B6%8C%EA%B3%A0" class="hash-link" aria-label="Direct link to Pico VR 유저는 OS 업데이트 권고" title="Direct link to Pico VR 유저는 OS 업데이트 권고">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="아바타-용량-제한-시행-전-마지막-알림">아바타 용량 제한 시행 전 마지막 알림<a href="https://crestudio.github.io/en/vrchat-update/20240712#%EC%95%84%EB%B0%94%ED%83%80-%EC%9A%A9%EB%9F%89-%EC%A0%9C%ED%95%9C-%EC%8B%9C%ED%96%89-%EC%A0%84-%EB%A7%88%EC%A7%80%EB%A7%89-%EC%95%8C%EB%A6%BC" class="hash-link" aria-label="Direct link to 아바타 용량 제한 시행 전 마지막 알림" title="Direct link to 아바타 용량 �제한 시행 전 마지막 알림">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="아바타-용량-제한-시행-전-마지막-알림">아바타 용량 제한 시행 전 마지막 알림<a href="https://crestudio.github.io/en/vrchat-update/20240712#%EC%95%84%EB%B0%94%ED%83%80-%EC%9A%A9%EB%9F%89-%EC%A0%9C%ED%95%9C-%EC%8B%9C%ED%96%89-%EC%A0%84-%EB%A7%88%EC%A7%80%EB%A7%89-%EC%95%8C%EB%A6%BC" class="hash-link" aria-label="Direct link to 아바타 용량 제한 시행 전 마지막 알림" title="Direct link to 아바타 용량 제한 시행 전 마지막 알림">​</a></h2>
 <ul>
 <li><a href="https://crestudio.github.io/en/vrchat-update/20240315">자세한 내용</a></li>
 </ul>
@@ -327,7 +369,7 @@
 <ul>
 <li>PC 플랫폼에서 우선 테스트 되며, 추후 모바일 플랫폼에서도 베타를 거칠 것</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="연령-확인-시스템">연령 확인 시스템<a href="https://crestudio.github.io/en/vrchat-update/20240712#%EC%97%B0%EB%A0%B9-%ED%99%95%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C" class="hash-link" aria-label="Direct link to 연령 확인 시스템" title="Direct link to 연령 확인 시��스템">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="연령-확인-시스템">연령 확인 시스템<a href="https://crestudio.github.io/en/vrchat-update/20240712#%EC%97%B0%EB%A0%B9-%ED%99%95%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C" class="hash-link" aria-label="Direct link to 연령 확인 시스템" title="Direct link to 연령 확인 시스템">​</a></h2>
 <ul>
 <li>1년 내로 신뢰 할 수 있는 제 3자를 통해 구현 목표</li>
 <li>개인 정보를 잘 관리하고 안전하게 유지하는게 제일 첫 번째 목표</li>
@@ -350,39 +392,5 @@
 </ul>]]></content>
         <category label="VRChat" term="VRChat"/>
         <category label="업데이트" term="업데이트"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자 업데이트 2024.5.30]]></title>
-        <id>https://crestudio.github.io/en/vrchat-update/20240531</id>
-        <link href="https://crestudio.github.io/en/vrchat-update/20240531"/>
-        <updated>2024-05-31T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[VRChat GEAR(오프라인 굿즈) 판매 중]]></summary>
-        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">VRChat GEAR 판매 중</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-gear오프라인-굿즈-판매-중">VRChat GEAR(오프라인 굿즈) 판매 중<a href="https://crestudio.github.io/en/vrchat-update/20240531#vrchat-gear%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%BF%EC%A6%88-%ED%8C%90%EB%A7%A4-%EC%A4%91" class="hash-link" aria-label="Direct link to VRChat GEAR(오프라인 굿즈) 판매 중" title="Direct link to VRChat GEAR(오프라인 굿즈) 판매 중">​</a></h2>
-<ul>
-<li><a href="https://vrchatmerch.com/" target="_blank" rel="noopener noreferrer">https://vrchatmerch.com/</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="히브리어-언어팩-업데이트">히브리어 언어팩 업데이트<a href="https://crestudio.github.io/en/vrchat-update/20240531#%ED%9E%88%EB%B8%8C%EB%A6%AC%EC%96%B4-%EC%96%B8%EC%96%B4%ED%8C%A9-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="hash-link" aria-label="Direct link to 히브리어 언어팩 업데이트" title="Direct link to 히브리어 언어팩 업데이트">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="푹-찌르기-업데이트-예정">푹 찌르기 업데이트 예정<a href="https://crestudio.github.io/en/vrchat-update/20240531#%ED%91%B9-%EC%B0%8C%EB%A5%B4%EA%B8%B0-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%98%88%EC%A0%95" class="hash-link" aria-label="Direct link to 푹 찌르기 업데이트 예정" title="Direct link to 푹 찌르기 업데이트 예정">​</a></h2>
-<ul>
-<li>페이스북 콕 찌르기와 유사</li>
-<li>이모지 또는 커스텀 이모지(VRC+)과 함께 상대방에게 토스트 알림 발송</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="constraint-컴포넌트-개정">Constraint 컴포넌트 개정<a href="https://crestudio.github.io/en/vrchat-update/20240531#constraint-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B0%9C%EC%A0%95" class="hash-link" aria-label="Direct link to Constraint 컴포넌트 개정" title="Direct link to Constraint 컴포넌트 개정">​</a></h2>
-<ul>
-<li>한 개의 컴포넌트에서 모두 처리하던 것에서 각각 기능으로 분리</li>
-<li>Unity 컴포넌트와 유사한 UI 제공</li>
-<li>Unity Constraint -&gt; VRChat Constraint 자동 변환 기능 추가</li>
-<li>월드 기준으로 Constraint 하는 기능 추가</li>
-<li>Constraint 해제시 다시 오프셋 계산하는 기능 추가</li>
-<li>7월 출시 목표</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="아바타-용량-제한-시행-임박">아바타 용량 제한 시행 임박<a href="https://crestudio.github.io/en/vrchat-update/20240531#%EC%95%84%EB%B0%94%ED%83%80-%EC%9A%A9%EB%9F%89-%EC%A0%9C%ED%95%9C-%EC%8B%9C%ED%96%89-%EC%9E%84%EB%B0%95" class="hash-link" aria-label="Direct link to 아바타 용량 제한 시행 임박" title="Direct link to 아바타 용량 제한 시행 임박">​</a></h2>
-<ul>
-<li><a href="https://crestudio.github.io/en/vrchat-update/20240315">자세한 내용</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="여름음악-vrchat-월드아바타-jam-예정">여름음악 VRChat 월드/아바타 Jam 예정<a href="https://crestudio.github.io/en/vrchat-update/20240531#%EC%97%AC%EB%A6%84%EC%9D%8C%EC%95%85-vrchat-%EC%9B%94%EB%93%9C%EC%95%84%EB%B0%94%ED%83%80-jam-%EC%98%88%EC%A0%95" class="hash-link" aria-label="Direct link to 여름음악 VRChat 월드/아바타 Jam 예정" title="Direct link to 여름음악 VRChat 월드/아바타 Jam 예정">​</a></h2>]]></content>
-        <category label="VRChat" term="VRChat"/>
-        <category label="개발자 업데이트" term="개발자 업데이트"/>
     </entry>
 </feed>
