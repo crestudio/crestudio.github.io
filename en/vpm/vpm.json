@@ -1,5 +1,27 @@
 {
   "packages": {
+    "com.vrsuya.animatorview": {
+      "versions": {
+        "1.0.0": {
+          "name": "com.vrsuya.animatorview",
+          "version": "1.0.0",
+          "displayName": "VRSuya - AnimatorView",
+          "description": "Unity Scene Viewport Auxiliary Add-on for Animation",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "Macchiato",
+            "email": "crestudioplus@gmail.com",
+            "url": "https://github.com/crestudio"
+          },
+          "url": "https://github.com/crestudio/AnimatorView/releases/download/1.00/com.vrsuya.animatorview-1.0.0.zip?",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.0.9"
+          }
+        }
+      }
+    },
     "com.vrsuya.avatarrebuilder": {
       "versions": {
         "1.0.0": {

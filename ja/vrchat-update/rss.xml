@@ -4,11 +4,48 @@
         <title>VRSuya Blog</title>
         <link>https://crestudio.github.io/ja/vrchat-update</link>
         <description>VRSuya Blog</description>
-        <lastBuildDate>Thu, 31 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Nov 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ja</language>
         <copyright>Copyright © 2024 VRSuya. All rights reserved.</copyright>
+        <item>
+            <title><![CDATA[개발자 업데이트 2024.11.14]]></title>
+            <link>https://crestudio.github.io/ja/vrchat-update/20241114</link>
+            <guid>https://crestudio.github.io/ja/vrchat-update/20241114</guid>
+            <pubDate>Thu, 14 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[2025년 새해 컨텐츠 모집 중]]></description>
+            <content:encoded><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">프린트(Prints) 기능 추가 / 안드로이드용 빌드 및 테스트 기능</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="クリップボードにコードをコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2025년-새해-컨텐츠-모집-중">2025년 새해 컨텐츠 모집 중<a href="https://crestudio.github.io/ja/vrchat-update/20241114#2025%EB%85%84-%EC%83%88%ED%95%B4-%EC%BB%A8%ED%85%90%EC%B8%A0-%EB%AA%A8%EC%A7%91-%EC%A4%91" class="hash-link" aria-label="2025년 새해 컨텐츠 모집 중 への直接リンク" title="2025년 새해 컨텐츠 모집 중 への直接リンク">​</a></h2>
+<ul>
+<li>포스터, 비디오, 벽에 새겨질 DJ와 같은 로고 같은거</li>
+<li>11월 15일부터 모집 시작 / 12월 6일 마감</li>
+<li><a href="https://docs.google.com/presentation/d/e/2PACX-1vQmtwh6RjI-k0InGi3yIpUt8mBhOh20FJuspRU3D1FERSqb6xlpm5vsgOTT0GcQA512zGlod2NVCV2C/pub?slide=id.p" target="_blank" rel="noopener noreferrer">가이드라인</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="202441p2-마이너-패치-릴리즈">2024.4.1p2 마이너 패치 릴리즈<a href="https://crestudio.github.io/ja/vrchat-update/20241114#202441p2-%EB%A7%88%EC%9D%B4%EB%84%88-%ED%8C%A8%EC%B9%98-%EB%A6%B4%EB%A6%AC%EC%A6%88" class="hash-link" aria-label="2024.4.1p2 마이너 패치 릴리즈 への直接リンク" title="2024.4.1p2 마이너 패치 릴리즈 への直接リンク">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="프린트prints-기능-추가-예정">프린트(Prints) 기능 추가 예정<a href="https://crestudio.github.io/ja/vrchat-update/20241114#%ED%94%84%EB%A6%B0%ED%8A%B8prints-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80-%EC%98%88%EC%A0%95" class="hash-link" aria-label="프린트(Prints) 기능 추가 예정 への直接リンク" title="프린트(Prints) 기능 추가 예정 への直接リンク">​</a></h2>
+<ul>
+<li>VRC+ 구독자 전용, 구독자는 최대 64개, 비구독자는 최대 20개까지 저장 가능</li>
+<li>비구독자는 저장하고 모을 수는 있지만, 만들거나 공유는 불가능</li>
+<li>최대 1080p 해상도</li>
+<li>VRC 사진 찍은 것을 월드에 배치해서 서로 공유하고 볼 수 있는 기능</li>
+<li>언제 찍었는지, 누가 찍었는지, 어디에서 찍었는지, 아니면 메시지 같은 메타데이터도 존재</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="크리에이터스-이코노미-1회성-구매-기능">크리에이터스 이코노미 1회성 구매 기능<a href="https://crestudio.github.io/ja/vrchat-update/20241114#%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0%EC%8A%A4-%EC%9D%B4%EC%BD%94%EB%85%B8%EB%AF%B8-1%ED%9A%8C%EC%84%B1-%EA%B5%AC%EB%A7%A4-%EA%B8%B0%EB%8A%A5" class="hash-link" aria-label="크리에이터스 이코노미 1회성 구매 기능 への直接リンク" title="크리에이터스 이코노미 1회성 구매 기능 への直接リンク">​</a></h2>
+<ul>
+<li>1회성 구매는 판매자가 영구적인 구매이거나 월간 구독처럼 선택할 수 있음</li>
+<li>VRC 메뉴 월드 스토어에서 여러 판매자들의 스토어들을 볼 수 있음</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="영구-유저-데이터-저장소-사용-사례-모집-중">영구 유저 데이터 저장소 사용 사례 모집 중<a href="https://crestudio.github.io/ja/vrchat-update/20241114#%EC%98%81%EA%B5%AC-%EC%9C%A0%EC%A0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EC%9E%A5%EC%86%8C-%EC%82%AC%EC%9A%A9-%EC%82%AC%EB%A1%80-%EB%AA%A8%EC%A7%91-%EC%A4%91" class="hash-link" aria-label="영구 유저 데이터 저장소 사용 사례 ��모집 중 への直接リンク" title="영구 유저 데이터 저장소 사용 사례 모집 중 への直接リンク">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="크리스마스-연휴-스티커-테마-적용-예정">크리스마스 연휴 스티커 테마 적용 예정<a href="https://crestudio.github.io/ja/vrchat-update/20241114#%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%EC%97%B0%ED%9C%B4-%EC%8A%A4%ED%8B%B0%EC%BB%A4-%ED%85%8C%EB%A7%88-%EC%A0%81%EC%9A%A9-%EC%98%88%EC%A0%95" class="hash-link" aria-label="크리스마스 연휴 스티커 테마 적용 예정 への直接リンク" title="크리스마스 연휴 스티커 테마 적용 예정 への直接リンク">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="안드로이드용-빌드--테스트-가능">안드로이드용 빌드 &amp; 테스트 가능<a href="https://crestudio.github.io/ja/vrchat-update/20241114#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%9A%A9-%EB%B9%8C%EB%93%9C--%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B0%80%EB%8A%A5" class="hash-link" aria-label="안드로이드용 빌드 &amp; 테스트 가능 への直接リンク" title="안드로이드용 빌드 &amp; 테스트 가능 への直接リンク">​</a></h2>
+<ul>
+<li>직접 안드로이드 기기로 테스트 빌드를 보내는 기능 추가</li>
+<li><a href="https://creators.vrchat.com/platforms/android/build-test-mobile/" target="_blank" rel="noopener noreferrer">가이드</a></li>
+</ul>]]></content:encoded>
+            <category>VRChat</category>
+            <category>개발자 업데이트</category>
+        </item>
         <item>
             <title><![CDATA[개발자 업데이트 2024.10.31]]></title>
             <link>https://crestudio.github.io/ja/vrchat-update/20241031</link>
@@ -216,7 +253,7 @@
 <li>8월 26일 오후 5시 (태평양 표준시) Ministry 그룹에서 시행</li>
 <li>DJ 이벤트 타임라인 홈페이지 : <a href="https://vrc.tl/" target="_blank" rel="noopener noreferrer">https://vrc.tl/</a></li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="아바타-용량-제한-초과-아바타-업로드-불가">아바타 용량 제한 초과 아바타 업로드 불가<a href="https://crestudio.github.io/ja/vrchat-update/20240823#%EC%95%84%EB%B0%94%ED%83%80-%EC%9A%A9%EB%9F%89-%EC%A0%9C%ED%95%9C-%EC%B4%88%EA%B3%BC-%EC%95%84%EB%B0%94%ED%83%80-%EC%97%85%EB%A1%9C%EB%93%9C-%EB%B6%88%EA%B0%80" class="hash-link" aria-label="아바타 용량 제한 초과 아바타 업로드 불가 への直接リンク" title="아바타 용량 제한 초과 아바타 업로드 불가 への直接リンク">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="아바타-용량-제한-초과-아바타-업로드-불가">아바타 용량 제한 초과 아바타 업로드 불가<a href="https://crestudio.github.io/ja/vrchat-update/20240823#%EC%95%84%EB%B0%94%ED%83%80-%EC%9A%A9%EB%9F%89-%EC%A0%9C%ED%95%9C-%EC%B4%88%EA%B3%BC-%EF%BF%BD%EC%95%84%EB%B0%94%ED%83%80-%EC%97%85%EB%A1%9C%EB%93%9C-%EB%B6%88%EA%B0%80" class="hash-link" aria-label="아바타 용량 제한 초과 아바타 업로드 불가 への直接リンク" title="아바타 용량 제한 초과 아바타 업로드 불가 への直接リンク">​</a></h2>
 <ul>
 <li>다음 주부터 서버 단위에서 초과하는 아바타 업로드 거부</li>
 <li>11월 1일부터 제한을 초과하는 아바타는 VRChat에서 로드 안 됨</li>
@@ -265,7 +302,7 @@
 <li>퀘스트 용으로 업로드된 컨텐츠는 iOS에서 쉐이더 교체를 통해 로드 시도</li>
 <li>로드가 안 되는 컨텐츠는 리포트 요청</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="보안-업데이트">보안 업데이트<a href="https://crestudio.github.io/ja/vrchat-update/20240809#%EB%B3%B4%EC%95%88-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="hash-link" aria-label="보안 업데이트 への直接リンク" title="보안 업데이트 への直接リンク">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="보안-업데이트">보안 업데이트<a href="https://crestudio.github.io/ja/vrchat-update/20240809#%EB%B3%B4%EC%95%88-%EC%97%85%EB%8D%B0%EF%BF%BD%EC%9D%B4%ED%8A%B8" class="hash-link" aria-label="보안 업데이트 への直接リンク" title="보안 업데이트 への直接リンク">​</a></h2>
 <ul>
 <li>리핑 방지용으로 로컬 VRC 인스턴스에서는 본인이 업로드한 아바타, 퍼플릭 아바타만 로드 가능하게 변경</li>
 <li>게임 캐시나 메모리 핵, API를 통해 아바타나 월드를 추출하고 변환한 도구를 사용한 약 2400개 계정을 추가 밴 처리</li>
@@ -284,7 +321,7 @@
 <li>세로 방향 카메라 모드 추가</li>
 <li>초점 위치 보여주는 모드(제브라 패턴)</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="우�크라이나어-추가">우크라이나어 추가<a href="https://crestudio.github.io/ja/vrchat-update/20240809#%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98%EC%96%B4-%EC%B6%94%EA%B0%80" class="hash-link" aria-label="우크라이나어 추가 への直接リンク" title="우크라이나어 추가 への直接リンク">​</a></h2>]]></content:encoded>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="우크라이나어-추가">우크라이나어 추가<a href="https://crestudio.github.io/ja/vrchat-update/20240809#%EC%9A%B0%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%82%98%EC%96%B4-%EC%B6%94%EA%B0%80" class="hash-link" aria-label="우크라이나어 추가 への直接リンク" title="우크라이나어 추가 への直接リンク">​</a></h2>]]></content:encoded>
             <category>VRChat</category>
             <category>개발자 업데이트</category>
         </item>
@@ -300,7 +337,7 @@
 <li>8월 2일까지 접수 중</li>
 <li><a href="https://hello.vrchat.com/blog/summer-music-jam" target="_blank" rel="noopener noreferrer">https://hello.vrchat.com/blog/summer-music-jam</a></li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="아바타-리핑-방지-업데이트">아바타 리핑 방지 업데이트<a href="https://crestudio.github.io/ja/vrchat-update/20240726#%EC%95%84%EB%B0%94%ED%83%80-%EB%A6%AC%ED%95%91-%EB%B0%A9%EC%A7%80-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="hash-link" aria-label="아바타 리핑 방지 업데이트 への直接リンク" title="아바타 리핑 방지 업데이트 への直接リンク">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="아바타-리핑-방지-업데이트">아바타 리핑 방지 업데이트<a href="https://crestudio.github.io/ja/vrchat-update/20240726#%EC%95%84%EB%B0%94%ED%83%80-%EB%A6%AC%ED%95%91-%EB%B0%A9%EC%A7%80-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="hash-link" aria-label="아바타 리핑 방지 업데이트 への直接リンク" title="아바타 리핑 방지 업데이트 へ��の直接リンク">​</a></h2>
 <ul>
 <li>VRChat 게임만 아바타 다운로드 가능하게 변경 (게임 클라이언트 외에는 에셋 파일 취득 불가 개념)</li>
 <li>인스턴스에서 아바타 착용한 사람이 있는 경우에만 (단순히 블루프린트로만 에셋 파일 취득 불가)</li>
@@ -366,7 +403,7 @@
 <li>Unity는 Box 다운스케일링 알고리즘을 사용하는데, 흐릿한 느낌을 줌</li>
 <li>DPID을 UI나 아이콘 등 다양한 곳에 적용 테스트 중</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrc-constraint-컴포넌트-오픈-베타">VRC Constraint 컴포넌트 오픈 베타<a href="https://crestudio.github.io/ja/vrchat-update/20240712#vrc-constraint-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%98%A4%ED%94%88-%EB%B2%A0%ED%83%80" class="hash-link" aria-label="VRC Constraint 컴포넌트 오픈 베타 への直接リンク" title="VRC Constraint 컴포넌트 오픈 베타 への直接リンク">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrc-constraint-컴포넌트-오픈-베타">VRC Constraint 컴포넌트 오픈 베타<a href="https://crestudio.github.io/ja/vrchat-update/20240712#vrc-constraint-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%98%A4%ED%94%88-%EB%B2%A0%ED%83%80" class="hash-link" aria-label="VRC Constraint 컴포넌트 오픈 베타 への直接リンク" title="VRC Constraint 컴포넌트 오픈 �베타 への直接リンク">​</a></h2>
 <ul>
 <li>PC 플랫폼에서 우선 테스트 되며, 추후 모바일 플랫폼에서도 베타를 거칠 것</li>
 </ul>
@@ -377,22 +414,6 @@
 </ul>]]></content:encoded>
             <category>VRChat</category>
             <category>개발자 업데이트</category>
-        </item>
-        <item>
-            <title><![CDATA[VRChat 2024.2.3]]></title>
-            <link>https://crestudio.github.io/ja/vrchat-update/20240620</link>
-            <guid>https://crestudio.github.io/ja/vrchat-update/20240620</guid>
-            <pubDate>Thu, 20 Jun 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[- 푹 찌르기 업데이트 취소]]></description>
-            <content:encoded><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">카메라 1080p으로 되돌아가는 버그 해결</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="クリップボードにコードをコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<ul>
-<li>푹 찌르기 업데이트 취소</li>
-<li>현지화 문구 관련 조정</li>
-<li>소셜 및 월드 인원 수 표시 관련 개선</li>
-<li>카메라 1080p 해상도로 되돌아가는 버그 해결</li>
-</ul>]]></content:encoded>
-            <category>VRChat</category>
-            <category>업데이트</category>
         </item>
     </channel>
 </rss>
