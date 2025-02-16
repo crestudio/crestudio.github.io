@@ -132,6 +132,25 @@
             "com.vrchat.avatars": ">=3.0.9",
             "com.vrsuya.core": ">=0.0.1"
           }
+        },
+        "1.0.6": {
+          "name": "com.vrsuya.avatarrebuilder",
+          "version": "1.0.6",
+          "displayName": "VRSuya - Avatar Rebuilder",
+          "description": "Automatic apply of changed a bone armature and restructure Skinned Mesh Renderer components, Designed for VRSuya Product.",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "Macchiato",
+            "email": "crestudioplus@gmail.com",
+            "url": "https://github.com/crestudio"
+          },
+          "url": "https://github.com/crestudio/AvatarRebuilder/releases/download/1.06/com.vrsuya.avatarrebuilder-1.0.6.zip?",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.0.9",
+            "com.vrsuya.core": ">=0.0.1"
+          }
         }
       }
     },
@@ -186,6 +205,24 @@
             "url": "https://github.com/crestudio"
           },
           "url": "https://github.com/crestudio/AvatarScaler/releases/download/1.02/com.vrsuya.avatarscaler-1.0.2.zip?",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.0.9"
+          }
+        },
+        "1.0.3": {
+          "name": "com.vrsuya.avatarscaler",
+          "version": "1.0.3",
+          "displayName": "VRSuya - AvatarScaler",
+          "description": "VRChat Avatar Automatic Scaling Program",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "Macchiato",
+            "email": "crestudioplus@gmail.com",
+            "url": "https://github.com/crestudio"
+          },
+          "url": "https://github.com/crestudio/AvatarScaler/releases/download/1.03/com.vrsuya.avatarscaler-1.0.3.zip?",
           "repo": "https://server.macchiato.kr/vpm/vpm.json",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.0.9"
@@ -429,6 +466,25 @@
             "com.vrchat.avatars": ">=3.0.9",
             "com.vrsuya.core": ">=0.0.1"
           }
+        },
+        "1.0.13": {
+          "name": "com.vrsuya.avatarsettingupdater",
+          "version": "1.0.13",
+          "displayName": "VRSuya - Avatar Setting Updater",
+          "description": "Automatic install VRSuya assets program for VRChat avatars",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "Macchiato",
+            "email": "crestudioplus@gmail.com",
+            "url": "https://github.com/crestudio"
+          },
+          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.013/com.vrsuya.avatarsettingupdater-1.0.13.zip?",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.0.9",
+            "com.vrsuya.core": ">=0.0.1"
+          }
         }
       }
     },
@@ -487,6 +543,24 @@
             "url": "https://github.com/crestudio"
           },
           "url": "https://github.com/crestudio/VRSuya-Core/releases/download/0.01/com.vrsuya.core-0.0.1.zip?",
+          "repo": "https://server.macchiato.kr/vpm/vpm.json",
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.2.0"
+          }
+        },
+        "0.0.2": {
+          "name": "com.vrsuya.core",
+          "version": "0.0.2",
+          "displayName": "VRSuya - Core",
+          "description": "VRSuya Unity Component Dependency Required Package",
+          "unity": "2019.4",
+          "dependencies": {},
+          "author": {
+            "name": "Macchiato",
+            "email": "crestudioplus@gmail.com",
+            "url": "https://github.com/crestudio"
+          },
+          "url": "https://github.com/crestudio/VRSuya-Core/releases/download/0.02/com.vrsuya.core-0.0.2.zip?",
           "repo": "https://server.macchiato.kr/vpm/vpm.json",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.2.0"
