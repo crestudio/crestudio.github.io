@@ -2,19 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://crestudio.github.io/ja/vrchat-update</id>
     <title>VRSuya Blog</title>
-    <updated>2025-04-10T00:00:00.000Z</updated>
+    <updated>2025-04-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://crestudio.github.io/ja/vrchat-update"/>
     <subtitle>VRSuya Blog</subtitle>
     <icon>https://crestudio.github.io/ja/favicon.ico</icon>
     <rights>Copyright © 2025 VRSuya. All rights reserved.</rights>
     <entry>
+        <title type="html"><![CDATA[개발자 업데이트 2025.4.24]]></title>
+        <id>https://crestudio.github.io/ja/vrchat-update/20250424</id>
+        <link href="https://crestudio.github.io/ja/vrchat-update/20250424"/>
+        <updated>2025-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[프라이드의 달]]></summary>
+        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">Udon API 3개 클래스 추가 / 네트워크 이벤트에 매개변수 지원 / 모바일 툰 쉐이더 제공</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="クリップボードにコードをコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="프라이드의-달">프라이드의 달<a href="https://crestudio.github.io/ja/vrchat-update/20250424#%ED%94%84%EB%9D%BC%EC%9D%B4%EB%93%9C%EC%9D%98-%EB%8B%AC" class="hash-link" aria-label="프라이드의 달 への直接リンク" title="프라이드의 달 への直接リンク">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-세계선-업데이트">VRChat 세계선 업데이트<a href="https://crestudio.github.io/ja/vrchat-update/20250424#vrchat-%EC%84%B8%EA%B3%84%EC%84%A0-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="hash-link" aria-label="VRChat 세계선 업데이트 への直接リンク" title="VRChat 세계선 업데이트 への直接リンク">​</a></h2>
+<ul>
+<li>VRChat 2025.2.1 업데이트는 현재 VRChat 버전과 호환이 안 되는 네트워크 통신을 함 (세계선이 다름)</li>
+<li>4월 29일에 업데이트 배포 예정이나 Google 등 다른 플랫폼도 동시에 업데이트 하기 위해서 5월 1일까지 스케쥴이 지연 될 수 있음</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="udon-api-추가">Udon API 추가<a href="https://crestudio.github.io/ja/vrchat-update/20250424#udon-api-%EC%B6%94%EA%B0%80" class="hash-link" aria-label="Udon API 추가 への直接リンク" title="Udon API 추가 への直接リンク">​</a></h2>
+<ul>
+<li>VRChat 카메라 클래스, 유저 화면과 유저의 카메라에 접근하는 클래스</li>
+<li>VRChat 그래픽 품질 클래스, 유저의 그래픽 품질 설정을 덮어쓰기하는 메소드 제공</li>
+<li>VRChat 네트워크 클래스, 플레이어, 패킷 및 오브젝트의 네트워크 관련 정보를 조회 할 수 있는 메소드 제공</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="플랫폼-별로-업로드할-gameobject-설정">플랫폼 별로 업로드할 GameObject 설정<a href="https://crestudio.github.io/ja/vrchat-update/20250424#%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%B3%84%EB%A1%9C-%EC%97%85%EB%A1%9C%EB%93%9C%ED%95%A0-gameobject-%EC%84%A4%EC%A0%95" class="hash-link" aria-label="플랫폼 별로 업로드할 GameObject 설정 への直接リンク" title="플랫폼 별로 업로드할 GameObject 설정 への直接リンク">​</a></h2>
+<ul>
+<li>한 번에 다중 플랫폼으로 아바타를 업로드를 할 수 있음</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sendcustomnetworkevent에-매개변수-지원">SendCustomNetworkEvent에 매개변수 지원<a href="https://crestudio.github.io/ja/vrchat-update/20250424#sendcustomnetworkevent%EC%97%90-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98-%EC%A7%80%EC%9B%90" class="hash-link" aria-label="SendCustomNetworkEvent에 매개변수 지원 への直接リンク" title="SendCustomNetworkEvent에 매개변수 지원 への直接リンク">​</a></h2>
+<ul>
+<li>Udon이 지원하는 타입의 최대 8개의 매개변수를 포함하여 네트워크 이벤트 전파가 가능</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="모바일용-툰-쉐이더-제공">모바일용 툰 쉐이더 제공<a href="https://crestudio.github.io/ja/vrchat-update/20250424#%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9A%A9-%ED%88%B0-%EC%89%90%EC%9D%B4%EB%8D%94-%EC%A0%9C%EA%B3%B5" class="hash-link" aria-label="모바일용 툰 쉐이더 제공 への直接リンク" title="모바일용 툰 쉐이더 제공 への直接リンク">​</a></h2>
+<ul>
+<li>Toon Standard 쉐이더는 노멀, 디테일, 이미션, 오클루전, 스펙큘러, 림 라이트, 매트캡 등 지원 예정</li>
+<li>투명 기능은 미지원</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ios-빌드-및-테스트">iOS 빌드 및 테스트<a href="https://crestudio.github.io/ja/vrchat-update/20250424#ios-%EB%B9%8C%EB%93%9C-%EB%B0%8F-%ED%85%8C%EC%8A%A4%ED%8A%B8" class="hash-link" aria-label="iOS 빌드 및 테스트 への直接リンク" title="iOS 빌드 및 테스트 への直接リンク">​</a></h2>
+<ul>
+<li>iOS에서 아바타를 만들고 테스트하는 기능이 2025.2.1 클라이언트 및 SDK 3.8.1에서 지원</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="월드-스폰-반경">월드 스폰 반경<a href="https://crestudio.github.io/ja/vrchat-update/20250424#%EC%9B%94%EB%93%9C-%EC%8A%A4%ED%8F%B0-%EB%B0%98%EA%B2%BD" class="hash-link" aria-label="월드 스폰 반경 への直接リンク" title="월드 스폰 반경 への直接リンク">​</a></h2>
+<ul>
+<li>기존에는 어떠한 점의 위치에서 스폰이 되었으나 범위를 설정하여 분산 되어서 스폰 가능</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vcc-업데이트">VCC 업데이트<a href="https://crestudio.github.io/ja/vrchat-update/20250424#vcc-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="hash-link" aria-label="VCC 업데이트 への直接リンク" title="VCC 업데이트 への直接リンク">​</a></h2>
+<ul>
+<li>패키지 설치 속도 향상, 매번 다시 다운로드 받지 않음</li>
+<li>활성화 되지 않은 VCC 리스트 목록은 영향이 안 가도록 변경</li>
+</ul>]]></content>
+        <category label="VRChat" term="VRChat"/>
+        <category label="개발자 업데이트" term="개발자 업데이트"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[개발자 업데이트 2025.4.10]]></title>
         <id>https://crestudio.github.io/ja/vrchat-update/20250410</id>
         <link href="https://crestudio.github.io/ja/vrchat-update/20250410"/>
         <updated>2025-04-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[스페이스 잼 2 우승자 발표 예정]]></summary>
-        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">인게임 프로필 수정 가능 및 지칭 대명사 기능 추가</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="クリップボード�にコードをコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">인게임 프로필 수정 가능 및 지칭 대명사 기능 추가</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="クリップボードにコードをコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="스페이스-잼-2-우승자-발표-예정">스페이스 잼 2 우승자 발표 예정<a href="https://crestudio.github.io/ja/vrchat-update/20250410#%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EC%9E%BC-2-%EC%9A%B0%EC%8A%B9%EC%9E%90-%EB%B0%9C%ED%91%9C-%EC%98%88%EC%A0%95" class="hash-link" aria-label="스페이스 잼 2 우승자 발표 예정 への直接リンク" title="스페이스 잼 2 우승자 발표 예정 への直接リンク">​</a></h2>
 <ul>
 <li>4월 11일 수상자 발표</li>
@@ -30,7 +78,7 @@
 <li>총 구독 기간을 의미하며, 구독이 활성화 되었을 경우에만 보임</li>
 <li>재구독하여도 기간은 저장되며, 직접 선물 합산하여 계산</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="��인게임-프로필-수정-기능">인게임 프로필 수정 기능<a href="https://crestudio.github.io/ja/vrchat-update/20250410#%EC%9D%B8%EA%B2%8C%EC%9E%84-%ED%94%84%EB%A1%9C%ED%95%84-%EC%88%98%EC%A0%95-%EA%B8%B0%EB%8A%A5" class="hash-link" aria-label="인게임 프로필 수정 기능 への直接リンク" title="인게임 프로필 수정 기능 への直接リンク">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="인게임-프로필-수정-기능">인게임 프로필 수정 기능<a href="https://crestudio.github.io/ja/vrchat-update/20250410#%EC%9D%B8%EA%B2%8C%EC%9E%84-%ED%94%84%EB%A1%9C%ED%95%84-%EC%88%98%EC%A0%95-%EA%B8%B0%EB%8A%A5" class="hash-link" aria-label="인게임 프로필 수정 기능 への直接リンク" title="인게임 프로필 수정 기능 への直接リンク">​</a></h2>
 <ul>
 <li>인게임 내에서 프로필이 수정 가능</li>
 <li>지칭 대명사도 추가 가능하며, 네임플레이트 아래에 표시 가능</li>
@@ -144,7 +192,7 @@
 <li>Interactable(상호작용) 속성도 유사한 상태</li>
 <li>향후 업데이트에서 해결하려고 하며, 이로 인한 피드백 받는 중</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="개발자-스트리��밍-재개">개발자 스트리밍 재개<a href="https://crestudio.github.io/ja/vrchat-update/20250227#%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EC%9E%AC%EA%B0%9C" class="hash-link" aria-label="개발자 스트리밍 재개 への直接リンク" title="개발자 스트리밍 재개 への直接リンク">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="개발자-스트리밍-재개">개발자 스트리밍 재개<a href="https://crestudio.github.io/ja/vrchat-update/20250227#%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EC%9E%AC%EA%B0%9C" class="hash-link" aria-label="개발자 스트리밍 재개 への直接リンク" title="개발자 스트리밍 재개 への直接リンク">​</a></h2>
 <ul>
 <li>매주 금요일 오후 2시(PST) <a href="https://www.twitch.tv/vrchat" target="_blank" rel="noopener noreferrer">트위치 채널</a>에서 만날 수 있음</li>
 </ul>
@@ -161,7 +209,7 @@
 <li>고지사항 (아바타에 어떤 에셋을 사용하였는지 표기 및 허가 여부)</li>
 <li>갤러리(구매자들이 보고 참고할 사진 6장, FHD 해상도)</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="소바soba-업데이트-진척사항">소바(Soba) 업데이트 진척사항<a href="https://crestudio.github.io/ja/vrchat-update/20250227#%EC%86%8C%EB%B0%94soba-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%A7%84%EC%B2%99%EC%82%AC%ED%95%AD" class="hash-link" aria-label="소바(Soba) 업데이트 진척사항 への直接リンク" title="소바(Soba) 업데이트 진척사항 への直接リンク">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="소바soba-업데이트-진척사항">소바(Soba) 업데이트 진척사항<a href="https://crestudio.github.io/ja/vrchat-update/20250227#%EC%86%8C%EB%B0%94soba-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%A7%84%EC%B2%99%EC%82%AC%ED%95%AD" class="hash-link" aria-label="��소바(Soba) 업데이트 진척사항 への直接リンク" title="소바(Soba) 업데이트 진척사항 への直接リンク">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="소바에-포함이-확인-된-내용">소바에 포함이 확인 된 내용<a href="https://crestudio.github.io/ja/vrchat-update/20250227#%EC%86%8C%EB%B0%94%EC%97%90-%ED%8F%AC%ED%95%A8%EC%9D%B4-%ED%99%95%EC%9D%B8-%EB%90%9C-%EB%82%B4%EC%9A%A9" class="hash-link" aria-label="소바에 포함이 확인 된 내용 への直接リンク" title="소바에 포함이 확인 된 내용 への直接リンク">​</a></h3>
 <ul>
 <li>사용자 정의 추상(Abstract) 클래스, 인터페이스(Interface) 클래스, 정적(Static) 클래스</li>
@@ -185,12 +233,12 @@
         <link href="https://crestudio.github.io/ja/vrchat-update/20250213"/>
         <updated>2025-02-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[2025.1.2 오픈 베타 릴리즈]]></summary>
-        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">카메라 돌리 기능 및 VRC 아바타 최적화 기능</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="クリップボードにコー��ドをコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">카메라 돌리 기능 및 VRC 아바타 최적화 기능</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="クリップボードにコードをコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="202512-오픈-베타-릴리즈">2025.1.2 오픈 베타 릴리즈<a href="https://crestudio.github.io/ja/vrchat-update/20250213#202512-%EC%98%A4%ED%94%88-%EB%B2%A0%ED%83%80-%EB%A6%B4%EB%A6%AC%EC%A6%88" class="hash-link" aria-label="2025.1.2 오픈 베타 릴리즈 への直接リンク" title="2025.1.2 오픈 베타 릴리즈 への直接リンク">​</a></h2>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="2025년-2월-14일-오후-2시pst-스트리밍">2025년 2월 14일 오후 2시(PST) 스트리밍<a href="https://crestudio.github.io/ja/vrchat-update/20250213#2025%EB%85%84-2%EC%9B%94-14%EC%9D%BC-%EC%98%A4%ED%9B%84-2%EC%8B%9Cpst-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D" class="hash-link" aria-label="2025년 2월 14일 오후 2시(PST) 스트리밍 への直接リンク" title="2025년 2월 14일 오후 2시(PST) 스트리밍 への直接リンク">​</a></h2>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="다음-잼jam-경연-준비-중">다음 잼(Jam; 경연) 준비 중<a href="https://crestudio.github.io/ja/vrchat-update/20250213#%EB%8B%A4%EC%9D%8C-%EC%9E%BCjam-%EA%B2%BD%EC%97%B0-%EC%A4%80%EB%B9%84-%EC%A4%91" class="hash-link" aria-label="다음 잼(Jam; 경연) 준비 중 への直接リンク" title="다음 잼(Jam; 경연) 준비 중 への直接リンク">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="새해-인사-때-처리되는-음성-패킷-그래프">새해 인사 때 처리되는 음성 패킷 그래프<a href="https://crestudio.github.io/ja/vrchat-update/20250213#%EC%83%88%ED%95%B4-%EC%9D%B8%EC%82%AC-%EB%95%8C-%EC%B2%98%EB%A6%AC%EB%90%98%EB%8A%94-%EC%9D%8C%EC%84%B1-%ED%8C%A8%ED%82%B7-%EA%B7%B8%EB%9E%98%ED%94%84" class="hash-link" aria-label="새해 인사 때 처리되는 음성 패킷 그래프 への直接リンク" title="새해 인사 때 처리되는 음성 패킷 그래프 への直接リンク">​</a></h2>
-<p><img decoding="async" loading="lazy" alt="그��래프" src="https://crestudio.github.io/ja/assets/images/7375B107DC311E3F52F90FD9035AE7E896097154-c1927250b8cc365aed2f8b7703b66d42.png" width="1702" height="267" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="새해-인사-때-처리되는-음성-패킷-그래프">새해 인사 때 처리되는 음성 패킷 그래프<a href="https://crestudio.github.io/ja/vrchat-update/20250213#%EC%83%88%ED%95%B4-%EC%9D%B8%EC%82%AC-%EB%95%8C-%EC%B2%98%EB%A6%AC%EB%90%98%EB%8A%94-%EC%9D%8C%EC%84%B1-%ED%8C%A8%ED%82%B7-%EA%B7%B8%EB%9E%98%ED%94%84" class="hash-link" aria-label="새해 인사 때 처리되는 음성 패킷 그래프 への直接リンク" title="새��해 인사 때 처리되는 음성 패킷 그래프 への直接リンク">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="그래프" src="https://crestudio.github.io/ja/assets/images/7375B107DC311E3F52F90FD9035AE7E896097154-c1927250b8cc365aed2f8b7703b66d42.png" width="1702" height="267" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="카메라-돌리-기능">카메라 돌리 기능<a href="https://crestudio.github.io/ja/vrchat-update/20250213#%EC%B9%B4%EB%A9%94%EB%9D%BC-%EB%8F%8C%EB%A6%AC-%EA%B8%B0%EB%8A%A5" class="hash-link" aria-label="카메라 돌리 기능 への直接リンク" title="카메라 돌리 기능 への直接リンク">​</a></h2>
 <ul>
 <li>미리 사전 정의된 경로로 카메라가 움직이고 회전하는 기능</li>
@@ -207,7 +255,7 @@
 <li>T포즈에서 안 움직이는 등 많은 버그 및 개선 적용</li>
 <li>새로 생성해야 적용 됨</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="android-모바일에서-very-poor-아바타-표시">Android 모바일에서 Very Poor 아바타 표시<a href="https://crestudio.github.io/ja/vrchat-update/20250213#android-%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%97%90%EC%84%9C-very-poor-%EC%95%84%EB%B0%94%ED%83%80-%ED%91%9C%EC%8B%9C" class="hash-link" aria-label="Android 모바일에서 Very Poor 아바타 표시 への直接リ�ンク" title="Android 모바일에서 Very Poor 아바타 표시 への直接リンク">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="android-모바일에서-very-poor-아바타-표시">Android 모바일에서 Very Poor 아바타 표시<a href="https://crestudio.github.io/ja/vrchat-update/20250213#android-%EB%AA%A8%EF%BF%BD%EF%BF%BD%EB%B0%94%EC%9D%BC%EC%97%90%EC%84%9C-very-poor-%EC%95%84%EB%B0%94%ED%83%80-%ED%91%9C%EC%8B%9C" class="hash-link" aria-label="Android 모바일에서 Very Poor 아바타 표시 への直接リンク" title="Android 모바일에서 Very Poor 아바타 표시 への直接リンク">​</a></h2>
 <ul>
 <li>최대 4개 (본인 포함) 표시</li>
 <li>4명 이상 표시 시도하면 순환적으로 처음으로 표시하기로한 아바타가 안전 모드로 변경</li>
@@ -234,7 +282,7 @@
         <link href="https://crestudio.github.io/ja/vrchat-update/20250130"/>
         <updated>2025-01-30T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[VRC+ 구독자는 연령 확인 기능 사용 가능]]></summary>
-        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">VRC+ 연령 확인 및 VRC 인터페이스 업데이트</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="クリップボードにコード��をコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">VRC+ 연령 확인 및 VRC 인터페이스 업데이트</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="クリップボードにコードをコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrc-구독자는-연령-확인-기능-사용-가능">VRC+ 구독자는 연령 확인 기능 사용 가능<a href="https://crestudio.github.io/ja/vrchat-update/20250130#vrc-%EA%B5%AC%EB%8F%85%EC%9E%90%EB%8A%94-%EC%97%B0%EB%A0%B9-%ED%99%95%EC%9D%B8-%EA%B8%B0%EB%8A%A5-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5" class="hash-link" aria-label="VRC+ 구독자는 연령 확인 기능 사용 가능 への直接リンク" title="VRC+ 구독자는 연령 확인 기능 사용 가능 への直接リンク">​</a></h2>
 <ul>
 <li>Persona 서비스를 이용해서 본인 연령 인증 받을 수 있음</li>
@@ -245,7 +293,7 @@
 <li>VIVE에서 제작하는 Spotlight Sunday 에 출품할 아바타를 모집 중</li>
 <li>제출을 위해서는 VIVERSE Discord 가입 후 Madeline(@syafire)에게 제출</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="다음-잼jam-경연-준비-중">다음 잼(Jam; 경연) 준비 중<a href="https://crestudio.github.io/ja/vrchat-update/20250130#%EB%8B%A4%EC%9D%8C-%EC%9E%BCjam-%EA%B2%BD%EC%97%B0-%EC%A4%80%EB%B9%84-%EC%A4%91" class="hash-link" aria-label="다음 잼(Jam; 경연) 준비 중 への直接リンク" title="다음 잼(Jam; 경연) 준비 중 へ�の直接リンク">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="다음-잼jam-경연-준비-중">다음 잼(Jam; 경연) 준비 중<a href="https://crestudio.github.io/ja/vrchat-update/20250130#%EB%8B%A4%EC%9D%8C-%EC%9E%BCjam-%EA%B2%BD%EC%97%B0-%EC%A4%80%EB%B9%84-%EC%A4%91" class="hash-link" aria-label="다음 잼(Jam; 경연) 준비 중 への直接リンク" title="다음 잼(Jam; 경연) 준비 중 への直接リンク">​</a></h2>
 <ul>
 <li>2월 24일에 발표</li>
 </ul>
@@ -269,7 +317,7 @@
         <link href="https://crestudio.github.io/ja/vrchat-update/20250116"/>
         <updated>2025-01-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[다음 잼(Jam; 경연) 준비 중]]></summary>
-        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">SDK2 컨텐츠 신규 업로드 중단 및 크리에이터 쇼케이스 모집 중</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="クリ��ップボードにコードをコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">SDK2 컨텐츠 신규 업로드 중단 및 크리에이터 쇼케이스 모집 중</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="クリップボードにコードをコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="다음-잼jam-경연-준비-중">다음 잼(Jam; 경연) 준비 중<a href="https://crestudio.github.io/ja/vrchat-update/20250116#%EB%8B%A4%EC%9D%8C-%EC%9E%BCjam-%EA%B2%BD%EC%97%B0-%EC%A4%80%EB%B9%84-%EC%A4%91" class="hash-link" aria-label="다음 잼(Jam; 경연) 준비 중 への直接リンク" title="다음 잼(Jam; 경연) 준비 중 への直接リンク">​</a></h2>
 <ul>
 <li>2월 24일에 발표</li>
@@ -304,7 +352,7 @@
         <link href="https://crestudio.github.io/ja/vrchat-update/20241212"/>
         <updated>2024-12-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[새해가 오고 있습니다]]></summary>
-        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">연령 확인에 대한 자세한 내용 / 연말 정산</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="クリップボードにコー��ドをコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">연령 확인에 대한 자세한 내용 / 연말 정산</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="クリップボードにコードをコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="새해가-오고-있습니다">새해가 오고 있습니다<a href="https://crestudio.github.io/ja/vrchat-update/20241212#%EC%83%88%ED%95%B4%EA%B0%80-%EC%98%A4%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4" class="hash-link" aria-label="새해가 오고 있습니다 への直接リンク" title="새해가 오고 있습니다 への直接リンク">​</a></h2>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="202442-릴리즈">2024.4.2 릴리즈<a href="https://crestudio.github.io/ja/vrchat-update/20241212#202442-%EB%A6%B4%EB%A6%AC%EC%A6%88" class="hash-link" aria-label="2024.4.2 릴리즈 への直接リンク" title="2024.4.2 릴리즈 への直接リンク">​</a></h2>
 <ul>
@@ -322,7 +370,7 @@
 <li>인증에 비용이 들기 때문에 일부 신청한 그룹부터 적용 시작</li>
 <li>컨텐츠 필터링에도 적용 생각 중</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="크리에이터-로드맵-업데이트">크리에이터 로드맵 업데이트<a href="https://crestudio.github.io/ja/vrchat-update/20241212#%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%EF%BF%BD%EF%BF%BD%ED%84%B0-%EB%A1%9C%EB%93%9C%EB%A7%B5-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="hash-link" aria-label="크리에이터 로드맵 업데이트 への直接リンク" title="크리에이터 로드맵 업데이트 への直接リンク">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="크리에이터-로드맵-업데이트">크리에이터 로드맵 업데이트<a href="https://crestudio.github.io/ja/vrchat-update/20241212#%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0-%EB%A1%9C%EB%93%9C%EB%A7%B5-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="hash-link" aria-label="크리에이터 로드맵 업데이트 への直接リンク" title="크리에이터 로드맵 업데이트 への直接リンク">​</a></h2>
 <ul>
 <li><a href="https://ask.vrchat.com/t/vrchat-creators-roadmap-november-2024/28124" target="_blank" rel="noopener noreferrer">링크</a></li>
 </ul>
@@ -343,7 +391,7 @@
         <link href="https://crestudio.github.io/ja/vrchat-update/20241125"/>
         <updated>2024-11-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[크리에이터 로드맵 업데이트]]></summary>
-        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">Soba 언어 개발 중 / 영구 유저 데이터 저장소 및 1회성 구매 오픈</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="ク�リップボードにコードをコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">Soba 언어 개발 중 / 영구 유저 데이터 저장소 및 1회성 구매 오픈</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="クリップボードにコードをコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="크리에이터-로드맵-업데이트">크리에이터 로드맵 업데이트<a href="https://crestudio.github.io/ja/vrchat-update/20241125#%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0-%EB%A1%9C%EB%93%9C%EB%A7%B5-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="hash-link" aria-label="크리에이터 로드맵 업데이트 への直接リンク" title="크리에이터 로드맵 업데이트 への直接リンク">​</a></h2>
 <ul>
 <li><a href="https://ask.vrchat.com/t/vrchat-creators-roadmap-november-2024/28124" target="_blank" rel="noopener noreferrer">https://ask.vrchat.com/t/vrchat-creators-roadmap-november-2024/28124</a></li>
@@ -368,43 +416,6 @@
 <li>UdonSharp, Udon Graph, Soba는 혼용으로 사용 가능</li>
 <li>기존 월드도 그대로 사용 가능</li>
 <li>Soba로 이전하는 가이드 제공할 것</li>
-</ul>]]></content>
-        <category label="VRChat" term="VRChat"/>
-        <category label="개발자 업데이트" term="개발자 업데이트"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자 업데이트 2024.11.14]]></title>
-        <id>https://crestudio.github.io/ja/vrchat-update/20241114</id>
-        <link href="https://crestudio.github.io/ja/vrchat-update/20241114"/>
-        <updated>2024-11-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2025년 새해 컨텐츠 모집 중]]></summary>
-        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">프린트(Prints) 기능 추가 / 안드로이드용 빌드 및 테스트 기능</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="クリ��ップボードにコードをコピー" title="コピー" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2025년-새해-컨텐츠-모집-중">2025년 새해 컨텐츠 모집 중<a href="https://crestudio.github.io/ja/vrchat-update/20241114#2025%EB%85%84-%EC%83%88%ED%95%B4-%EC%BB%A8%ED%85%90%EC%B8%A0-%EB%AA%A8%EC%A7%91-%EC%A4%91" class="hash-link" aria-label="2025년 새해 컨텐츠 모집 중 への直接リンク" title="2025년 새해 컨텐츠 모집 중 への直接リンク">​</a></h2>
-<ul>
-<li>포스터, 비디오, 벽에 새겨질 DJ와 같은 로고 같은거</li>
-<li>11월 15일부터 모집 시작 / 12월 6일 마감</li>
-<li><a href="https://docs.google.com/presentation/d/e/2PACX-1vQmtwh6RjI-k0InGi3yIpUt8mBhOh20FJuspRU3D1FERSqb6xlpm5vsgOTT0GcQA512zGlod2NVCV2C/pub?slide=id.p" target="_blank" rel="noopener noreferrer">가이드라인</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="202441p2-마이너-패치-릴리즈">2024.4.1p2 마이너 패치 릴리즈<a href="https://crestudio.github.io/ja/vrchat-update/20241114#202441p2-%EB%A7%88%EC%9D%B4%EB%84%88-%ED%8C%A8%EC%B9%98-%EB%A6%B4%EB%A6%AC%EC%A6%88" class="hash-link" aria-label="2024.4.1p2 마이너 패치 릴리즈 への直接リンク" title="2024.4.1p2 마이너 패치 릴리즈 への直接リンク">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="프린트prints-기능-추가-예정">프린트(Prints) 기능 추가 예정<a href="https://crestudio.github.io/ja/vrchat-update/20241114#%ED%94%84%EB%A6%B0%ED%8A%B8prints-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80-%EC%98%88%EC%A0%95" class="hash-link" aria-label="프린트(Prints) 기능 추가 예정 への直接リンク" title="프린트(Prints) 기능 추가 예정 への直接リンク">​</a></h2>
-<ul>
-<li>VRC+ 구독자 전용, 구독자는 최대 64개, 비구독자는 최대 20개까지 저장 가능</li>
-<li>비구독자는 저장하고 모을 수는 있지만, 만들거나 공유는 불가능</li>
-<li>최대 1080p 해상도</li>
-<li>VRC 사진 찍은 것을 월드에 배치해서 서로 공유하고 볼 수 있는 기능</li>
-<li>언제 찍었는지, 누가 찍었는지, 어디에서 찍었는지, 아니면 메시지 같은 메타데이터도 존재</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="크리에이터스-이코노미-1회성-구매-기능">크리에이터스 이코노미 1회성 구매 기능<a href="https://crestudio.github.io/ja/vrchat-update/20241114#%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0%EC%8A%A4-%EC%9D%B4%EC%BD%94%EB%85%B8%EB%AF%B8-1%ED%9A%8C%EC%84%B1-%EA%B5%AC%EB%A7%A4-%EA%B8%B0%EB%8A%A5" class="hash-link" aria-label="크리에이터스 이코노미 1회성 구매 기능 への直接リンク" title="크리에이터스 이코노미 1회성 구매 기능 への直接リンク">​</a></h2>
-<ul>
-<li>1회성 구매는 판매자가 영구적인 구매이거나 월간 구독처럼 선택할 수 있음</li>
-<li>VRC 메뉴 월드 스토어에서 여러 판매자들의 스토어들을 볼 수 있음</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="영구-유저-데이터-저장소-사용-사례-모집-중">영구 유저 데이터 저장소 사용 사례 모집 중<a href="https://crestudio.github.io/ja/vrchat-update/20241114#%EC%98%81%EA%B5%AC-%EC%9C%A0%EC%A0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EC%9E%A5%EC%86%8C-%EC%82%AC%EC%9A%A9-%EC%82%AC%EB%A1%80-%EB%AA%A8%EC%A7%91-%EC%A4%91" class="hash-link" aria-label="영구 유저 데이터 저장소 사용 사례 모집 중 への直接リンク" title="영구 유저 데이터 저장소 사용 사례 모집 중 への直接リンク">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="크리스마스-연휴-스티커-테마-적용-예정">크리스마스 연휴 스티커 테마 적용 예정<a href="https://crestudio.github.io/ja/vrchat-update/20241114#%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4-%EC%97%B0%ED%9C%B4-%EC%8A%A4%ED%8B%B0%EC%BB%A4-%ED%85%8C%EB%A7%88-%EC%A0%81%EC%9A%A9-%EC%98%88%EC%A0%95" class="hash-link" aria-label="크리스마스 연휴 스티커 테마 적용 예정 への直接リンク" title="크리스마스 연휴 스티커 테마 적용 예정 への直接リンク">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="안드로이드용-빌드--테스트-가능">안드로이드용 빌드 &amp; 테스트 가능<a href="https://crestudio.github.io/ja/vrchat-update/20241114#%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%9A%A9-%EB%B9%8C%EB%93%9C--%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B0%80%EB%8A%A5" class="hash-link" aria-label="안드로이드용 빌드 &amp; 테스트 가능 への直接リンク" title="안드로이드용 빌드 &amp; 테스트 가능 への直接リンク">​</a></h2>
-<ul>
-<li>직접 안드로이드 기기로 테스트 빌드를 보내는 기능 추가</li>
-<li><a href="https://creators.vrchat.com/platforms/android/build-test-mobile/" target="_blank" rel="noopener noreferrer">가이드</a></li>
 </ul>]]></content>
         <category label="VRChat" term="VRChat"/>
         <category label="개발자 업데이트" term="개발자 업데이트"/>
