@@ -23,7 +23,7 @@
 <hr>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="서론">서론<a href="https://crestudio.github.io/blog/modular_avatar_guide#%EC%84%9C%EB%A1%A0" class="hash-link" aria-label="서론에 대한 직접 링크" title="서론에 대한 직접 링크">​</a></h2>
 <p>VRChat 아바타에 옷을 입히려면 아바타와 옷 모델을 블렌더에서 합쳐서 새로운 모델 파일을 만드는게 가장 기본적이고 제일 좋은 방법임, 하지만 블렌더는 어렵고 유니티에서 어떻게 옷을 입힐 방법이 없을까 사람들이 연구하다가 방법을 발견함</p>
-<p><strong>아바타의 휴머노이드 본에다가 옷의 본을 똑같이 매칭</strong>해서 넣어주면 블렌더를 거치지 않고도 옷을 입힐 수 있다는 사실을 발견한거임, 그래서 본을 직접 일일이 넣기는 귀찮으니까 <a href="https://unsafelink.com/https://kurotori.booth.pm/items/1564788" target="_blank" rel="noopener noreferrer">자동으로 본을 맞춰서 넣어주는 유니티 스크립트</a>가 나오고 그랬었음, 하지만 이런 노가다를 하면 문제가 있으니 바로 의상을 다시 빼거나 뭔가 변경을 하려고 하면 아바타의 본 하위에 들어가서 다시 다 빼야 하고, 옷을 많이 넣었으면 너무 많은 본들이 있어서 뭐가 뭔지 몰라서 헷갈리기 시작한 거임</p>
+<p><strong>아바타의 휴머노이드 본에다가 옷의 본을 똑같이 매칭</strong>해서 넣어주면 블렌더를 거치지 않고도 옷을 입힐 수 있다는 사실을 발견한거임, 그래서 본을 직접 일일이 넣기는 귀찮으니까 <a href="https://kurotori.booth.pm/items/1564788" target="_blank" rel="noopener noreferrer">자동으로 본을 맞춰서 넣어주는 유니티 스크립트</a>가 나오고 그랬었음, 하지만 이런 노가다를 하면 문제가 있으니 바로 의상을 다시 빼거나 뭔가 변경을 하려고 하면 아바타의 본 하위에 들어가서 다시 다 빼야 하고, 옷을 많이 넣었으면 너무 많은 본들이 있어서 뭐가 뭔지 몰라서 헷갈리기 시작한 거임</p>
 <p>실제 세상에서는 옷은 단순히 입고 벗으면 되는데 3D 아바타는 옷을 입히는데 한 세월 걸리니까, 어떻게 하면 단순하게 옷을 입힐 수 있을까 하다가 <a href="https://twitter.com/bd_j" target="_blank" rel="noopener noreferrer">일본의 개발자</a>가 <a href="https://modular-avatar.nadena.dev/" target="_blank" rel="noopener noreferrer">모듈러 아바타</a>를 만들어서 무료로 배포하고 현재까지 계속 업데이트 해 주고 있음</p>
 <p>그래서 이번에는 모듈러 아바타 애드온에서 자주 사용하는 기능들을 알아보자</p>
 <br>
