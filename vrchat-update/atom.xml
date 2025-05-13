@@ -10,33 +10,33 @@
     <rights>Copyright © 2025 VRSuya. All rights reserved.</rights>
     <entry>
         <title type="html"><![CDATA[개발자 업데이트 2025.5.8]]></title>
-        <id>https://crestudio.github.io/vrchat-update/20250424</id>
-        <link href="https://crestudio.github.io/vrchat-update/20250424"/>
+        <id>https://crestudio.github.io/vrchat-update/20250508</id>
+        <link href="https://crestudio.github.io/vrchat-update/20250508"/>
         <updated>2025-05-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[VRChat Pride 제출 시작]]></summary>
         <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">VRChat 및 SDK 베타 릴리즈 / Persistence 데이터 손실</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="클립보드에 코드 복사" title="복사" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-pride-제출-시작">VRChat Pride 제출 시작<a href="https://crestudio.github.io/vrchat-update/20250424#vrchat-pride-%EC%A0%9C%EC%B6%9C-%EC%8B%9C%EC%9E%91" class="hash-link" aria-label="VRChat Pride 제출 시작에 대한 직접 링크" title="VRChat Pride 제출 시작에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-pride-제출-시작">VRChat Pride 제출 시작<a href="https://crestudio.github.io/vrchat-update/20250508#vrchat-pride-%EC%A0%9C%EC%B6%9C-%EC%8B%9C%EC%9E%91" class="hash-link" aria-label="VRChat Pride 제출 시작에 대한 직접 링크" title="VRChat Pride 제출 시작에 대한 직접 링크">​</a></h2>
 <ul>
 <li>2025년 5월 30일 오후 12시(PST) 마감</li>
 <li><a href="https://docs.google.com/presentation/d/1xT84ES2ouMHcSRN9TmCYc7Z5nYNnmd4wZ8DrFZKvZKE/edit#slide=id.p" target="_blank" rel="noopener noreferrer">가이드라인</a></li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-가이드라인-개편-중">VRChat 가이드라인 개편 중<a href="https://crestudio.github.io/vrchat-update/20250424#vrchat-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EA%B0%9C%ED%8E%B8-%EC%A4%91" class="hash-link" aria-label="VRChat 가이드라인 개편 중에 대한 직접 링크" title="VRChat 가이드라인 개편 중에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-가이드라인-개편-중">VRChat 가이드라인 개편 중<a href="https://crestudio.github.io/vrchat-update/20250508#vrchat-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EA%B0%9C%ED%8E%B8-%EC%A4%91" class="hash-link" aria-label="VRChat 가이드라인 개편 중에 대한 직접 링크" title="VRChat 가이드라인 개편 중에 대한 직접 링크">​</a></h2>
 <ul>
 <li>VRChat이 다양한 기능이 많아지고 복잡해지면서 신규 플레이어들이 배우기 어려워졌음</li>
 <li>1-2분 내외로 플레이어들이 궁금해 할 내용들을 다룰 예정</li>
 <li><a href="https://www.youtube.com/@vrchat_learning_channel" target="_blank" rel="noopener noreferrer">VRChat YouTube 채널</a></li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-202521-릴리즈">VRChat 2025.2.1 릴리즈<a href="https://crestudio.github.io/vrchat-update/20250424#vrchat-202521-%EB%A6%B4%EB%A6%AC%EC%A6%88" class="hash-link" aria-label="VRChat 2025.2.1 릴리즈에 대한 직접 링크" title="VRChat 2025.2.1 릴리즈에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-202521-릴리즈">VRChat 2025.2.1 릴리즈<a href="https://crestudio.github.io/vrchat-update/20250508#vrchat-202521-%EB%A6%B4%EB%A6%AC%EC%A6%88" class="hash-link" aria-label="VRChat 2025.2.1 릴리즈에 대한 직접 링크" title="VRChat 2025.2.1 릴리즈에 대한 직접 링크">​</a></h2>
 <ul>
 <li>대명사 추가</li>
 <li>모바일 번역 추가</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrcsdk-베타-릴리즈">VRCSDK 베타 릴리즈<a href="https://crestudio.github.io/vrchat-update/20250424#vrcsdk-%EB%B2%A0%ED%83%80-%EB%A6%B4%EB%A6%AC%EC%A6%88" class="hash-link" aria-label="VRCSDK 베타 릴리즈에 대한 직접 링크" title="VRCSDK 베타 릴리즈에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrcsdk-베타-릴리즈">VRCSDK 베타 릴리즈<a href="https://crestudio.github.io/vrchat-update/20250508#vrcsdk-%EB%B2%A0%ED%83%80-%EB%A6%B4%EB%A6%AC%EC%A6%88" class="hash-link" aria-label="VRCSDK 베타 릴리즈에 대한 직접 링크" title="VRCSDK 베타 릴리즈에 대한 직접 링크">​</a></h2>
 <ul>
 <li>SendCustomNetworkEvent에 매개변수 지원</li>
 <li>Udon API 추가</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="202521-패치-버그로-persistence-데이터-손실-보고">2025.2.1 패치 버그로 Persistence 데이터 손실 보고<a href="https://crestudio.github.io/vrchat-update/20250424#202521-%ED%8C%A8%EC%B9%98-%EB%B2%84%EA%B7%B8%EB%A1%9C-persistence-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%86%90%EC%8B%A4-%EB%B3%B4%EA%B3%A0" class="hash-link" aria-label="2025.2.1 패치 버그로 Persistence 데이터 손실 보고에 대한 직접 링크" title="2025.2.1 패치 버그로 Persistence 데이터 손실 보고에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="202521-패치-버그로-persistence-데이터-손실-보고">2025.2.1 패치 버그로 Persistence 데이터 손실 보고<a href="https://crestudio.github.io/vrchat-update/20250508#202521-%ED%8C%A8%EC%B9%98-%EB%B2%84%EA%B7%B8%EB%A1%9C-persistence-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%86%90%EC%8B%A4-%EB%B3%B4%EA%B3%A0" class="hash-link" aria-label="2025.2.1 패치 버그로 Persistence 데이터 손실 보고에 대한 직접 링크" title="2025.2.1 패치 버그로 Persistence 데이터 손실 보고에 대한 직접 링크">​</a></h2>
 <ul>
 <li>VRChat 2025.2.1 버그로 월드의 Persistence 데이터가 손실 될 수 있어서 2025.2.1p1 패치가 배포됨</li>
 <li>VRCUrl, VRCUrl[], string[] 타입의 Persistence 데이터 불러오기 실패하여 기본값으로 덮어쓰는 버그</li>
@@ -52,34 +52,44 @@
         <link href="https://crestudio.github.io/vrchat-update/20250424"/>
         <updated>2025-04-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[프라이드의 달]]></summary>
-        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">VRChat 및 SDK 베타 릴리즈 / Persistence 데이터 손실</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="클립보드에 코드 복사" title="복사" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-pride-제출-시작">VRChat Pride 제출 시작<a href="https://crestudio.github.io/vrchat-update/20250424#vrchat-pride-%EC%A0%9C%EC%B6%9C-%EC%8B%9C%EC%9E%91" class="hash-link" aria-label="VRChat Pride 제출 시작에 대한 직접 링크" title="VRChat Pride 제출 시작에 대한 직접 링크">​</a></h2>
+        <content type="html"><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">Udon API 3개 클래스 추가 / 네트워크 이벤트에 매개변수 지원 / 모바일 툰 쉐이더 제공</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="클립보드에 코드 복사" title="복사" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="프라이드의-달">프라이드의 달<a href="https://crestudio.github.io/vrchat-update/20250424#%ED%94%84%EB%9D%BC%EC%9D%B4%EB%93%9C%EC%9D%98-%EB%8B%AC" class="hash-link" aria-label="프라이드의 달에 대한 직접 링크" title="프라이드의 달에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-세계선-업데이트">VRChat 세계선 업데이트<a href="https://crestudio.github.io/vrchat-update/20250424#vrchat-%EC%84%B8%EA%B3%84%EC%84%A0-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="hash-link" aria-label="VRChat 세계선 업데이트에 대한 직접 링크" title="VRChat 세계선 업데이트에 대한 직접 링크">​</a></h2>
 <ul>
-<li>2025년 5월 30일 오후 12시(PST) 마감</li>
-<li><a href="https://docs.google.com/presentation/d/1xT84ES2ouMHcSRN9TmCYc7Z5nYNnmd4wZ8DrFZKvZKE/edit#slide=id.p" target="_blank" rel="noopener noreferrer">가이드라인</a></li>
+<li>VRChat 2025.2.1 업데이트는 현재 VRChat 버전과 호환이 안 되는 네트워크 통신을 함 (세계선이 다름)</li>
+<li>4월 29일에 업데이트 배포 예정이나 Google 등 다른 플랫폼도 동시에 업데이트 하기 위해서 5월 1일까지 스케쥴이 지연 될 수 있음</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-가이드라인-개편-중">VRChat 가이드라인 개편 중<a href="https://crestudio.github.io/vrchat-update/20250424#vrchat-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EA%B0%9C%ED%8E%B8-%EC%A4%91" class="hash-link" aria-label="VRChat 가이드라인 개편 중에 대한 직접 링크" title="VRChat 가이드라인 개편 중에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="udon-api-추가">Udon API 추가<a href="https://crestudio.github.io/vrchat-update/20250424#udon-api-%EC%B6%94%EA%B0%80" class="hash-link" aria-label="Udon API 추가에 대한 직접 링크" title="Udon API 추가에 대한 직접 링크">​</a></h2>
 <ul>
-<li>VRChat이 다양한 기능이 많아지고 복잡해지면서 신규 플레이어들이 배우기 어려워졌음</li>
-<li>1-2분 내외로 플레이어들이 궁금해 할 내용들을 다룰 예정</li>
-<li><a href="https://www.youtube.com/@vrchat_learning_channel" target="_blank" rel="noopener noreferrer">VRChat YouTube 채널</a></li>
+<li>VRChat 카메라 클래스, 유저 화면과 유저의 카메라에 접근하는 클래스</li>
+<li>VRChat 그래픽 품질 클래스, 유저의 그래픽 품질 설정을 덮어쓰기하는 메소드 제공</li>
+<li>VRChat 네트워크 클래스, 플레이어, 패킷 및 오브젝트의 네트워크 관련 정보를 조회 할 수 있는 메소드 제공</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-202521-릴리즈">VRChat 2025.2.1 릴리즈<a href="https://crestudio.github.io/vrchat-update/20250424#vrchat-202521-%EB%A6%B4%EB%A6%AC%EC%A6%88" class="hash-link" aria-label="VRChat 2025.2.1 릴리즈에 대한 직접 링크" title="VRChat 2025.2.1 릴리즈에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="플랫폼-별로-업로드할-gameobject-설정">플랫폼 별로 업로드할 GameObject 설정<a href="https://crestudio.github.io/vrchat-update/20250424#%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%B3%84%EB%A1%9C-%EC%97%85%EB%A1%9C%EB%93%9C%ED%95%A0-gameobject-%EC%84%A4%EC%A0%95" class="hash-link" aria-label="플랫폼 별로 업로드할 GameObject 설정에 대한 직접 링크" title="플랫폼 별로 업로드할 GameObject 설정에 대한 직접 링크">​</a></h2>
 <ul>
-<li>대명사 추가</li>
-<li>모바일 번역 추가</li>
+<li>한 번에 다중 플랫폼으로 아바타를 업로드를 할 수 있음</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrcsdk-베타-릴리즈">VRCSDK 베타 릴리즈<a href="https://crestudio.github.io/vrchat-update/20250424#vrcsdk-%EB%B2%A0%ED%83%80-%EB%A6%B4%EB%A6%AC%EC%A6%88" class="hash-link" aria-label="VRCSDK 베타 릴리즈에 대한 직접 링크" title="VRCSDK 베타 릴리즈에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="sendcustomnetworkevent에-매개변수-지원">SendCustomNetworkEvent에 매개변수 지원<a href="https://crestudio.github.io/vrchat-update/20250424#sendcustomnetworkevent%EC%97%90-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98-%EC%A7%80%EC%9B%90" class="hash-link" aria-label="SendCustomNetworkEvent에 매개변수 지원에 대한 직접 링크" title="SendCustomNetworkEvent에 매개변수 지원에 대한 직접 링크">​</a></h2>
 <ul>
-<li>SendCustomNetworkEvent에 매개변수 지원</li>
-<li>Udon API 추가</li>
+<li>Udon이 지원하는 타입의 최대 8개의 매개변수를 포함하여 네트워크 이벤트 전파가 가능</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="202521-패치-버그로-persistence-데이터-손실-보고">2025.2.1 패치 버그로 Persistence 데이터 손실 보고<a href="https://crestudio.github.io/vrchat-update/20250424#202521-%ED%8C%A8%EC%B9%98-%EB%B2%84%EA%B7%B8%EB%A1%9C-persistence-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%86%90%EC%8B%A4-%EB%B3%B4%EA%B3%A0" class="hash-link" aria-label="2025.2.1 패치 버그로 Persistence 데이터 손실 보고에 대한 직접 링크" title="2025.2.1 패치 버그로 Persistence 데이터 손실 보고에 대한 직접 링크">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="모바일용-툰-쉐이더-제공">모바일용 툰 쉐이더 제공<a href="https://crestudio.github.io/vrchat-update/20250424#%EB%AA%A8%EB%B0%94%EC%9D%BC%EC%9A%A9-%ED%88%B0-%EC%89%90%EC%9D%B4%EB%8D%94-%EC%A0%9C%EA%B3%B5" class="hash-link" aria-label="모바일용 툰 쉐이더 제공에 대한 직접 링크" title="모바일용 툰 쉐이더 제공에 대한 직접 링크">​</a></h2>
 <ul>
-<li>VRChat 2025.2.1 버그로 월드의 Persistence 데이터가 손실 될 수 있어서 2025.2.1p1 패치가 배포됨</li>
-<li>VRCUrl, VRCUrl[], string[] 타입의 Persistence 데이터 불러오기 실패하여 기본값으로 덮어쓰는 버그</li>
-<li>Persistence 서비스가 제대로 유지 될 수 있도록 QA 자동화 테스트 및 인프라에 더 많은 투자를 할 예정</li>
-<li>손실된 데이터를 복구할 수 있는 방법도 찾을 예정</li>
+<li>Toon Standard 쉐이더는 노멀, 디테일, 이미션, 오클루전, 스펙큘러, 림 라이트, 매트캡 등 지원 예정</li>
+<li>투명 기능은 미지원</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ios-빌드-및-테스트">iOS 빌드 및 테스트<a href="https://crestudio.github.io/vrchat-update/20250424#ios-%EB%B9%8C%EB%93%9C-%EB%B0%8F-%ED%85%8C%EC%8A%A4%ED%8A%B8" class="hash-link" aria-label="iOS 빌드 및 테스트에 대한 직접 링크" title="iOS 빌드 및 테스트에 대한 직접 링크">​</a></h2>
+<ul>
+<li>iOS에서 아바타를 만들고 테스트하는 기능이 2025.2.1 클라이언트 및 SDK 3.8.1에서 지원</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="월드-스폰-반경">월드 스폰 반경<a href="https://crestudio.github.io/vrchat-update/20250424#%EC%9B%94%EB%93%9C-%EC%8A%A4%ED%8F%B0-%EB%B0%98%EA%B2%BD" class="hash-link" aria-label="월드 스폰 반경에 대한 직접 링크" title="월드 스폰 반경에 대한 직접 링크">​</a></h2>
+<ul>
+<li>기존에는 어떠한 점의 위치에서 스폰이 되었으나 범위를 설정하여 분산 되어서 스폰 가능</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vcc-업데이트">VCC 업데이트<a href="https://crestudio.github.io/vrchat-update/20250424#vcc-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="hash-link" aria-label="VCC 업데이트에 대한 직접 링크" title="VCC 업데이트에 대한 직접 링크">​</a></h2>
+<ul>
+<li>패키지 설치 속도 향상, 매번 다시 다운로드 받지 않음</li>
+<li>활성화 되지 않은 VCC 리스트 목록은 영향이 안 가도록 변경</li>
 </ul>]]></content>
         <category label="VRChat" term="VRChat"/>
         <category label="개발자 업데이트" term="개발자 업데이트"/>
