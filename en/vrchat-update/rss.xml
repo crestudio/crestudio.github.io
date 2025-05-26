@@ -4,11 +4,55 @@
         <title>VRSuya Blog</title>
         <link>https://crestudio.github.io/en/vrchat-update</link>
         <description>VRSuya Blog</description>
-        <lastBuildDate>Thu, 08 May 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2025 VRSuya. All rights reserved.</copyright>
+        <item>
+            <title><![CDATA[개발자 업데이트 2025.5.22]]></title>
+            <link>https://crestudio.github.io/en/vrchat-update/20250522</link>
+            <guid>https://crestudio.github.io/en/vrchat-update/20250522</guid>
+            <pubDate>Thu, 22 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[VRChat Pride 제출 시작]]></description>
+            <content:encoded><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">아바타 마켓플레이스 발표 및 오픈 베타에 릴리즈</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-pride-제출-시작">VRChat Pride 제출 시작<a href="https://crestudio.github.io/en/vrchat-update/20250522#vrchat-pride-%EC%A0%9C%EC%B6%9C-%EC%8B%9C%EC%9E%91" class="hash-link" aria-label="Direct link to VRChat Pride 제출 시작" title="Direct link to VRChat Pride 제출 시작">​</a></h2>
+<ul>
+<li>2025년 5월 28일(PST)에 Pride 기획의 일부 발표 예정</li>
+<li>2025년 5월 30일 오후 12시(PST)에 마감</li>
+<li><a href="https://docs.google.com/presentation/d/1xT84ES2ouMHcSRN9TmCYc7Z5nYNnmd4wZ8DrFZKvZKE/edit#slide=id.p" target="_blank" rel="noopener noreferrer">가이드라인</a></li>
+<li><a href="https://docs.google.com/forms/d/e/1FAIpQLScyqVI-7VhY3SJEjVh_o1MO3TgUx3hz4d7d3eV5Tyd2tuIHSA/viewform" target="_blank" rel="noopener noreferrer">제출</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="여름-음악-페스티벌-컨테스트">여름 음악 페스티벌 컨테스트<a href="https://crestudio.github.io/en/vrchat-update/20250522#%EC%97%AC%EB%A6%84-%EC%9D%8C%EC%95%85-%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-%EC%BB%A8%ED%85%8C%EC%8A%A4%ED%8A%B8" class="hash-link" aria-label="Direct link to 여름 음악 페스티벌 컨테스트" title="Direct link to 여름 음악 페스티벌 컨테스트">​</a></h2>
+<ul>
+<li>6월 말에 다음 아바타 컨테스트 계획, 6월 16일 경에 발표 예정</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="아바타-마켓플레이스-발표">아바타 마켓플레이스 발표<a href="https://crestudio.github.io/en/vrchat-update/20250522#%EC%95%84%EB%B0%94%ED%83%80-%EB%A7%88%EC%BC%93%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-%EB%B0%9C%ED%91%9C" class="hash-link" aria-label="Direct link to 아바타 마켓플레이스 발표" title="Direct link to 아바타 마켓플레이스 발표">​</a></h2>
+<ul>
+<li>VRChat 인게임 메뉴에서 아바타를 바로 찾고 구매할 수 있는 새로운 VRChat 플레이어를 위한 기능</li>
+<li>아직 계속 개발 중이 기능이며 앞으로 어떻게 개발할지 계획을 가지고 있음</li>
+<li>현재 1,000명 이상의 크리에이터가 아바타 마켓플레이스에 참여</li>
+<li>참여를 원하면 <a href="https://www.surveymonkey.com/r/GK8WNBN" target="_blank" rel="noopener noreferrer">지원서</a> 제출</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-202522-오픈-베타-릴리즈">VRChat 2025.2.2 오픈 베타 릴리즈<a href="https://crestudio.github.io/en/vrchat-update/20250522#vrchat-202522-%EC%98%A4%ED%94%88-%EB%B2%A0%ED%83%80-%EB%A6%B4%EB%A6%AC%EC%A6%88" class="hash-link" aria-label="Direct link to VRChat 2025.2.2 오픈 베타 릴리즈" title="Direct link to VRChat 2025.2.2 오픈 베타 릴리즈">​</a></h2>
+<ul>
+<li>VRChat 아바타 마켓플레이스 포함</li>
+<li>월드 다운로드 및 서버 프로세싱(아바타)이 빨라짐</li>
+<li><a href="https://docs.vrchat.com/docs/vrchat-202522-openbeta" target="_blank" rel="noopener noreferrer">패치 노트</a></li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="웹-업데이트">웹 업데이트<a href="https://crestudio.github.io/en/vrchat-update/20250522#%EC%9B%B9-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="hash-link" aria-label="Direct link to 웹 업데이트" title="Direct link to 웹 업데이트">​</a></h2>
+<ul>
+<li>마켓플레이스 관리 페이지 문제 수정</li>
+<li>웹에서 아바타 신고 기능 추가</li>
+<li>마켓플레이스에서 삭제 되거나 비활성화된 컨텐츠 핸들링 개선</li>
+<li>다양한 가이드 및 지원 URL 수정</li>
+<li>아바타가 잘못된 URL로 공유 되는 문제 해결</li>
+<li>마켓플레이스 마감 알림 개선</li>
+<li>UI 스위치 색상 대비 개선</li>
+</ul>]]></content:encoded>
+            <category>VRChat</category>
+            <category>개발자 업데이트</category>
+        </item>
         <item>
             <title><![CDATA[개발자 업데이트 2025.5.8]]></title>
             <link>https://crestudio.github.io/en/vrchat-update/20250508</link>
@@ -193,7 +237,7 @@
 <li>카메라 돌리, 카메라 드론, 셀카 표현(웹캠), 인스턴스 허용 컨텐츠 설정</li>
 <li><a href="https://docs.vrchat.com/docs/vrchat-202513-openbeta" target="_blank" rel="noopener noreferrer">자세한 내용</a></li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrcsdk-376-릴리즈">VRCSDK 3.7.6 릴리즈<a href="https://crestudio.github.io/en/vrchat-update/20250313#vrcsdk-376-%EB%A6%B4%EB%A6%AC%EC%A6%88" class="hash-link" aria-label="Direct link to VRCSDK 3.7.6 릴리즈" title="Direct link to VRCSDK 3.7.6 릴리즈">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrcsdk-376-릴리즈">VRCSDK 3.7.6 릴리즈<a href="https://crestudio.github.io/en/vrchat-update/20250313#vrcsdk-376-%EB%A6%B4%EB%A6%AC%EF%BF%BD%EC%A6%88" class="hash-link" aria-label="Direct link to VRCSDK 3.7.6 릴리즈" title="Direct link to VRCSDK 3.7.6 릴리즈">​</a></h2>
 <ul>
 <li>플랫폼 별 아바타 디스크립터 오버라이드 기능 추가 예정</li>
 <li>World SDK 컴파일시 주의 에러 메시지가 나오는 현상 수정</li>
@@ -248,7 +292,7 @@
 <li>고지사항 (아바타에 어떤 에셋을 사용하였는지 표기 및 허가 여부)</li>
 <li>갤러리(구매자들이 보고 참고할 사진 6장, FHD 해상도)</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="소바soba-업데이트-진척사항">소바(Soba) 업데이트 진척사항<a href="https://crestudio.github.io/en/vrchat-update/20250227#%EC%86%8C%EB%B0%94soba-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%A7%84%EC%B2%99%EC%82%AC%ED%95%AD" class="hash-link" aria-label="Direct link to 소바(Soba) 업데이트 진척사항" title="Direct link to 소바(Soba) 업데이트 진척사항">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="소�바soba-업데이트-진척사항">소바(Soba) 업데이트 진척사항<a href="https://crestudio.github.io/en/vrchat-update/20250227#%EC%86%8C%EB%B0%94soba-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%EC%A7%84%EC%B2%99%EC%82%AC%ED%95%AD" class="hash-link" aria-label="Direct link to 소바(Soba) 업데이트 진척사항" title="Direct link to 소바(Soba) 업데이트 진척사항">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="소바에-포함이-확인-된-내용">소바에 포함이 확인 된 내용<a href="https://crestudio.github.io/en/vrchat-update/20250227#%EC%86%8C%EB%B0%94%EC%97%90-%ED%8F%AC%ED%95%A8%EC%9D%B4-%ED%99%95%EC%9D%B8-%EB%90%9C-%EB%82%B4%EC%9A%A9" class="hash-link" aria-label="Direct link to 소바에 포함이 확인 된 내용" title="Direct link to 소바에 포함이 확인 된 내용">​</a></h3>
 <ul>
 <li>사용자 정의 추상(Abstract) 클래스, 인터페이스(Interface) 클래스, 정적(Static) 클래스</li>
@@ -382,45 +426,6 @@
 <li>PC가 아닌 경우 로그 기능이 매 실행 때마다 비활성화 되는데, PC처럼 바뀔 예정</li>
 <li>로그 출력문은 기존과 동일</li>
 </ul>]]></content:encoded>
-            <category>VRChat</category>
-            <category>개발자 업데이트</category>
-        </item>
-        <item>
-            <title><![CDATA[개발자 업데이트 2024.12.12]]></title>
-            <link>https://crestudio.github.io/en/vrchat-update/20241212</link>
-            <guid>https://crestudio.github.io/en/vrchat-update/20241212</guid>
-            <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[새해가 오고 있습니다]]></description>
-            <content:encoded><![CDATA[<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">연령 확인에 대한 자세한 내용 / 연말 정산</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="새해가-오고-있습니다">새해가 오고 있습니다<a href="https://crestudio.github.io/en/vrchat-update/20241212#%EC%83%88%ED%95%B4%EA%B0%80-%EC%98%A4%EA%B3%A0-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4" class="hash-link" aria-label="Direct link to 새해가 오고 있습니다" title="Direct link to 새해가 오고 있습니다">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="202442-릴리즈">2024.4.2 릴리즈<a href="https://crestudio.github.io/en/vrchat-update/20241212#202442-%EB%A6%B4%EB%A6%AC%EC%A6%88" class="hash-link" aria-label="Direct link to 2024.4.2 릴리즈" title="Direct link to 2024.4.2 릴리즈">​</a></h2>
-<ul>
-<li>유저 데이터 저장소</li>
-<li>일회성 구매 기능</li>
-<li>사진 프린트</li>
-<li>연령 확인</li>
-<li>선물 드롭</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="연령-확인">연령 확인<a href="https://crestudio.github.io/en/vrchat-update/20241212#%EC%97%B0%EB%A0%B9-%ED%99%95%EC%9D%B8" class="hash-link" aria-label="Direct link to 연령 확인" title="Direct link to 연령 확인">​</a></h2>
-<ul>
-<li>인증에 사용된 데이터는 생년월일, 인증 결과 제외하고 즉시 폐기</li>
-<li>연령 인증되면 프로필에 미표기, 인증됨 표기, 18+ 표기 선택 가능</li>
-<li>그룹 등 필요한 경우 인스턴스에 연령 제한 적용 가능해질 듯</li>
-<li>인증에 비용이 들기 때문에 일부 신청한 그룹부터 적용 시작</li>
-<li>컨텐츠 필터링에도 적용 생각 중</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="크리에이터-로드맵-업데이트">크리에이터 로드맵 업데이트<a href="https://crestudio.github.io/en/vrchat-update/20241212#%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0-%EB%A1%9C%EB%93%9C%EB%A7%B5-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8" class="hash-link" aria-label="Direct link to 크리에이터 로드맵 업데이트" title="Direct link to 크리에이터 로드맵 업데이트">​</a></h2>
-<ul>
-<li><a href="https://ask.vrchat.com/t/vrchat-creators-roadmap-november-2024/28124" target="_blank" rel="noopener noreferrer">링크</a></li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="다음-잼jam-경연-준비-중">다음 잼(Jam; 경연) 준비 중<a href="https://crestudio.github.io/en/vrchat-update/20241212#%EB%8B%A4%EC%9D%8C-%EC%9E%BCjam-%EA%B2%BD%EC%97%B0-%EC%A4%80%EB%B9%84-%EC%A4%91" class="hash-link" aria-label="Direct link to 다음 잼(Jam; 경연) 준비 중" title="Direct link to 다음 잼(Jam; 경연) 준비 중">​</a></h2>
-<ul>
-<li>1월 테마 발표</li>
-<li>2월 개최 예정</li>
-</ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="2024년도-크리에이터-다시-보기">2024년도 크리에이터 다시 보기<a href="https://crestudio.github.io/en/vrchat-update/20241212#2024%EB%85%84%EB%8F%84-%ED%81%AC%EB%A6%AC%EC%97%90%EC%9D%B4%ED%84%B0-%EB%8B%A4%EC%8B%9C-%EB%B3%B4%EA%B8%B0" class="hash-link" aria-label="Direct link to 2024년도 크리에이터 다시 보기" title="Direct link to 2024년도 크리에이터 다시 보기">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrrat-인형">VRRAT 인형<a href="https://crestudio.github.io/en/vrchat-update/20241212#vrrat-%EC%9D%B8%ED%98%95" class="hash-link" aria-label="Direct link to VRRAT 인형" title="Direct link to VRRAT 인형">​</a></h2>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="vrchat-창립자-ceo-및-cto-개발-스트리밍-예정">VRChat 창립자, CEO 및 CTO 개발 스트리밍 예정<a href="https://crestudio.github.io/en/vrchat-update/20241212#vrchat-%EC%B0%BD%EB%A6%BD%EC%9E%90-ceo-%EB%B0%8F-cto-%EA%B0%9C%EB%B0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D-%EC%98%88%EC%A0%95" class="hash-link" aria-label="Direct link to VRChat 창립자, CEO 및 CTO 개발 스트리밍 예정" title="Direct link to VRChat 창립자, CEO 및 CTO 개발 스트리밍 예정">​</a></h2>]]></content:encoded>
             <category>VRChat</category>
             <category>개발자 업데이트</category>
         </item>
