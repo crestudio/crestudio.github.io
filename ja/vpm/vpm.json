@@ -1,12 +1,12 @@
 {
   "packages": {
-    "com.vrsuya.animatorview": {
+    "com.vrsuya.cleaner": {
       "versions": {
         "1.0.0": {
-          "name": "com.vrsuya.animatorview",
+          "name": "com.vrsuya.cleaner",
           "version": "1.0.0",
-          "displayName": "VRSuya - AnimatorView",
-          "description": "Unity Scene Viewport Auxiliary Add-on for Animation",
+          "displayName": "VRSuya - Cleaner",
+          "description": "An add-on for organizing and sorting various properties and elements in Unity",
           "unity": "2019.4",
           "dependencies": {},
           "author": {
@@ -14,516 +14,11 @@
             "email": "crestudioplus@gmail.com",
             "url": "https://github.com/crestudio"
           },
-          "url": "https://github.com/crestudio/AnimatorView/releases/download/1.00/com.vrsuya.animatorview-1.0.0.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        }
-      }
-    },
-    "com.vrsuya.avatarrebuilder": {
-      "versions": {
-        "1.0.0": {
-          "name": "com.vrsuya.avatarrebuilder",
-          "version": "1.0.0",
-          "displayName": "VRSuya - Avatar Rebuilder",
-          "description": "Automatic apply of changed a bone armature and restructure Skinned Mesh Renderer components, Designed for VRSuya Product.",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarRebuilder/releases/download/1.00/com.vrsuya.avatarrebuilder-1.0.0.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.1": {
-          "name": "com.vrsuya.avatarrebuilder",
-          "version": "1.0.1",
-          "displayName": "VRSuya - Avatar Rebuilder",
-          "description": "Automatic apply of changed a bone armature and restructure Skinned Mesh Renderer components, Designed for VRSuya Product.",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarRebuilder/releases/download/1.01/com.vrsuya.avatarrebuilder-1.0.1.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.2": {
-          "name": "com.vrsuya.avatarrebuilder",
-          "version": "1.0.2",
-          "displayName": "VRSuya - Avatar Rebuilder",
-          "description": "Automatic apply of changed a bone armature and restructure Skinned Mesh Renderer components, Designed for VRSuya Product.",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarRebuilder/releases/download/1.02/com.vrsuya.avatarrebuilder-1.0.2.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.3": {
-          "name": "com.vrsuya.avatarrebuilder",
-          "version": "1.0.3",
-          "displayName": "VRSuya - Avatar Rebuilder",
-          "description": "Automatic apply of changed a bone armature and restructure Skinned Mesh Renderer components, Designed for VRSuya Product.",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarRebuilder/releases/download/1.03/com.vrsuya.avatarrebuilder-1.0.3.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.4": {
-          "name": "com.vrsuya.avatarrebuilder",
-          "version": "1.0.4",
-          "displayName": "VRSuya - Avatar Rebuilder",
-          "description": "Automatic apply of changed a bone armature and restructure Skinned Mesh Renderer components, Designed for VRSuya Product.",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarRebuilder/releases/download/1.04/com.vrsuya.avatarrebuilder-1.0.4.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.5": {
-          "name": "com.vrsuya.avatarrebuilder",
-          "version": "1.0.5",
-          "displayName": "VRSuya - Avatar Rebuilder",
-          "description": "Automatic apply of changed a bone armature and restructure Skinned Mesh Renderer components, Designed for VRSuya Product.",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarRebuilder/releases/download/1.05/com.vrsuya.avatarrebuilder-1.0.5.zip?",
+          "url": "https://github.com/crestudio/VRSuya-Cleaner/releases/download/1.00/com.vrsuya.cleaner-1.0.0.zip?",
           "repo": "https://server.macchiato.kr/vpm/vpm.json",
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.0.9",
-            "com.vrsuya.core": ">=0.0.1"
-          }
-        },
-        "1.0.6": {
-          "name": "com.vrsuya.avatarrebuilder",
-          "version": "1.0.6",
-          "displayName": "VRSuya - Avatar Rebuilder",
-          "description": "Automatic apply of changed a bone armature and restructure Skinned Mesh Renderer components, Designed for VRSuya Product.",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarRebuilder/releases/download/1.06/com.vrsuya.avatarrebuilder-1.0.6.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9",
-            "com.vrsuya.core": ">=0.0.1"
-          }
-        }
-      }
-    },
-    "com.vrsuya.avatarscaler": {
-      "versions": {
-        "1.0.0": {
-          "name": "com.vrsuya.avatarscaler",
-          "version": "1.0.0",
-          "displayName": "VRSuya - AvatarScaler",
-          "description": "VRChat Avatar Automatic Scaling Program",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarScaler/releases/download/1.00/com.vrsuya.avatarscaler-1.0.0.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.1": {
-          "name": "com.vrsuya.avatarscaler",
-          "version": "1.0.1",
-          "displayName": "VRSuya - AvatarScaler",
-          "description": "VRChat Avatar Automatic Scaling Program",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarScaler/releases/download/1.01/com.vrsuya.avatarscaler-1.0.1.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.2": {
-          "name": "com.vrsuya.avatarscaler",
-          "version": "1.0.2",
-          "displayName": "VRSuya - AvatarScaler",
-          "description": "VRChat Avatar Automatic Scaling Program",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarScaler/releases/download/1.02/com.vrsuya.avatarscaler-1.0.2.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.3": {
-          "name": "com.vrsuya.avatarscaler",
-          "version": "1.0.3",
-          "displayName": "VRSuya - AvatarScaler",
-          "description": "VRChat Avatar Automatic Scaling Program",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarScaler/releases/download/1.03/com.vrsuya.avatarscaler-1.0.3.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        }
-      }
-    },
-    "com.vrsuya.avatarsettingupdater": {
-      "versions": {
-        "1.0.0": {
-          "name": "com.vrsuya.avatarsettingupdater",
-          "version": "1.0.0",
-          "displayName": "VRSuya - Avatar Setting Updater",
-          "description": "Automatic install VRSuya assets program for VRChat avatars",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.00/com.vrsuya.avatarsettingupdater-1.0.0.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.1": {
-          "name": "com.vrsuya.avatarsettingupdater",
-          "version": "1.0.1",
-          "displayName": "VRSuya - Avatar Setting Updater",
-          "description": "Automatic install VRSuya assets program for VRChat avatars",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.01/com.vrsuya.avatarsettingupdater-1.0.1.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.2": {
-          "name": "com.vrsuya.avatarsettingupdater",
-          "version": "1.0.2",
-          "displayName": "VRSuya - Avatar Setting Updater",
-          "description": "Automatic install VRSuya assets program for VRChat avatars",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.02/com.vrsuya.avatarsettingupdater-1.0.2.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.3": {
-          "name": "com.vrsuya.avatarsettingupdater",
-          "version": "1.0.3",
-          "displayName": "VRSuya - Avatar Setting Updater",
-          "description": "Automatic install VRSuya assets program for VRChat avatars",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.03/com.vrsuya.avatarsettingupdater-1.0.3.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.4": {
-          "name": "com.vrsuya.avatarsettingupdater",
-          "version": "1.0.4",
-          "displayName": "VRSuya - Avatar Setting Updater",
-          "description": "Automatic install VRSuya assets program for VRChat avatars",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.04/com.vrsuya.avatarsettingupdater-1.0.4.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.5": {
-          "name": "com.vrsuya.avatarsettingupdater",
-          "version": "1.0.5",
-          "displayName": "VRSuya - Avatar Setting Updater",
-          "description": "Automatic install VRSuya assets program for VRChat avatars",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.05/com.vrsuya.avatarsettingupdater-1.0.5.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.6": {
-          "name": "com.vrsuya.avatarsettingupdater",
-          "version": "1.0.6",
-          "displayName": "VRSuya - Avatar Setting Updater",
-          "description": "Automatic install VRSuya assets program for VRChat avatars",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.06/com.vrsuya.avatarsettingupdater-1.0.6.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.7": {
-          "name": "com.vrsuya.avatarsettingupdater",
-          "version": "1.0.7",
-          "displayName": "VRSuya - Avatar Setting Updater",
-          "description": "Automatic install VRSuya assets program for VRChat avatars",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.07/com.vrsuya.avatarsettingupdater-1.0.7.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.8": {
-          "name": "com.vrsuya.avatarsettingupdater",
-          "version": "1.0.8",
-          "displayName": "VRSuya - Avatar Setting Updater",
-          "description": "Automatic install VRSuya assets program for VRChat avatars",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.08/com.vrsuya.avatarsettingupdater-1.0.8.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.9": {
-          "name": "com.vrsuya.avatarsettingupdater",
-          "version": "1.0.9",
-          "displayName": "VRSuya - Avatar Setting Updater",
-          "description": "Automatic install VRSuya assets program for VRChat avatars",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.09/com.vrsuya.avatarsettingupdater-1.0.9.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.10": {
-          "name": "com.vrsuya.avatarsettingupdater",
-          "version": "1.0.10",
-          "displayName": "VRSuya - Avatar Setting Updater",
-          "description": "Automatic install VRSuya assets program for VRChat avatars",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.010/com.vrsuya.avatarsettingupdater-1.0.10.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.11": {
-          "name": "com.vrsuya.avatarsettingupdater",
-          "version": "1.0.11",
-          "displayName": "VRSuya - Avatar Setting Updater",
-          "description": "Automatic install VRSuya assets program for VRChat avatars",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.011/com.vrsuya.avatarsettingupdater-1.0.11.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.12": {
-          "name": "com.vrsuya.avatarsettingupdater",
-          "version": "1.0.12",
-          "displayName": "VRSuya - Avatar Setting Updater",
-          "description": "Automatic install VRSuya assets program for VRChat avatars",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.012/com.vrsuya.avatarsettingupdater-1.0.12.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9",
-            "com.vrsuya.core": ">=0.0.1"
-          }
-        },
-        "1.0.13": {
-          "name": "com.vrsuya.avatarsettingupdater",
-          "version": "1.0.13",
-          "displayName": "VRSuya - Avatar Setting Updater",
-          "description": "Automatic install VRSuya assets program for VRChat avatars",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/AvatarSettingUpdater/releases/download/1.013/com.vrsuya.avatarsettingupdater-1.0.13.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9",
-            "com.vrsuya.core": ">=0.0.1"
-          }
-        }
-      }
-    },
-    "com.vrsuya.changephysboneversion": {
-      "versions": {
-        "1.0.2": {
-          "name": "com.vrsuya.changephysboneversion",
-          "version": "1.0.2",
-          "displayName": "VRSuya - Change PhysBone Version",
-          "description": "Change all VRChat PhysBone components version",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/ChangePhysBoneVersion/releases/download/1.02/com.vrsuya.changephysboneversion-1.0.2.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
-          }
-        },
-        "1.0.3": {
-          "name": "com.vrsuya.changephysboneversion",
-          "version": "1.0.3",
-          "displayName": "VRSuya - Change PhysBone Version",
-          "description": "Change all VRChat PhysBone components version",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/ChangePhysBoneVersion/releases/download/1.03/com.vrsuya.changephysboneversion-1.0.3.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.2.0"
+            "com.vrsuya.core": ">=0.1.0"
           }
         }
       }
@@ -565,34 +60,12 @@
           "vpmDependencies": {
             "com.vrchat.avatars": ">=3.2.0"
           }
-        }
-      }
-    },
-    "com.vrsuya.jiwozo": {
-      "versions": {
-        "1.0.0": {
-          "name": "com.vrsuya.jiwozo",
-          "version": "1.0.0",
-          "displayName": "VRSuya - Jiwozo",
-          "description": "Unity Cleanup Assistance Program",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/Jiwozo/releases/download/1.00/com.vrsuya.jiwozo-1.0.0.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
         },
-        "1.0.1": {
-          "name": "com.vrsuya.jiwozo",
-          "version": "1.0.1",
-          "displayName": "VRSuya - Jiwozo",
-          "description": "Unity Cleanup Assistance Program",
+        "0.1.0": {
+          "name": "com.vrsuya.core",
+          "version": "0.1.0",
+          "displayName": "VRSuya - Core",
+          "description": "VRSuya Unity Component Dependency Required Package",
           "unity": "2019.4",
           "dependencies": {},
           "author": {
@@ -600,21 +73,21 @@
             "email": "crestudioplus@gmail.com",
             "url": "https://github.com/crestudio"
           },
-          "url": "https://github.com/crestudio/Jiwozo/releases/download/1.01/com.vrsuya.jiwozo-1.0.1.zip?",
+          "url": "https://github.com/crestudio/VRSuya-Core/releases/download/0.10/com.vrsuya.core-0.1.0.zip?",
           "repo": "https://server.macchiato.kr/vpm/vpm.json",
           "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
+            "com.vrchat.avatars": ">=3.2.0"
           }
         }
       }
     },
-    "com.vrsuya.materialoptimizer": {
+    "com.vrsuya.installer": {
       "versions": {
-        "1.0.0": {
-          "name": "com.vrsuya.materialoptimizer",
-          "version": "1.0.0",
-          "displayName": "VRSuya - MaterialOptimizer",
-          "description": "VRChat Avatar Material Optimization Program",
+        "1.1.0": {
+          "name": "com.vrsuya.installer",
+          "version": "1.1.0",
+          "displayName": "VRSuya - Installer",
+          "description": "Automatic install VRSuya assets program for VRChat avatars",
           "unity": "2019.4",
           "dependencies": {},
           "author": {
@@ -622,57 +95,22 @@
             "email": "crestudioplus@gmail.com",
             "url": "https://github.com/crestudio"
           },
-          "url": "https://github.com/crestudio/MaterialOptimizer/releases/download/1.00/com.vrsuya.materialoptimizer-1.0.0.zip?",
+          "url": "https://github.com/crestudio/VRSuya-Installer/releases/download/1.10/com.vrsuya.installer-1.1.0.zip?",
           "repo": "https://server.macchiato.kr/vpm/vpm.json",
           "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.1": {
-          "name": "com.vrsuya.materialoptimizer",
-          "version": "1.0.1",
-          "displayName": "VRSuya - MaterialOptimizer",
-          "description": "VRChat Avatar Material Optimization Program",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/MaterialOptimizer/releases/download/1.01/com.vrsuya.materialoptimizer-1.0.1.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.2": {
-          "name": "com.vrsuya.materialoptimizer",
-          "version": "1.0.2",
-          "displayName": "VRSuya - MaterialOptimizer",
-          "description": "VRChat Avatar Material Optimization Program",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/MaterialOptimizer/releases/download/1.02/com.vrsuya.materialoptimizer-1.0.2.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
+            "com.vrchat.avatars": ">=3.0.9",
+            "com.vrsuya.core": ">=0.1.0"
           }
         }
       }
     },
-    "com.vrsuya.portraitcamera": {
+    "com.vrsuya.utility": {
       "versions": {
-        "1.0.0": {
-          "name": "com.vrsuya.portraitcamera",
-          "version": "1.0.0",
-          "displayName": "VRSuya - PortraitCamera",
-          "description": "VRChat Avatar Thumbnail Camera",
+        "1.1.0": {
+          "name": "com.vrsuya.utility",
+          "version": "1.1.0",
+          "displayName": "VRSuya - Utility",
+          "description": "Utility add-on for the Unity Editor, designed for VRChat",
           "unity": "2019.4",
           "dependencies": {},
           "author": {
@@ -680,126 +118,11 @@
             "email": "crestudioplus@gmail.com",
             "url": "https://github.com/crestudio"
           },
-          "url": "https://github.com/crestudio/PortraitCamera/releases/download/1.00/com.vrsuya.portraitcamera-1.0.0.zip?",
+          "url": "https://github.com/crestudio/VRSuya-Utility/releases/download/1.10/com.vrsuya.utility-1.1.0.zip?",
           "repo": "https://server.macchiato.kr/vpm/vpm.json",
           "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        }
-      }
-    },
-    "com.vrsuya.suyasuyafacial": {
-      "versions": {
-        "1.0.0": {
-          "name": "com.vrsuya.suyasuyafacial",
-          "version": "1.0.0",
-          "displayName": "VRSuya - Suyasuya Facial",
-          "description": "Adding Empty Blendshape Animation Program for VRSuya Suyasuya Product",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/SuyasuyaFacial/releases/download/1.00/com.vrsuya.suyasuyafacial-1.0.0.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.1": {
-          "name": "com.vrsuya.suyasuyafacial",
-          "version": "1.0.1",
-          "displayName": "VRSuya - Suyasuya Facial",
-          "description": "Adding Empty Blendshape Animation Program for VRSuya Suyasuya Product",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/SuyasuyaFacial/releases/download/1.01/com.vrsuya.suyasuyafacial-1.0.1.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.2": {
-          "name": "com.vrsuya.suyasuyafacial",
-          "version": "1.0.2",
-          "displayName": "VRSuya - Suyasuya Facial",
-          "description": "Adding Empty Blendshape Animation Program for VRSuya Suyasuya Product",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/SuyasuyaFacial/releases/download/1.02/com.vrsuya.suyasuyafacial-1.0.2.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.3": {
-          "name": "com.vrsuya.suyasuyafacial",
-          "version": "1.0.3",
-          "displayName": "VRSuya - Suyasuya Facial",
-          "description": "Adding Empty Blendshape Animation Program for VRSuya Suyasuya Product",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/SuyasuyaFacial/releases/download/1.03/com.vrsuya.suyasuyafacial-1.0.3.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        }
-      }
-    },
-    "com.vrsuya.syncchildavatar": {
-      "versions": {
-        "1.0.0": {
-          "name": "com.vrsuya.syncchildavatar",
-          "version": "1.0.0",
-          "displayName": "VRSuya - Sync Child Avatar",
-          "description": "Sync all child humanoid avatar movement",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/SyncChildAvatar/releases/download/1.00/com.vrsuya.syncchildavatar-1.0.0.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
-          }
-        },
-        "1.0.1": {
-          "name": "com.vrsuya.syncchildavatar",
-          "version": "1.0.1",
-          "displayName": "VRSuya - Sync Child Avatar",
-          "description": "Sync all child humanoid avatar movement",
-          "unity": "2019.4",
-          "dependencies": {},
-          "author": {
-            "name": "Macchiato",
-            "email": "crestudioplus@gmail.com",
-            "url": "https://github.com/crestudio"
-          },
-          "url": "https://github.com/crestudio/SyncChildAvatar/releases/download/1.01/com.vrsuya.syncchildavatar-1.0.1.zip?",
-          "repo": "https://server.macchiato.kr/vpm/vpm.json",
-          "vpmDependencies": {
-            "com.vrchat.avatars": ">=3.0.9"
+            "com.vrchat.avatars": ">=3.0.9",
+            "com.vrsuya.core": ">=0.1.0"
           }
         }
       }
