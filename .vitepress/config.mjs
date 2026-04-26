@@ -12,6 +12,11 @@ export default defineConfig({
       alt: 'Caramel Macchiato'
     },
     siteTitle: false,
+
+    search: {
+      provider: 'local'
+    },
+
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
