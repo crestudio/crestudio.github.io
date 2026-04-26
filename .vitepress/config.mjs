@@ -51,7 +51,20 @@ export default defineConfig({
       { icon: 'youtube', link: 'https://www.youtube.com/@%EB%A7%88%EB%81%BC%EC%95%84%EB%98%90-Art' },
       { icon: 'github', link: 'https://github.com/crestudio' }
     ],
+
+    externalLinkIcon: true,
+
+    docFooter: {
+      prev: false,
+      next: false
+    },
+
+    footer: {
+      message: 'MIT 라이선스에 따라 릴리즈되었습니다.',
+      copyright: 'Copyright 2011-2026 Caramel Macchiato. All rights reserved. Powered by VitePress'
+    }
   },
+  lang: 'ko',
   locales: {
     root: {
       label: '한국어',
@@ -63,5 +76,9 @@ export default defineConfig({
       lang: 'ja',
       link: '/ja/'
     }
+  },
+  cleanUrls: true,
+  sitemap: {
+    hostname: 'https://macchiato.kr'
   }
 })
