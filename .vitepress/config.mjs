@@ -6,6 +6,12 @@ export default defineConfig({
   description: "| DESIGN. DRAW. PLAY.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: {
+      light: '/logo/caramel_macchiato_black.png',
+      dark: '/logo/caramel_macchiato_white.png',
+      alt: 'Caramel Macchiato'
+    },
+    siteTitle: false,
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
