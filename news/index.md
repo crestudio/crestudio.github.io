@@ -1,20 +1,8 @@
 ---
+title: 새로운 소식
+description: 마끼아또의 새로운 이야기나 업데이트 알림, 각종 서비스 정보 등 다양한 정보들을 볼 수 있습니다
 layout: home
-hero:
-  name: "Caramel Macchiato"
-  tagline: "| DESIGN. DRAW. PLAY."
-  image:
-    alt: "Caramel Macchiato"
-  actions:
-    - theme: brand
-      text: BOOTH 스토어 방문
-      link: "https://macchiato.booth.pm"
-    - theme: alt
-      text: 포트폴리오
-      link: /macchiato/portfolio
-    - theme: alt
-      text: 고객문의
-      link: "https://macchiato.booth.pm/conversations/new"
+
 features:
   - title: 🧢 빈티지 데님 모자 제작 가이드
     details: VRSuya의 멤버 Nijey님의 빈티지 데님 모자 아이템 제작 가이드를 하였습니다, 블렌더부터 서브스탠스 페인터, 유니티 등 각종 에셋 제작에 필요한 기술을 가이드 하였습니다
@@ -77,4 +65,3 @@ features:
     link: "https://rimestudio.booth.pm/items/7667523"
     linkText: 더 알아보기
 ---
-
