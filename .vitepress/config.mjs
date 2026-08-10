@@ -15,56 +15,6 @@ export default defineConfig({
       provider: 'local'
     },
 
-    nav: [
-      { text: '처음으로', link: '/' },
-      { text: 'VRChat',
-        items: [
-          {text: '로코나', link: '/vrchat/rokona' },
-          {text: '외주 의뢰', link: '/vrsuya/outsourcing' },
-          {text: '환불 정책', link: '/vrsuya/refund' },
-          {text: '포트폴리오', link: '/vrsuya/portfolio' },
-          {text: '뉴스룸', link: '/vrsuya/news' }
-        ]
-      },
-      { text: '일러스트', link: '/artwork' },
-      { text: '마인크래프트', link: '/minecraft' },
-      { text: '리썰 컴퍼니', link: '/lethal-company' }
-    ],
-
-    sidebar: [
-      {
-        text: '로코나',
-        items: [
-          { text: '로코나', link: '/vrchat/rokona' },
-          { text: '업데이트 로그', link: '/vrchat/rokona_update_log' },
-          { text: 'BOOTH', link: 'https://macchiato.booth.pm/items/7682496' }
-        ]
-      },
-      {
-        text: '로코나',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: '로코나', link: '/rokona' },
-          { text: '레이카', link: '/reika' }
-        ]
-      },
-      {
-        text: '리썰 컴퍼니',
-        collapsed: true,
-        items: [
-          { text: 'r2modman 설치', link: '/lethal-company/mod-setup/r2modman' },
-          { text: '새로운 프로파일', link: '/lethal-company/mod-setup/new-profile' },
-          { text: '프로파일 업데이트', link: '/lethal-company/mod-setup/update-profile' },
-          { text: '모드 리스트', link: '/lethal-company/mod-information/mod-list' },
-          { text: '이지 모드', link: '/lethal-company/mod-information/easy-mode' },
-          { text: '하드 모드', link: '/lethal-company/mod-information/hard-mode' },
-          { text: '인세인 모드', link: '/lethal-company/mod-information/insane-mode' },
-          { text: '호스트 방법', link: '/lethal-company/play/host' },
-          { text: '참가 방법', link: '/lethal-company/play/join' }
-        ]
-      }
-    ],
-
     socialLinks: [
       { 
         icon: {
