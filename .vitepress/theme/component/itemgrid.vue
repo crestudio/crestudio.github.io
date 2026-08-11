@@ -91,12 +91,16 @@ const getLearnMoreText = computed(() => {
 
 .card-bg-image {
   position: absolute;
-  top: -1rem;
+  top: 0;
   left: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
   object-position: center;
+  border: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  max-width: none !important;
 }
 
 .card-overlay {
