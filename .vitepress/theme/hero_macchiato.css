@@ -1,0 +1,56 @@
+.macchiato .VPHomeHero .VPImage.image-src,
+.macchiato .VPHomeHero .image-bg {
+  display: none !important;
+}
+
+.macchiato .VPHomeHero .container {
+  flex-direction: column !important;
+  align-items: center !important;
+  text-align: center !important;
+}
+
+.macchiato .VPHomeHero .main {
+  max-width: 100% !important;
+  width: 100% !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.macchiato .VPHomeHero .name {
+  font-weight: 900;
+}
+
+.macchiato .VPHomeHero .name,
+.macchiato .VPHomeHero .text,
+.macchiato .VPHomeHero .tagline {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: 100%;
+}
+
+.macchiato .VPHomeHero .actions {
+  justify-content: left !important;
+}
+
+.macchiato .VPContent {
+  width: 60% !important;
+}
+
+.macchiato .VPFeatures .container {
+  display: flex !important;
+  justify-content: center !important;
+}
+
+.macchiato .VPFeatures .items {
+  grid-template-columns: 1fr !important;
+  width: 100% !important;
+  max-width: 90% !important;
+  margin: 0 auto !important;
+}
+
+@media (max-width: 960px) {
+  .macchiato .VPContent {
+    width: 100% !important;
+  }
+}

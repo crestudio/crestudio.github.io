@@ -5,6 +5,7 @@ import IllustrationGrid from './component/illustrationgrid.vue'
 import './caramel_macchiato.css'
 import './features.css'
 import './hero.css'
+import './hero_macchiato.css'
 import './video.css'
 
 export default {

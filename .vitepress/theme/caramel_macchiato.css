@@ -250,6 +250,41 @@
   }
 }
 
+.macchiato-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1.5rem 0;
+}
+
+.macchiato-center img {
+  max-width: 100%;
+  height: auto;
+}
+
+.img-small  { width: 64px; }
+.img-medium { width: 128px; }
+.img-large  { width: 256px; }
+
+.logo-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0 1rem;
+  margin: 0 0;
+  padding: 1rem 0;
+}
+
+.logo-row img {
+  height: 64px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+  margin: 0 !important;
+  border: none !important;
+}
+
 [lang]:where(:lang(ko)),
 [lang]:where(:lang(ja)) {
   --vp-font-family-base: 'Paperlogy', 'Spoqa Han Sans Neo', 'Noto Sans CJK JP', sans-serif !important;
