@@ -115,26 +115,24 @@ const getLearnMoreText = computed(() => {
 }
 
 .store-badge {
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   font-weight: 600;
-  color: rgba(255, 255, 255, 0.9);
-  background: rgba(255, 255, 255, 0.2);
-  backdrop-filter: blur(8px);
-  padding: 3px 10px;
-  border-radius: 12px;
+  color: rgba(255, 255, 255, 1);
+  padding: 0 0;
   width: fit-content;
-  margin-bottom: 6px;
+  margin-bottom: 0px;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
 }
 
 .product-title {
   font-size: 1.25rem !important;
-  font-weight: 700 !important;
+  font-weight: 800 !important;
   color: #ffffff !important;
   margin: 0 0 10px 0 !important;
   padding: 0 !important;
   border: none !important;
-  line-height: 1.3;
-  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  line-height: 1.25;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.4);
 }
 
 .product-title::before {
@@ -154,7 +152,7 @@ const getLearnMoreText = computed(() => {
   background: rgba(255, 255, 255, 0.22);
   backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.35);
-  padding: 3px 10px;
+  padding: 0px 10px;
   border-radius: 14px;
   font-weight: 500;
 }
