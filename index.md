@@ -10,8 +10,8 @@ hero:
       text: BOOTH 스토어 방문
       link: "https://macchiato.booth.pm"
     - theme: alt
-      text: 포트폴리오
-      link: /macchiato/portfolio
+      text: 마끼아또 소개
+      link: /macchiato
     - theme: alt
       text: 고객문의
       link: "https://macchiato.booth.pm/conversations/new"

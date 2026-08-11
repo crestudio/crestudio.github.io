@@ -10,8 +10,8 @@ hero:
       text: BOOTHストアへ
       link: "https://macchiato.booth.pm"
     - theme: alt
-      text: ポートフォリオ
-      link: /macchiato/portfolio
+      text: マキアートについて
+      link: /ja/macchiato
     - theme: alt
       text: お問い合わせ
       link: "https://macchiato.booth.pm/conversations/new"
