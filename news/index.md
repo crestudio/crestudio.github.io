@@ -64,4 +64,24 @@ features:
     }
     link: "https://rimestudio.booth.pm/items/7667523"
     linkText: 더 알아보기
+  - title: 🎊 소녀전선×pixiv 콜렉션 참가
+    details: 영광스럽게도 소녀전선 온천 일러스트로 「ドールズフロントライン×pixiv collection」 아트북에 참가하게 되었습니다, 이외에도 pixiv에서 인기가 많은 팬아트들이 풀컬러로 다수 수록이 되어있습니다
+    icon: {
+      src: '/assets/news/dolls_frontline_card.jpg',
+      alt: 'ドールズフロントライン×pixiv collection',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://twitter.com/booth_pm/status/1087663474132439040"
+    linkText: 더 알아보기  
+  - title: 🎊 DJMAX 비공식 1주년 기념 지하철 광고
+    details: DJMAX RESPECT 비공식 1주년 기념 지하철 광고 프로젝트에서 「바람에게 부탁해」 일러스트로 참가하였습니다, 지하철 2호선 홍대입구역 1번 출구에서 광고가 집행이 된다고 합니다
+    icon: {
+      src: '/assets/news/djmax_respect_card.jpg',
+      alt: 'DJMAX RESPECT 바람에게 부탁해',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://tumblbug.com/respect1st"
+    linkText: 더 알아보기    
 ---
