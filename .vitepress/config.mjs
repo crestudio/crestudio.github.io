@@ -182,7 +182,7 @@ export default defineConfig({
         },
         sidebarMenuLabel: '메뉴',
         outline: {
-          label: '개요'
+          label: '목차'
         },
         returnToTopLabel: '맨 위로 이동'
       },
