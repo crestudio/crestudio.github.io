@@ -6,6 +6,8 @@ pageClass: macchiato
 hero:
   name: 마끼아또
   tagline: 일러스트레이터 / 3D 모델러 / 디자이너 / 서브컬쳐
+  image:
+    alt: "Caramel Macchiato"
 features:
   - title: '✨ 풀 스택 일러스트레이터 / 디자이너'
     details: '항상 변화하는 트렌드와 새로운 기술을 두려워하지 않고, 꺼지지 않는 열정으로 빠르게 받아들이고 자신의 스타일로 만들기 위해 노력합니다, 일러스트와 디자인에만 안주하지 않고 다양한 관련 기술과 분야를 배우고 도전합니다'
