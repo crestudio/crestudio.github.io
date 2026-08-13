@@ -285,6 +285,14 @@
   border: none !important;
 }
 
+.VPFooter .message {
+  font-size: 11px !important;
+}
+
+.VPFooter .copyright {
+  font-size: 12px !important;
+}
+
 [lang]:where(:lang(ko)),
 [lang]:where(:lang(ja)) {
   --vp-font-family-base: 'Paperlogy', 'Spoqa Han Sans Neo', 'Noto Sans CJK JP', sans-serif !important;
