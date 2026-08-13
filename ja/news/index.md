@@ -83,7 +83,7 @@ features:
       height: 'auto'
     }
     link: "https://twitter.com/booth_pm/status/1087663474132439040"
-    linkText: もっと見る
+    linkText: 詳しく見る
   - title: 🎊 DJMAX 非公式1周年記念 地下鉄広告
     details: DJMAX RESPECT 非公式1周年記念地下鉄広告プロジェクトに「風にお願い」のイラストで参加しました。ソウル地下鉄2号線の弘大入口駅1番出口で広告が掲出されました。
     icon: {
@@ -93,5 +93,5 @@ features:
       height: 'auto'
     }
     link: "https://tumblbug.com/respect1st"
-    linkText: もっと見る
+    linkText: 詳しく見る
 ---

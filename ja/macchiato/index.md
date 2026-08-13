@@ -71,7 +71,7 @@ import { VPButton } from 'vitepress/theme'
 ## VRSuya
 
 - **代表・テクニカルサポート担当** <small>(2022年~2026年)</small>
-- VRChatで人気のアバター「シナノ」、「ショコラ」、「ミルフィ」、「愛梨」などのAFK外注Unity技術サポート
+- VRChatで人気のアバター「しなの」、「ショコラ」、「ミルフィ」、「愛梨」などのAFK外注Unity技術サポート
 - VRSuyaオリジナル商品のデザインおよびUnityアセット制作、社内システム設計、カスタマーサポート・運営など
 <br>
 ...その他多数
