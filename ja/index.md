@@ -56,25 +56,25 @@ features:
     }
     link: "https://liberoboutique.booth.pm/items/8355832"
     linkText: 詳しく見る
-  - title: 💖 ロコナアバター販売開始
-    details: 2020年から制作を始め、長い時間をかけて制作してきたロコナアバターが、ついに販売開始となりました。途中で制作が止まるなど、決して順調な道のりではありませんでしたが、最後まで諦めずに完成・販売までたどり着くことができました。
+  - title: 💕 ロコナいいね5000達成
+    details: たくさんの方々の応援のおかげで、ロコナアバターがBOOTHのいいね5000を達成しました！本当にありがとうございます！まだまだ至らないところも多いですが、これからもより良いアイテムを作れるように頑張っていきます！
     icon: {
-      src: '/assets/news/rokona_card.jpg',
-      alt: 'ロコナアバター',
+      src: '/assets/news/rokona_booth_5000_card.jpg',
+      alt: 'ロコナいいね5000',
       width: '100%',
       height: 'auto'
     }
-    link: "https://macchiato.booth.pm/items/7682496"
+    link: "https://twitter.com/VRC_Macchiato/status/2069717333221032387"
     linkText: 詳しく見る
-  - title: 💖 VIVH アバター制作ガイド
-    details: リメさんのVRChatアバター「VIVH」の制作ガイドを担当しました。BlenderからSubstance 3D Painter、Unityまで、アバター制作に必要なさまざまな技術を解説しています。また、ロゴなどBOOTH向けの画像アセット制作も担当しました。
+  - title: 🎫 超メタフェス2026参加
+    details: 秋葉原UDXで開催された超メタフェス2026に来場者として参加しました、VRChatの世界を盛り上げているたくさんのクリエイターの皆さんと楽しい時間を過ごすことができて良かったです！私もリアルグッズに挑戦してみたいですね。
     icon: {
-      src: '/assets/news/vivh_card.jpg',
-      alt: 'VIVH アバター',
+      src: '/assets/news/super_metafes_2026_card.jpg',
+      alt: '超メタフェス2026',
       width: '100%',
       height: 'auto'
     }
-    link: "https://rimestudio.booth.pm/items/7667523"
+    link: "https://vrcmtg.jp/"
     linkText: 詳しく見る
 ---
 

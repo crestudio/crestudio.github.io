@@ -56,25 +56,25 @@ features:
     }
     link: "https://liberoboutique.booth.pm/items/8355832"
     linkText: 더 알아보기
-  - title: 💖 로코나 아바타 발매 개시
-    details: 2020년부터 만들기 시작해서 오랫동안 작업한 로코나 아바타가 드디어 발매 개시 하였습니다, 중간에 제작이 멈추는 등 과정이 순탄하지 않았지만 끝까지 포기하지 않고 발매를 하였습니다
+  - title: 💕 로코나 좋아요 5000 달성
+    details: 많은 분들의 도움으로 로코나 아바타가 BOOTH 좋아요 5000을 달성하였습니다! 진심으로 감사드립니다! 부족한 점이 많지만 앞으로도 더 좋은 아이템을 만들 수 있도록 노력하겠습니다!
     icon: {
-      src: '/assets/news/rokona_card.jpg',
-      alt: '로코나 아바타',
+      src: '/assets/news/rokona_booth_5000_card.jpg',
+      alt: '로코나 좋아요 5000',
       width: '100%',
       height: 'auto'
     }
-    link: "https://macchiato.booth.pm/items/7682496"
+    link: "https://twitter.com/VRC_Macchiato/status/2069717333221032387"
     linkText: 더 알아보기
-  - title: 💖 VIVH 아바타 제작 가이드
-    details: 리메 작가의 VRChat 아바타 VIVH 제작에 가이드로 참가하였습니다, 블렌더부터 서브스탠스 페인터, 유니티 등 각종 아바타 제작에 필요한 기술을 가이드 하였습니다, 로고와 같은 BOOTH용 이미지 에셋 제작도 하였습니다
+  - title: 🎫 초메타페스 2026 참가
+    details: 아키하바라 UDX에서 개최된 초메타페스 2026에 관람객으로 참가했습니다, VRChat 세계를 빛내 주시는 수많은 크리에이터 분들과 좋은 시간을 보낼 수 있어서 좋았습니다! 저도 실물 굿즈에 도전해 보고 싶네요
     icon: {
-      src: '/assets/news/vivh_card.jpg',
-      alt: 'VIVH 아바타',
+      src: '/assets/news/super_metafes_2026_card.jpg',
+      alt: '초메타페스 2026',
       width: '100%',
       height: 'auto'
     }
-    link: "https://rimestudio.booth.pm/items/7667523"
+    link: "https://vrcmtg.jp/"
     linkText: 더 알아보기
 ---
 
