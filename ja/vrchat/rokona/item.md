@@ -1,6 +1,6 @@
 ---
 title: ロコナ対応アイテム
-description: ロコナに対応しているVRChatアイテムをカテゴリー別にご覧いただけます
+description: ロコナに対応しているVRChatアイテムをカテゴリー別にご覧いただけます。
 image: https://macchiato.kr/assets/card/website_card_rokona.jpg
 aside: true
 outline: [1, 2]

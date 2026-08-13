@@ -40,7 +40,7 @@ const getTagLabel = (tagKey) => {
 }
 
 const getLearnMoreText = computed(() => {
-  return lang.value?.includes('ja') ? '詳細を見る' : '더 알아보기'
+  return lang.value?.includes('ja') ? '詳しく見る' : '더 알아보기'
 })
 </script>
 
