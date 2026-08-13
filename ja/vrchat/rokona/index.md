@@ -21,8 +21,7 @@ import { VPButton } from 'vitepress/theme'
 ![ライセンス](/assets/rokona/information/rokona_information_7.jpg)
 
 📢 〈ロコナ〉アバターの価格調整についてお知らせいたします。<br>
-事前のご案内がなく、ご迷惑をおかけしてしまい本当に申し訳ありません。<br>
-ご購入者の皆さまへの対応も行ってまいります。<br>
+事前のご案内がなく、ご迷惑をおかけしてしまい本当に申し訳ありません。ご購入者の皆さまへの対応も行ってまいります。<br>
 今回の出来事を糧に、より良い作品を目指して努力いたします。
 
 <VPButton tag="a" href="https://twitter.com/VRC_Macchiato/status/2007754387310117307" text="詳しく見る" theme="brand" />
