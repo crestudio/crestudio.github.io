@@ -64,6 +64,16 @@ features:
     }
     link: "https://rimestudio.booth.pm/items/7667523"
     linkText: 詳しく見る
+  - title: 🏬 VRSuyaブランド設立
+    details: 3Dアニメーターとして有名なLevinさんと共にVRSuyaブランドを設立しました、VRChatで活用できるさまざまな高品質なアニメーションやアセットを制作しています。
+    icon: {
+      src: '/assets/news/vrsuya_card.jpg',
+      alt: 'VRSuya',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrsuya.booth.pm/"
+    linkText: 詳しく見る
   - title: 🎊 少女前線×pixiv collection 参加
     details: 光栄にも、ドールズフロントラインの温泉イラストで「ドールズフロントライン×pixiv collection」のアートブックに参加させていただきました。その他にも、pixivで人気の高いファンアートがフルカラーで多数収録されています。
     icon: {

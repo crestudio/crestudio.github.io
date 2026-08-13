@@ -64,6 +64,16 @@ features:
     }
     link: "https://rimestudio.booth.pm/items/7667523"
     linkText: 더 알아보기
+  - title: 🏬 VRSuya 브랜드 설립
+    details: 3D 애니메이터로 유명한 Levin 님과 함께 VRSuya 브랜드를 설립하였습니다, VRChat에서 활용 가능한 다양하고 퀄리티 좋은 애니메이션과 에셋들을 제작하고 있습니다
+    icon: {
+      src: '/assets/news/vrsuya_card.jpg',
+      alt: 'VRSuya',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrsuya.booth.pm/"
+    linkText: 더 알아보기
   - title: 🎊 소녀전선×pixiv 콜렉션 참가
     details: 영광스럽게도 소녀전선 온천 일러스트로 「ドールズフロントライン×pixiv collection」 아트북에 참가하게 되었습니다, 이외에도 pixiv에서 인기가 많은 팬아트들이 풀컬러로 다수 수록이 되어있습니다
     icon: {
