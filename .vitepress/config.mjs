@@ -68,12 +68,10 @@ export default defineConfig({
                 ]
               },
               {
-                text: '애드온',
+                text: 'VRChat',
                 items: [
-                  {text: 'VPM', link: '/vrchat/addon/vpm' },
-                  {text: 'Cleaner', link: '/vrchat/addon/cleaner' },
-                  {text: 'Core', link: '/vrchat/addon/core' },
-                  {text: 'Utility', link: '/vrchat/addon/utility' }
+                  {text: '가이드', link: '/vrchat/guide/vrchat-avatar-component' },
+                  {text: '애드온', link: '/vrchat/addon/vpm' }
                 ]
               }
             ]
@@ -136,15 +134,17 @@ export default defineConfig({
               ]
             },
             {
-              text: 'VPM',
+              text: '가이드',
+              collapsed: true,
               items: [
-                {text: 'VPM 등록', link: '/addon/vpm' }
+                {text: '아바타 기본 구조도', link: '/vrchat/guide/vrchat-avatar-component' }
               ]
             },
             {
               text: '애드온',
-              collapsed: false,
+              collapsed: true,
               items: [
+                {text: 'VPM 등록', link: '/addon/vpm' },
                 {text: 'Cleaner', link: '/addon/cleaner' },
                 {text: 'Core', link: '/addon/core' },
                 {text: 'Utility', link: '/addon/utility' }
@@ -223,12 +223,10 @@ export default defineConfig({
                 ]
               },
               {
-                text: 'アドオン',
+                text: 'VRChat',
                 items: [
-                  {text: 'VPM', link: '/ja/vrchat/addon/vpm' },
-                  {text: 'Cleaner', link: '/ja/vrchat/addon/cleaner' },
-                  {text: 'Core', link: '/ja/vrchat/addon/core' },
-                  {text: 'Utility', link: '/ja/vrchat/addon/utility' }
+                  {text: 'ガイド', link: '/ja/vrchat/guide/vrchat-avatar-component' },
+                  {text: 'アドオン', link: '/ja/vrchat/addon/vpm' }
                 ]
               }
             ]
@@ -291,15 +289,17 @@ export default defineConfig({
               ]
             },
             {
-              text: 'VPM',
+              text: 'ガイド',
+              collapsed: true,
               items: [
-                {text: 'VPM登録', link: '/ja/addon/vpm' }
+                {text: 'アバター基本構造図', link: '/ja/vrchat/guide/vrchat-avatar-component' }
               ]
             },
             {
               text: 'アドオン',
-              collapsed: false,
+              collapsed: true,
               items: [
+                {text: 'VPM登録', link: '/ja/addon/vpm' },
                 {text: 'Cleaner', link: '/ja/addon/cleaner' },
                 {text: 'Core', link: '/ja/addon/core' },
                 {text: 'Utility', link: '/ja/addon/utility' }
