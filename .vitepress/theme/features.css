@@ -1,3 +1,7 @@
+.VPFeature {
+  background-color: var(--vp-c-bg) !important;
+}
+
 .VPFeatures .icon {
   width: 100% !important;
   height: auto !important;
