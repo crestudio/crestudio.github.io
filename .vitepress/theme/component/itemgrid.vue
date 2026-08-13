@@ -78,15 +78,14 @@ const getLearnMoreText = computed(() => {
 .product-card {
   position: relative;
   height: 420px;
-  border-radius: 20px;
+  border-radius: 32px;
   overflow: hidden;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  border: 1px solid var(--vp-c-bg-soft);
+  transition: border-color 0.25s;
 }
 
 .product-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.25);
+  border-color: var(--vp-c-brand-1);
 }
 
 .card-bg-image {
@@ -149,8 +148,6 @@ const getLearnMoreText = computed(() => {
 .tag-pill {
   font-size: 0.75rem;
   color: #ffffff;
-  background: rgba(255, 255, 255, 0.22);
-  backdrop-filter: blur(10px);
   border: 1px solid rgba(255, 255, 255, 0.35);
   padding: 0px 10px;
   border-radius: 14px;
@@ -165,7 +162,7 @@ const getLearnMoreText = computed(() => {
   width: 100%;
   padding: 10px 0;
   background: rgba(255, 255, 255, 0.25);
-  backdrop-filter: blur(12px);
+  backdrop-filter: blur(2px);
   border: 1px solid rgba(255, 255, 255, 0.4);
   border-radius: 16px;
   color: #ffffff !important;

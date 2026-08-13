@@ -84,17 +84,16 @@ onUnmounted(() => {
   position: relative;
   width: 100%;
   aspect-ratio: 257 / 182;
-  border-radius: 10px;
+  border-radius: 15px;
   overflow: hidden;
   cursor: pointer;
   background-color: var(--vp-c-bg-soft);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  border: 1px solid var(--vp-c-bg-soft);
+  transition: border-color 0.25s;
 }
 
 .illust-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+  border-color: var(--vp-c-brand-1);
 }
 
 .illust-img {
