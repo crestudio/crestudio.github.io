@@ -1,6 +1,7 @@
 ---
 title: Lethal Company 모드 리스트
 description: Lethal Company 게임의 r2modman 프로파일 코드 목록
+image: https://macchiato.kr/assets/card/website_card_lethal_company.jpg
 aside: true
 outline: [1, 2]
 ---
@@ -42,7 +43,7 @@ outline: [1, 2]
 
 # 구버전 모드 리스트 {#old-mod-list}
 
-:::warning
+::: warning
 
 아래의 모드는 이전 버전 리썰 컴퍼니의 모드 리스트 입니다
 

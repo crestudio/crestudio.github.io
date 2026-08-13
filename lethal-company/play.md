@@ -1,6 +1,7 @@
 ---
 title: Lethal Company 모드 플레이 방법
 description: Lethal Company 게임을 r2modman 프로그램을 통해서 게임 호스트 및 게임에 참가하는 방법에 대해서 설명합니다
+image: https://macchiato.kr/assets/card/website_card_lethal_company.jpg
 aside: true
 outline: [1, 2]
 ---
@@ -27,7 +28,7 @@ outline: [1, 2]
 1. 확인
 1. 스팀으로 친구에게 초대 보내기
 
-:::warning
+::: warning
 
 함선이 행성에 **착륙 된 상태에서는 초대 및 접속 불가능**합니다
 
@@ -55,7 +56,7 @@ outline: [1, 2]
 1. 온라인 선택
 1. 스팀으로 **친구에게 초대 수락 또는 게임 참가**
 
-:::warning
+::: warning
 
 함선이 행성에 **착륙 된 상태에서는 초대 및 접속 불가능**합니다
 

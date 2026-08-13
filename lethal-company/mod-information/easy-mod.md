@@ -1,15 +1,13 @@
 ---
-sidebar_position: 2
+title: Lethal Company 이지 모드
 description: 모든게 최대한 쉽고 어렵지 않게 만든 모드
+image: https://macchiato.kr/assets/card/website_card_lethal_company.jpg
+aside: true
 ---
 
-# 👶 이지 모드
+# 이지 모드 {#easy-mod}
 
-모든게 최대한 쉽고 어렵지 않게 만든 모드
-
----
-
-### 바닐라와 다른 점
+### 바닐라와 다른 점 {#feature}
 
 - 스테미너, 감속, 배터리 등 제한이 없어졌습니다
 - 회사 건물이 적대적이지 않습니다
@@ -28,8 +26,8 @@ description: 모든게 최대한 쉽고 어렵지 않게 만든 모드
 - 계속 스캔 할 수 있습니다
 - 각종 귀엽고 다양한 아이템이 추가 되었습니다
 
-### 키 안내
+### 키 안내 {#key-bind}
 
-- R : 무전기 발신 (홀드)
+- R : 무전기 발신 <small>(홀드)</small>
 - F : 손전등 전원
 - M : 음성채팅 토글

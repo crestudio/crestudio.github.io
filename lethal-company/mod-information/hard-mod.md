@@ -1,7 +1,8 @@
 ---
 title: Lethal Company 구버전 하드 모드
 description: Lethal Company 게임의 구버전 하드 모드 프로파일로 Advanced Company 모드를 통해 더 다채롭고 다양한 플레이를 즐길 수 있습니다
-aside: false
+image: https://macchiato.kr/assets/card/website_card_lethal_company.jpg
+aside: true
 ---
 
 # Advanced Company 모드 {#advanced-company-mod}
@@ -37,7 +38,7 @@ aside: false
 
 ---
 
-### 리썰 컴퍼니 10,000 달러 게임 변경사항 {#hardcore}
+### 10,000 달러 게임 변경사항 {#hardcore}
 
 - 몬스터 최대 스폰 파워가 150%
 - 아이템 스폰 수량이 300%
