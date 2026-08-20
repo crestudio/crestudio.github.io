@@ -1,0 +1,29 @@
+.command .vp-doc table {
+  width: 100% !important;
+  display: table !important;
+  table-layout: fixed !important;
+  margin: 1rem 0 !important;
+}
+
+.command .vp-doc th:nth-child(1),
+.command .vp-doc td:nth-child(1) {
+  width: 35% !important;
+}
+
+.command .vp-doc th:nth-child(2),
+.command .vp-doc td:nth-child(2) {
+  width: 65% !important;
+}
+
+.command .vp-doc tr {
+  background-color: transparent !important;
+}
+
+.command .vp-doc tr:nth-child(2n) {
+  background-color: transparent !important;
+}
+
+.command .vp-doc th,
+.command .vp-doc td {
+  word-break: break-word;
+}
