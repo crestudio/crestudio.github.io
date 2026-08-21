@@ -64,6 +64,7 @@ export default defineConfig({
                 items: [
                   {text: '아바타 소개', link: '/vrchat/rokona' },
                   {text: '대응 아이템', link: '/vrchat/rokona/item' },
+                  {text: '미디어', link: '/vrchat/rokona/media' },
                   {text: '업데이트 로그', link: '/vrchat/rokona/update' }
                 ]
               },
@@ -129,6 +130,7 @@ export default defineConfig({
               items: [
                 {text: '아바타 소개', link: '/vrchat/rokona' },
                 {text: '대응 아이템', link: '/vrchat/rokona/item' },
+                {text: '미디어', link: '/vrchat/rokona/media' },
                 {text: '업데이트 로그', link: '/vrchat/rokona/update' },
                 {text: 'BOOTH 페이지', link: 'https://macchiato.booth.pm/items/7682496' }
               ]
@@ -219,6 +221,7 @@ export default defineConfig({
                 items: [
                   {text: 'アバター紹介', link: '/ja/vrchat/rokona' },
                   {text: '対応アイテム', link: '/ja/vrchat/rokona/item' },
+                  {text: 'メディア', link: '/ja/vrchat/rokona/media' },
                   {text: 'アップデート記録', link: '/ja/vrchat/rokona/update' }
                 ]
               },
@@ -284,6 +287,7 @@ export default defineConfig({
               items: [
                 {text: 'アバター紹介', link: '/ja/vrchat/rokona' },
                 {text: '対応アイテム', link: '/ja/vrchat/rokona/item' },
+                {text: 'メディア', link: '/ja/vrchat/rokona/media' },
                 {text: 'アップデート記録', link: '/ja/vrchat/rokona/update' },
                 {text: 'BOOTHページ', link: 'https://macchiato.booth.pm/items/7682496' }
               ]

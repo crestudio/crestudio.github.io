@@ -1,6 +1,7 @@
 import DefaultTheme from 'vitepress/theme-without-fonts'
-import ItemGrid from './component/itemgrid.vue'
+import EmbedTweet from './component/embedtweet.vue'
 import IllustrationGrid from './component/illustrationgrid.vue'
+import ItemGrid from './component/itemgrid.vue'
 
 import './caramel_macchiato.css'
 import './features.css'
@@ -13,7 +14,8 @@ import './video.css'
 export default {
   extends: DefaultTheme,
   enhanceApp({ app }) {
-    app.component('ItemGrid', ItemGrid),
-    app.component('IllustrationGrid', IllustrationGrid)
+    app.component('EmbedTweet', EmbedTweet),
+    app.component('IllustrationGrid', IllustrationGrid),
+    app.component('ItemGrid', ItemGrid)
   }
 }
