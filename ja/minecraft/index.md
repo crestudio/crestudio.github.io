@@ -54,7 +54,7 @@ minecraft.macchiato.kr
 - サーバーバージョン：1.26.2
 - 管理者：`Reonasa`、`マキアート`
 - オペレーター：`Dalgona.`、`MetalHoot`、`mzk`、~~`hibiya`~~
-- 運営開始日：2015年3月5日
+- 運営期間：2015年3月5日 - 現在
 
 ### koyomi フエエ マインクラフトサーバー {#koyomi}
 
