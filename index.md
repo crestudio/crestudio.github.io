@@ -78,3 +78,10 @@ features:
     linkText: 더 알아보기
 ---
 
+<script setup>
+import { VPButton } from 'vitepress/theme'
+</script>
+
+<div class="macchiato-center">
+<VPButton tag="a" href="./news" text="더 알아보기" theme="brand" />
+</div>

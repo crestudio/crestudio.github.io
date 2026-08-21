@@ -78,3 +78,10 @@ features:
     linkText: 詳しく見る
 ---
 
+<script setup>
+import { VPButton } from 'vitepress/theme'
+</script>
+
+<div class="macchiato-center">
+<VPButton tag="a" href="./news" text="詳しく見る" theme="brand" />
+</div>
