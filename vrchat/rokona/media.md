@@ -30,9 +30,13 @@ outline: [1, 2]
 
 <EmbedTweet url="https://x.com/k424ri/status/2032407146252644555" />
 
+<EmbedTweet url="https://x.com/nana_kokon/status/2040516923335864568" />
+
 <EmbedTweet url="https://x.com/marimo0084570/status/2019324434465845746" />
 
 <EmbedTweet url="https://x.com/sushixpasuta/status/2015752812681187580" />
+
+<EmbedTweet url="https://x.com/nana_kokon/status/2015090726586261533" />
 
 <br>
 
@@ -71,6 +75,8 @@ outline: [1, 2]
 <EmbedTweet url="https://x.com/uduki_whol/status/2009620330030272897" />
 
 <EmbedTweet url="https://x.com/uduki_whol/status/2008874387756433780" />
+
+<EmbedTweet url="https://x.com/nana_kokon/status/2008099014814978051" />
 
 <EmbedTweet url="https://x.com/zerorinvrc/status/2013646364220051684" />
 
