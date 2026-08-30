@@ -259,6 +259,13 @@ outline: [1, 2]
     link: 'https://amanoissui.booth.pm/items/8065318'
   },
   {
+    store: '綿飴屋 Wataameya',
+    title: 'つぶせる！押せる！ましゅまろPB(Marshmallow PB)',
+    image: '/assets/rokona/item/gimmick/7049a030-8ee7-4b77-9136-ab146dd880db.jpg',
+    tags: ['gimmick'],
+    link: 'https://wataame89.booth.pm/items/4511536'
+  },
+  {
     store: 'Rice_Works',
     title: '「AddPlus」for Rokona',
     image: '/assets/rokona/item/gimmick/b5d427a2-b670-4afd-9db8-1c6c397f5510.jpg',
