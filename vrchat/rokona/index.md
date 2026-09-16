@@ -14,11 +14,16 @@ import { VPButton } from 'vitepress/theme'
 
 ![표지](/assets/rokona/information/rokona_information_1.jpg)
 ![전신샷](/assets/rokona/information/rokona_information_2.jpg)
-![전신샷 (속옷)](/assets/rokona/information/rokona_information_3.jpg)
-![표정](/assets/rokona/information/rokona_information_4.jpg)
-![학생가방](/assets/rokona/information/rokona_information_5.jpg)
-![학생회장 완장](/assets/rokona/information/rokona_information_6.jpg)
-![라이센스](/assets/rokona/information/rokona_information_7.jpg)
+![속옷샷](/assets/rokona/information/rokona_information_3.jpg)
+![체형변경](/assets/rokona/information/rokona_information_4.jpg)
+![표정](/assets/rokona/information/rokona_information_5.jpg)
+![액세서리](/assets/rokona/information/rokona_information_6.jpg)
+![사진](/assets/rokona/information/rokona_information_7.jpg)
+![사진](/assets/rokona/information/rokona_information_8.jpg)
+![사진](/assets/rokona/information/rokona_information_9.jpg)
+![사진](/assets/rokona/information/rokona_information_10.jpg)
+![사진](/assets/rokona/information/rokona_information_11.jpg)
+![사진](/assets/rokona/information/rokona_information_12.jpg)
 
 📢 <로코나> 아바타 가격 조정 안건에 대해 안내드리겠습니다<br>
 통지 없이 가격을 조정을 실시하여서 대단히 죄송합니다, 이에 따른 불편함을 겪으신 분들에게 대한 후속조치에 대한 내용도 시행하겠습니다<br>

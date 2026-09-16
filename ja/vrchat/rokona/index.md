@@ -14,11 +14,16 @@ import { VPButton } from 'vitepress/theme'
 
 ![表紙](/assets/rokona/information/rokona_information_1.jpg)
 ![全身](/assets/rokona/information/rokona_information_2.jpg)
-![全身（下着）](/assets/rokona/information/rokona_information_3.jpg)
-![表情](/assets/rokona/information/rokona_information_4.jpg)
-![スクールバッグ](/assets/rokona/information/rokona_information_5.jpg)
-![生徒会長腕章](/assets/rokona/information/rokona_information_6.jpg)
-![ライセンス](/assets/rokona/information/rokona_information_7.jpg)
+![下着](/assets/rokona/information/rokona_information_3.jpg)
+![体型調整](/assets/rokona/information/rokona_information_4.jpg)
+![表情](/assets/rokona/information/rokona_information_5.jpg)
+![アクセサリー](/assets/rokona/information/rokona_information_6.jpg)
+![写真](/assets/rokona/information/rokona_information_7.jpg)
+![写真](/assets/rokona/information/rokona_information_8.jpg)
+![写真](/assets/rokona/information/rokona_information_9.jpg)
+![写真](/assets/rokona/information/rokona_information_10.jpg)
+![写真](/assets/rokona/information/rokona_information_11.jpg)
+![写真](/assets/rokona/information/rokona_information_12.jpg)
 
 📢 〈ロコナ〉アバターの価格調整についてお知らせいたします。<br>
 事前のご案内がなく、ご迷惑をおかけしてしまい本当に申し訳ありません。ご購入者の皆さまへの対応も行ってまいります。<br>
