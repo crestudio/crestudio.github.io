@@ -53,6 +53,7 @@ export default defineConfig({
           { text: '마끼아또',
             items: [
               {text: '소개', link: '/macchiato' },
+              {text: '커미션 및 외주', link: '/macchiato/request' },
               {text: '포트폴리오', link: '/macchiato/portfolio' }
             ]
           },
@@ -104,7 +105,8 @@ export default defineConfig({
             {
               text: '마끼아또',
               items: [
-                {text: '소개', link: '/macchiato' }
+                {text: '소개', link: '/macchiato' },
+                {text: '커미션 및 외주', link: '/macchiato/request' }
               ]
             },
             {
@@ -210,6 +212,7 @@ export default defineConfig({
           { text: 'マキアート',
             items: [
               {text: '紹介', link: '/ja/macchiato' },
+              {text: '制作依頼', link: '/ja/macchiato/request' },
               {text: 'ポートフォリオ', link: '/ja/macchiato/portfolio' }
             ]
           },
@@ -261,7 +264,8 @@ export default defineConfig({
             {
               text: 'マキアート',
               items: [
-                {text: '紹介', link: '/ja/macchiato' }
+                {text: '紹介', link: '/ja/macchiato' },
+                {text: '制作依頼', link: '/ja/macchiato/request' }
               ]
             },
             {
