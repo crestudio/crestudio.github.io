@@ -383,6 +383,13 @@ outline: [1, 2]
     link: 'https://atelierneruma.booth.pm/items/7732012'
   },
   {
+    store: 'Earl Grey',
+    title: '【25 Avatars】✦Mystical✦ Eye Texture【20 Color】',
+    image: '/assets/rokona/item/texture/5d6a4d88-b15e-4817-90d7-4ed5e2f8f948.jpg',
+    tags: ['texture'],
+    link: 'https://rmry04.booth.pm/items/8738184'
+  },
+  {
     store: 'うさらば',
     title: 'アニメっぽいアイテクスチャ アニ目',
     image: '/assets/rokona/item/texture/5c86f2c4-24d4-4275-91a0-0b8fd008f4d4.jpg',

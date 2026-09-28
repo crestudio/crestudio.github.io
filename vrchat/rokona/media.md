@@ -56,6 +56,10 @@ outline: [1, 2]
 
 <EmbedTweet url="https://x.com/heart_VRC/status/2075885412976128168" />
 
+<EmbedTweet url="https://x.com/NE_KE__oo/status/2101959632197755136" />
+
+<EmbedTweet url="https://x.com/NE_KE__oo/status/2096580029702680667" />
+
 <EmbedTweet url="https://x.com/sushixpasuta/status/2067962795942179246" />
 
 <EmbedTweet url="https://x.com/sushixpasuta/status/2006623653123993818" />
