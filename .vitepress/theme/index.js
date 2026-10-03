@@ -4,6 +4,7 @@ import IllustrationGrid from './component/illustrationgrid.vue'
 import ItemGrid from './component/itemgrid.vue'
 
 import './caramel_macchiato.css'
+import './container.css'
 import './features.css'
 import './hero.css'
 import './hero_macchiato.css'

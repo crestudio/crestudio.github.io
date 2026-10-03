@@ -1,0 +1,126 @@
+:root {
+    --macchiato-c-info: color-mix(in oklab, #656D78 90%, var(--vp-c-bg-soft));
+    --macchiato-c-tip: color-mix(in oklab, #4A89DC 90%, var(--vp-c-bg-soft));
+    --macchiato-c-warning: color-mix(in oklab, #F6BB42 90%, var(--vp-c-bg-soft));
+    --macchiato-c-danger: color-mix(in oklab, #DA4453 90%, var(--vp-c-bg-soft));
+}
+
+.custom-block {
+  border: none !important;
+  border-left: 4px solid var(--vp-c-brand-1) !important;
+  padding: 1rem 1.25rem !important;
+}
+
+.custom-block .custom-block-title,
+.custom-block.details summary {
+  display: flex !important;
+  align-items: center !important;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem !important;
+}
+
+.custom-block .custom-block-title::before,
+.custom-block.details summary::before {
+  content: "";
+  display: inline-block;
+  width: 1.25rem;
+  height: 1.25rem;
+  margin-right: -0.7rem; 
+  vertical-align: middle;
+  background-color: currentColor;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+  -webkit-mask-position: center;
+  mask-position: center;
+}
+
+.custom-block.info {
+  border-left-color: var(--macchiato-c-info) !important;
+  background-color: color-mix(in srgb, var(--macchiato-c-info) 10%, var(--vp-c-bg-soft)) !important;
+}
+.custom-block.info .custom-block-title {
+  color: var(--macchiato-c-info) !important;
+}
+
+.custom-block.tip {
+  border-left-color: var(--macchiato-c-tip) !important;
+  background-color: color-mix(in srgb, var(--macchiato-c-tip) 10%, var(--vp-c-bg-soft)) !important;
+}
+.custom-block.tip .custom-block-title {
+  color: var(--macchiato-c-tip) !important;
+}
+
+.custom-block.warning {
+  border-left-color: var(--macchiato-c-warning) !important;
+  background-color: color-mix(in srgb, var(--macchiato-c-warning) 10%, var(--vp-c-bg-soft)) !important;
+}
+.custom-block.warning .custom-block-title {
+  color: var(--macchiato-c-warning) !important;
+}
+
+.custom-block.danger {
+  border-left-color: var(--macchiato-c-danger) !important;
+  background-color: color-mix(in srgb, var(--macchiato-c-danger) 10%, var(--vp-c-bg-soft)) !important;
+}
+.custom-block.danger .custom-block-title {
+  color: var(--macchiato-c-danger) !important;
+}
+
+.custom-block.details {
+  border-left-color: var(--vp-c-gutter) !important;
+  background-color: var(--vp-c-bg-soft) !important;
+}
+
+.custom-block.info .custom-block-title::before {
+  -webkit-mask-image: url('/assets/icon/info.svg');
+  mask-image: url('/assets/icon/info.svg');
+}
+
+.custom-block.tip .custom-block-title::before {
+  -webkit-mask-image: url('/assets/icon/tip.svg');
+  mask-image: url('/assets/icon/tip.svg');
+}
+
+.custom-block.warning .custom-block-title::before {
+  -webkit-mask-image: url('/assets/icon/warning.svg');
+  mask-image: url('/assets/icon/warning.svg');
+}
+
+.custom-block.danger .custom-block-title::before {
+  -webkit-mask-image: url('/assets/icon/danger.svg');
+  mask-image: url('/assets/icon/danger.svg');
+}
+
+.custom-block.details summary::before {
+  -webkit-mask-image: url('/assets/icon/detail.svg');
+  mask-image: url('/assets/icon/detail.svg');
+  transition: transform;
+}
+
+.custom-block.details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+[lang]:where(:lang(ko-KR)) .custom-block.info .custom-block-title { font-size: 0 !important; }
+[lang]:where(:lang(ko-KR)) .custom-block.info .custom-block-title::after { content: "안내"; font-size: 1rem; }
+[lang]:where(:lang(ko-KR)) .custom-block.tip .custom-block-title { font-size: 0 !important; }
+[lang]:where(:lang(ko-KR)) .custom-block.tip .custom-block-title::after { content: "팁"; font-size: 1rem; }
+[lang]:where(:lang(ko-KR)) .custom-block.warning .custom-block-title { font-size: 0 !important; }
+[lang]:where(:lang(ko-KR)) .custom-block.warning .custom-block-title::after { content: "주의"; font-size: 1rem; }
+[lang]:where(:lang(ko-KR)) .custom-block.danger .custom-block-title { font-size: 0 !important; }
+[lang]:where(:lang(ko-KR)) .custom-block.danger .custom-block-title::after { content: "중요"; font-size: 1rem; }
+[lang]:where(:lang(ko-KR)) .custom-block.details summary { font-size: 0 !important; }
+[lang]:where(:lang(ko-KR)) .custom-block.details summary::after { content: "상세"; font-size: 1rem; }
+
+[lang]:where(:lang(ja-JP)) .custom-block.info .custom-block-title { font-size: 0 !important; }
+[lang]:where(:lang(ja-JP)) .custom-block.info .custom-block-title::after { content: "ご案内"; font-size: 1rem; }
+[lang]:where(:lang(ja-JP)) .custom-block.tip .custom-block-title { font-size: 0 !important; }
+[lang]:where(:lang(ja-JP)) .custom-block.tip .custom-block-title::after { content: "ヒント"; font-size: 1rem; }
+[lang]:where(:lang(ja-JP)) .custom-block.warning .custom-block-title { font-size: 0 !important; }
+[lang]:where(:lang(ja-JP)) .custom-block.warning .custom-block-title::after { content: "ご注意"; font-size: 1rem; }
+[lang]:where(:lang(ja-JP)) .custom-block.danger .custom-block-title { font-size: 0 !important; }
+[lang]:where(:lang(ja-JP)) .custom-block.danger .custom-block-title::after { content: "重要"; font-size: 1rem; }
+[lang]:where(:lang(ja-JP)) .custom-block.details summary { font-size: 0 !important; }
+[lang]:where(:lang(ja-JP)) .custom-block.details summary::after { content: "詳細"; font-size: 1rem; }
