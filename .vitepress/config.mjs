@@ -73,7 +73,7 @@ export default defineConfig({
                 text: 'VRChat',
                 items: [
                   {text: '가이드', link: '/vrchat/guide/vrchat-avatar-component' },
-                  {text: '애드온', link: '/vrchat/addon/vpm' }
+                  {text: '애드온', link: '/vrchat/addon' }
                 ]
               }
             ]
@@ -148,10 +148,16 @@ export default defineConfig({
               text: '애드온',
               collapsed: true,
               items: [
-                {text: 'VPM 등록', link: '/addon/vpm' },
-                {text: 'Cleaner', link: '/addon/cleaner' },
-                {text: 'Core', link: '/addon/core' },
-                {text: 'Utility', link: '/addon/utility' }
+                {text: '애드온 목록', link: '/vrchat/addon' },
+                {text: 'VPM 등록', link: '/vrchat/addon/vpm' },
+                {text: 'Cleaner', link: '/vrchat/addon/unity/cleaner' },
+                {text: 'Core', link: '/vrchat/addon/unity/core' },
+                {text: 'Utility', link: '/vrchat/addon/unity/utility' },
+                {text: 'Blender Utility', link: '/vrchat/addon/blender/blender-utility' },
+                {text: 'Bone Utility', link: '/vrchat/addon/blender/bone-utility' },
+                {text: 'ShapeKey Utility', link: '/vrchat/addon/blender/shapekey-utility' },
+                {text: 'Vertex Utility', link: '/vrchat/addon/blender/vertex-utility' },
+                {text: 'Weight Utility', link: '/vrchat/addon/blender/weight-utility' }
               ]
             }
           ],
@@ -232,7 +238,7 @@ export default defineConfig({
                 text: 'VRChat',
                 items: [
                   {text: 'ガイド', link: '/ja/vrchat/guide/vrchat-avatar-component' },
-                  {text: 'アドオン', link: '/ja/vrchat/addon/vpm' }
+                  {text: 'アドオン', link: '/ja/vrchat/addon' }
                 ]
               }
             ]
@@ -307,10 +313,16 @@ export default defineConfig({
               text: 'アドオン',
               collapsed: true,
               items: [
-                {text: 'VPM登録', link: '/ja/addon/vpm' },
-                {text: 'Cleaner', link: '/ja/addon/cleaner' },
-                {text: 'Core', link: '/ja/addon/core' },
-                {text: 'Utility', link: '/ja/addon/utility' }
+                {text: 'アドオン一覧', link: '/ja/vrchat/addon' },
+                {text: 'VPM登録', link: '/ja/vrchat/addon/vpm' },
+                {text: 'Cleaner', link: '/ja/vrchat/addon/unity/cleaner' },
+                {text: 'Core', link: '/ja/vrchat/addon/unity/core' },
+                {text: 'Utility', link: '/ja/vrchat/addon/unity/utility' },
+                {text: 'Blender Utility', link: '/ja/vrchat/addon/blender/blender-utility' },
+                {text: 'Bone Utility', link: '/ja/vrchat/addon/blender/bone-utility' },
+                {text: 'ShapeKey Utility', link: '/ja/vrchat/addon/blender/shapekey-utility' },
+                {text: 'Vertex Utility', link: '/ja/vrchat/addon/blender/vertex-utility' },
+                {text: 'Weight Utility', link: '/ja/vrchat/addon/blender/weight-utility' }
               ]
             }
           ],
