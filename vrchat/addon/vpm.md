@@ -7,7 +7,27 @@ outline: [1, 3]
 ---
 
 <script setup>
-    import { VPButton } from 'vitepress/theme'
+  import { VPButton } from 'vitepress/theme'
+  const UnityItem = [
+    {
+        title: 'Cleaner',
+        description: 'Unity 에셋 정리 및 정렬 관련 애드온',
+        src: '/assets/addon/unity/macchiato-cleaner.jpg',
+        link: '/vrchat/addon/unity/cleaner'
+    },
+    {
+        title: 'Core',
+        description: 'VRChat 관련 Unity 함수 라이브러리',
+        src: '/assets/addon/unity/macchiato-core.jpg',
+        link: '/vrchat/addon/unity/core'
+    },
+    {
+        title: 'Utility',
+        description: '아바타 개변을 도와주는 각종 유용한 애드온',
+        src: '/assets/addon/unity/macchiato-utility.jpg',
+        link: '/vrchat/addon/unity/utility'
+    }
+  ]
 </script>
 
 # VPM 등록 및 패키지 설치 {#setup-vpm}
@@ -51,3 +71,11 @@ Packages 탭에서 **Add Repository 버튼을 누른 후 `https://macchiato.kr/v
 ![패키지 설치](/assets/addon/vpm/vpm_5_add_package.jpg)
 
 **원하는 Macchiato 패키지에서 + 버튼 클릭**합니다
+
+<br>
+
+---
+
+# 마끼아또 패키지 {#macchiato-package}
+
+<PageGrid :items="UnityItem" />

@@ -8,6 +8,26 @@ outline: [1, 3]
 
 <script setup>
   import { VPButton } from 'vitepress/theme'
+  const UnityItem = [
+    {
+        title: 'Cleaner',
+        description: 'Unityアセットの整理や整列を行うアドオン',
+        src: '/assets/addon/unity/macchiato-cleaner.jpg',
+        link: '/vrchat/addon/unity/cleaner'
+    },
+    {
+        title: 'Core',
+        description: 'VRChat向けのUnity用関数ライブラリ',
+        src: '/assets/addon/unity/macchiato-core.jpg',
+        link: '/vrchat/addon/unity/core'
+    },
+    {
+        title: 'Utility',
+        description: 'アバターの改変をサポートする便利な各種アドオン',
+        src: '/assets/addon/unity/macchiato-utility.jpg',
+        link: '/vrchat/addon/unity/utility'
+    }
+  ]
 </script>
 
 # VPM登録とパッケージのインストール {#setup-vpm}
@@ -51,3 +71,11 @@ VRChat Creator Companionで**「Settings」ボタン**をクリックします�
 ![パッケージのインストール](/assets/addon/vpm/vpm_5_add_package.jpg)
 
 インストールしたい**パッケージ**の**「＋」**ボタンをクリックします。
+
+<br>
+
+---
+
+# マキアートパッケージ {#macchiato-package}
+
+<PageGrid :items="UnityItem" />
