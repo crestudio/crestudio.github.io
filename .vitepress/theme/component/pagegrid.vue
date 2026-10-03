@@ -109,6 +109,12 @@ defineProps({
   text-overflow: ellipsis;
 }
 
+:deep(.card-title)::before,
+:where(.vp-doc) .card-title::before {
+  content: none !important;
+  display: none !important;
+}
+
 .card-description {
   margin: 0.25rem 0 0 0 !important;
   padding: 0 !important;
