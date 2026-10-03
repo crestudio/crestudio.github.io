@@ -1,6 +1,7 @@
 :root {
     --macchiato-c-info: color-mix(in oklab, #656D78 90%, var(--vp-c-bg-soft));
     --macchiato-c-tip: color-mix(in oklab, #4A89DC 90%, var(--vp-c-bg-soft));
+    --macchiato-c-tip-background: color-mix(in oklab, #4A89DC 20%, var(--vp-c-bg-soft));
     --macchiato-c-warning: color-mix(in oklab, #F6BB42 90%, var(--vp-c-bg-soft));
     --macchiato-c-danger: color-mix(in oklab, #DA4453 90%, var(--vp-c-bg-soft));
 }
@@ -49,6 +50,10 @@
   background-color: color-mix(in srgb, var(--macchiato-c-tip) 10%, var(--vp-c-bg-soft)) !important;
 }
 .custom-block.tip .custom-block-title {
+  color: var(--macchiato-c-tip) !important;
+}
+.custom-block.tip code {
+  background-color:  var(--macchiato-c-tip-background) !important;
   color: var(--macchiato-c-tip) !important;
 }
 
