@@ -381,14 +381,14 @@ export default defineConfig({
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'Caramel Macchiato' }],
     ['meta', { property: 'og:description', content: '| DESIGN. DRAW. PLAY.' }],
-    ['meta', { property: 'og:siteName', content: 'Caramel Macchiato' }],
+    ['meta', { property: 'og:site_name', content: 'Caramel Macchiato' }],
     ['meta', { property: 'og:image', content: 'https://macchiato.kr/assets/card/website_card.jpg' }],
-    ['meta', { property: 'og:url', content: 'https://macchiato.kr' }],
+    ['meta', { property: 'og:url', content: 'https://macchiato.kr/' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { name: 'twitter:title', content: 'Caramel Macchiato' }],
     ['meta', { name: 'twitter:description', content: '| DESIGN. DRAW. PLAY.' }],
     ['meta', { name: 'twitter:image', content: 'https://macchiato.kr/assets/card/website_card.jpg' }],
-    ['meta', { name: 'twitter:creator', content: '@VRSuya' }],
+    ['meta', { name: 'twitter:creator', content: '@VRC_Macchiato' }],
     ['meta', { name: 'twitter:domain', content: 'macchiato.kr' }]
   ],
   sitemap: {
@@ -426,14 +426,14 @@ export default defineConfig({
       head.push(['meta', { name: 'twitter:card', content: 'summary_large_image' }])
     }
 
-    head.push(['meta', { property: 'og:siteName', content: 'Caramel Macchiato' }])
-    head.push(['meta', { property: 'og:url', content: `https://macchiato.kr${pageData.relativePath.replace(/(index)?\.md$/, '')}` }])
+    head.push(['meta', { property: 'og:site_name', content: 'Caramel Macchiato' }])
+    head.push(['meta', { property: 'og:url', content: `https://macchiato.kr/${pageData.relativePath.replace(/(index)?\.md$/, '')}` }])
     head.push(['meta', { property: 'og:type', content: 'website' }])
     head.push(['meta', { property: 'og:locale', content: locale }])
     head.push(['meta', { property: 'og:locale:alternate', content: alternateLocale }])
 
-    head.push(['meta', { property: 'twitter:domain', content: 'macchiato.kr' }])
-    head.push(['meta', { property: 'twitter:creator', content: '@VRC_Macchiato' }])
+    head.push(['meta', { name: 'twitter:domain', content: 'macchiato.kr' }])
+    head.push(['meta', { name: 'twitter:creator', content: '@VRC_Macchiato' }])
 
     return head
   }
