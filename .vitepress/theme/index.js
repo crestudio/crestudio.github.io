@@ -1,6 +1,7 @@
 import DefaultTheme from 'vitepress/theme-without-fonts'
 import EmbedTweet from './component/embedtweet.vue'
 import IllustrationGrid from './component/illustrationgrid.vue'
+import ImageCarousel from './component/imagecarousel.vue'
 import ItemGrid from './component/itemgrid.vue'
 import PageGrid from './component/pagegrid.vue'
 
@@ -18,6 +19,7 @@ export default {
   enhanceApp({ app }) {
     app.component('EmbedTweet', EmbedTweet),
     app.component('IllustrationGrid', IllustrationGrid),
+    app.component('ImageCarousel', ImageCarousel),
     app.component('ItemGrid', ItemGrid),
     app.component('PageGrid', PageGrid)
   }
