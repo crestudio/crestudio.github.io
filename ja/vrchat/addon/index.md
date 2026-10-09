@@ -7,6 +7,14 @@ aside: false
 
 <script setup>
     import { VPButton } from 'vitepress/theme'
+    const PaidItem = [
+        {
+            title: 'MaterialTemplate',
+            description: 'VRChatマテリアル・リアルタイム仮想適用アドオン',
+            src: '/assets/addon/unity/materialtemplate.jpg',
+            link: '/vrchat/addon/unity/materialtemplate'
+        }
+    ]
     const UnityItem = [
         {
             title: 'Cleaner',
@@ -60,6 +68,14 @@ aside: false
         }
     ]
 </script>
+
+# 有料アドオン {#paid-addon}
+
+<PageGrid :items="PaidItem" />
+
+<br>
+
+---
 
 # Unity アドオン {#unity-addon}
 

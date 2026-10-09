@@ -262,6 +262,11 @@
   height: auto;
 }
 
+.macchiato-image {
+  width: 100%;
+  max-width: 512px !important;
+}
+
 .img-small  { width: 64px; }
 .img-medium { width: 128px; }
 .img-large  { width: 256px; }

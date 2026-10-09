@@ -73,7 +73,8 @@ export default defineConfig({
                 text: 'VRChat',
                 items: [
                   {text: '가이드', link: '/vrchat/guide/vrchat-avatar-component' },
-                  {text: '애드온', link: '/vrchat/addon' }
+                  {text: '애드온', link: '/vrchat/addon' },
+                  {text: 'MaterialTemplate', link: '/vrchat/addon/unity/materialtemplate' }
                 ]
               }
             ]
@@ -149,6 +150,7 @@ export default defineConfig({
               collapsed: true,
               items: [
                 {text: '애드온 목록', link: '/vrchat/addon' },
+                {text: 'MaterialTemplate', link: '/vrchat/addon/unity/materialtemplate' },
                 {text: 'VPM 등록', link: '/vrchat/addon/vpm' },
                 {text: 'Cleaner', link: '/vrchat/addon/unity/cleaner' },
                 {text: 'Core', link: '/vrchat/addon/unity/core' },
@@ -238,7 +240,8 @@ export default defineConfig({
                 text: 'VRChat',
                 items: [
                   {text: 'ガイド', link: '/ja/vrchat/guide/vrchat-avatar-component' },
-                  {text: 'アドオン', link: '/ja/vrchat/addon' }
+                  {text: 'アドオン', link: '/ja/vrchat/addon' },
+                  {text: 'MaterialTemplate', link: '/ja/vrchat/addon/unity/materialtemplate' }
                 ]
               }
             ]
@@ -314,6 +317,7 @@ export default defineConfig({
               collapsed: true,
               items: [
                 {text: 'アドオン一覧', link: '/ja/vrchat/addon' },
+                {text: 'MaterialTemplate', link: '/ja/vrchat/addon/unity/materialtemplate' },
                 {text: 'VPM登録', link: '/ja/vrchat/addon/vpm' },
                 {text: 'Cleaner', link: '/ja/vrchat/addon/unity/cleaner' },
                 {text: 'Core', link: '/ja/vrchat/addon/unity/core' },

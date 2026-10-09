@@ -65,37 +65,6 @@ Unity에서는 많은 에셋들이 GUID로 관리 되기 때문에, 해당 GUID�
 
 <br>
 
-## MaterialTemplate
-
-![MaterialTemplate](/assets/addon/unity/materialtemplate_ko.jpg)
-
-### 실행 방법 {#materialtemplate-run}
-
-- Unity 에디터 상단 메뉴에서 Tools → Macchiato → Utility → MaterialTemplate 실행
-
-### 사용 방법 {#materialtemplate-how-to-use}
-
-1. `아바타` 항목에 머테리얼을 추출할 대상 아바타를 넣습니다
-1. `아바타 머테리얼 가져오기` 버튼을 누르거나, 머테리얼 란에 적용을 할 머테리얼을 넣습니다
-1. `참조 머테리얼`에 기준이 되는 머테리얼을 넣습니다, 넣으면 자동으로 아래 리스트의 컬러들이 업데이트 됩니다 <small>(넣지 않는다면 프로퍼티 값들은 마끼아또 스타일로 들어갑니다)</small>
-1. 아래의 체크박스에서 적용하고 싶은 섹션이나 강제로 적용하고 싶은 기능, 적용할 색상을 선택합니다
-1. `업데이트` 버튼을 눌러서 적용합니다
-1. 결과가 마음에 들지 않는다면 `실행 취소`를 눌러서 복구합니다
-
-::: info
-
-`활성화된 경우에만 값 적용` 기능은 적용할 머테리얼이 해당 기능을 사용하고 있으면 프로퍼티를 적용합니다, 예를 들면 그림자를 사용하지 않는 머테리얼은 그림자 색상과 프로퍼티 값을 적용하지 않습니다
-
-:::
-
-::: danger
-
-실행 취소는 **마지막으로 적용한 내용만을 되돌립니다**, 필요하다면 작업 전에 백업을 권장합니다
-
-:::
-
-<br>
-
 ## MeshRendererUtility
 
 [모듈러 아바타](https://modular-avatar.nadena.dev/)와 같은 애드온들로 직접 렌더러 설정을 조작할 필요가 없어졌으나, 제작자의 경우 원하는 렌더러 세팅으로 배포를 하는게 무척 중요합니다, 이러한 기능을 원클릭으로 끝낼 수 있게 도와줍니다
@@ -112,7 +81,7 @@ Unity에서는 많은 에셋들이 GUID로 관리 되기 때문에, 해당 GUID�
 
 ### Update Renderer Setting {#meshrendererutility-update-renderer-setting}
 
-아래의 4가지 기능을 한 번에 수행합니다
+아래의 5가지 기능을 한 번에 수행합니다
 
 #### Adjust Bound Box {#meshrendererutility-adjust-bound-box}
 
@@ -120,7 +89,7 @@ Unity에서는 많은 에셋들이 GUID로 관리 되기 때문에, 해당 GUID�
 
 #### Assign AnchorOverride {#meshrendererutility-assign-anchorOverride}
 
-아바타의 `Head`에 `AnchorOverride` GameObject를 생성한 뒤, 모든 `SkinnedMeshRender` 및 `MeshRenderer`에 할당합니다
+아바타의 기본 AnchorOverride 또는 `Head`에 `AnchorOverride` GameObject를 생성한 뒤, 모든 `SkinnedMeshRender` 및 `MeshRenderer`에 할당합니다
 
 #### Change Probes Settings {#meshrendererutility-change-probes-settings}
 
@@ -129,6 +98,10 @@ Unity에서는 많은 에셋들이 GUID로 관리 되기 때문에, 해당 GUID�
 #### Change to Two-Sided Shadow {#meshrendererutility-change-to-two-sided-shadow}
 
 단일 면으로 모델링 된 테니스 치마 같은 경우 뒷면 그림자가 그려지지 않는 비주얼 버그가 생길 수 있습니다, 이 설정은 이러한 문제를 해결해 줍니다, 모든 `SkinnedMeshRender` 및 `MeshRenderer`에서 Cast Shadows를 `Two Sided`으로 설정합니다
+
+#### Update MA Mesh Settings {#meshrendererutility-update-ma-mesh-settings}
+
+아바타의 모든 `MA Mesh Settings`를 수정하여, `부모에 설정이 있으면 상속, 없으면 설정` 모드로 변경 및 해당 아바타의 AnchorOverride와 Bounds 설정으로 변경합니다
 
 <br>
 
