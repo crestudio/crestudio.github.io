@@ -16,6 +16,26 @@ hero:
       text: お問い合わせ
       link: "https://macchiato.booth.pm/conversations/new"
 features:
+  - title: 🎨 MaterialTemplate 販売開始
+    details: VRChatアバターのマテリアルを、Modular Avatarのように適用後の状態を確認できる非破壊型アドオンを販売開始しました！リアルタイムプレビューはもちろん、実際のマテリアルに設定を適用する機能も備えていて、とても便利です！
+    icon: {
+      src: '/assets/news/website_news_materialtemplate_card.jpg',
+      alt: 'MaterialTemplate',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://macchiato.booth.pm/items/8960598"
+    linkText: 詳しく見る
+  - title: 🏘️ マキアート VRChat グループ始動
+    details: VRChatでのんびり作業や雑談を楽しむことを目的に、VRChatグループを立ち上げました！今後はアバターのお披露目など、さまざまな活動もこのグループを拠点に開催していきたいと考えています。
+    icon: {
+      src: '/assets/news/caramel_macchiato_group_card.jpg',
+      alt: 'Caramel Macchiato VRChat Group',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrc.group/COFFEE.2432"
+    linkText: 詳しく見る
   - title: 🧢 ヴィンテージデニムキャップ制作ガイド
     details: VRSuyaのメンバーであるNijeyさんの「ヴィンテージデニムキャップ」の制作ガイドを担当しました。BlenderからSubstance 3D Painter、Unityまで、各種アセット制作に必要な技術を解説しています。
     icon: {
@@ -55,26 +75,6 @@ features:
       height: 'auto'
     }
     link: "https://liberoboutique.booth.pm/items/8355832"
-    linkText: 詳しく見る
-  - title: 💕 ロコナいいね5000達成
-    details: たくさんの方々の応援のおかげで、ロコナアバターがBOOTHのいいね5000を達成しました！本当にありがとうございます！まだまだ至らないところも多いですが、これからもより良いアイテムを作れるように頑張っていきます！
-    icon: {
-      src: '/assets/news/rokona_booth_5000_card.jpg',
-      alt: 'ロコナいいね5000',
-      width: '100%',
-      height: 'auto'
-    }
-    link: "https://twitter.com/VRC_Macchiato/status/2069717333221032387"
-    linkText: 詳しく見る
-  - title: 🎫 超メタフェス2026参加
-    details: 秋葉原UDXで開催された超メタフェス2026に来場者として参加しました、VRChatの世界を盛り上げているたくさんのクリエイターの皆さんと楽しい時間を過ごすことができて良かったです！私もリアルグッズに挑戦してみたいですね。
-    icon: {
-      src: '/assets/news/super_metafes_2026_card.jpg',
-      alt: '超メタフェス2026',
-      width: '100%',
-      height: 'auto'
-    }
-    link: "https://vrcmtg.jp/"
     linkText: 詳しく見る
 ---
 

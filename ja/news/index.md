@@ -4,6 +4,26 @@ description: マキアートの新しい活動やアップデートのお知ら�
 layout: home
 
 features:
+  - title: 🎨 MaterialTemplate 販売開始
+    details: VRChatアバターのマテリアルを、Modular Avatarのように適用後の状態を確認できる非破壊型アドオンを販売開始しました！リアルタイムプレビューはもちろん、実際のマテリアルに設定を適用する機能も備えていて、とても便利です！
+    icon: {
+      src: '/assets/news/website_news_materialtemplate_card.jpg',
+      alt: 'MaterialTemplate',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://macchiato.booth.pm/items/8960598"
+    linkText: 詳しく見る
+  - title: 🏘️ マキアート VRChat グループ始動
+    details: VRChatでのんびり作業や雑談を楽しむことを目的に、VRChatグループを立ち上げました！今後はアバターのお披露目など、さまざまな活動もこのグループを拠点に開催していきたいと考えています。
+    icon: {
+      src: '/assets/news/caramel_macchiato_group_card.jpg',
+      alt: 'Caramel Macchiato VRChat Group',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrc.group/COFFEE.2432"
+    linkText: 詳しく見る
   - title: 🧢 ヴィンテージデニムキャップ制作ガイド
     details: VRSuyaのメンバーであるNijeyさんの「ヴィンテージデニムキャップ」の制作ガイドを担当しました。BlenderからSubstance 3D Painter、Unityまで、各種アセット制作に必要な技術を解説しています。
     icon: {

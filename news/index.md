@@ -4,6 +4,26 @@ description: 마끼아또의 새로운 이야기나 업데이트 알림, 각종 
 layout: home
 
 features:
+  - title: 🎨 머테리얼 템플릿 발매 개시
+    details: VRChat 아바타의 머테리얼을 모듈러 아바타처럼 적용된 모습만 볼 수 있는 비파괴 형태의 애드온이 발매개시하였습니다! 실시간 프리뷰와 실제 머테리얼에 적용하는 기능까지 있습니다, 매우 편리하답니다!
+    icon: {
+      src: '/assets/news/website_news_materialtemplate_card.jpg',
+      alt: 'MaterialTemplate',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://macchiato.booth.pm/items/8960598"
+    linkText: 더 알아보기
+  - title: 🏘️ 카라멜 마끼아또 VRChat 그룹 런칭
+    details: VRChat에서 느긋하게 작업이나 잡담을 하는 것을 목표로 VRChat 그룹을 런칭하였습니다, 이외에도 아바타 공개 등 저의 다양한 활동을 그룹을 기반으로 개최할 수 있도록 하려고 합니다
+    icon: {
+      src: '/assets/news/caramel_macchiato_group_card.jpg',
+      alt: 'Caramel Macchiato VRChat Group',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrc.group/COFFEE.2432"
+    linkText: 더 알아보기
   - title: 🧢 빈티지 데님 모자 제작 가이드
     details: VRSuya의 멤버 Nijey님의 빈티지 데님 모자 아이템 제작 가이드를 하였습니다, 블렌더부터 서브스탠스 페인터, 유니티 등 각종 에셋 제작에 필요한 기술을 가이드 하였습니다
     icon: {
