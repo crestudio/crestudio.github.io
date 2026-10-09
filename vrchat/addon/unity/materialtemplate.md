@@ -122,7 +122,7 @@ MaterialTemplate의 모든 기능을 이용하기 위해서는 아래의 구성�
 ### 모델 {#model}
 
 - Libero 선생님의 [Chained UP](https://liberoboutique.booth.pm/items/8355832)
-- Velvet Sky 선생님의 [DeviCute](https://velvetsky.booth.pm/items/8497386)
+- LookVook 선생님의 [Sera Yura](https://lookvook.booth.pm/items/8786891)
 - てんぷらぱすた 선생님의 [本命ニット](https://tempasta.booth.pm/items/6110958)
 - リネ 선생님의 [ねこタイドボブヘア](https://li-ne.booth.pm/items/7977491)
 - リネ 선생님의 [ラブリーロングヘア](https://li-ne.booth.pm/items/7643173)

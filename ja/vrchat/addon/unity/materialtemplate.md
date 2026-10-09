@@ -122,7 +122,7 @@ MaterialTemplate のすべての機能を利用するには、以下のコンポ
 ### モデル {#model}
 
 - Libero先生の[Chained UP](https://liberoboutique.booth.pm/items/8355832)
-- Velvet Sky先生の[DeviCute](https://velvetsky.booth.pm/items/8497386)
+- LookVook先生の[Sera Yura](https://lookvook.booth.pm/items/8786891)
 - てんぷらぱすた先生の[本命ニット](https://tempasta.booth.pm/items/6110958)
 - リネ先生の[ねこタイドボブヘア](https://li-ne.booth.pm/items/7977491)
 - リネ先生の[ラブリーロングヘア](https://li-ne.booth.pm/items/7643173)
