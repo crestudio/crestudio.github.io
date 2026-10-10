@@ -125,11 +125,14 @@ const handleTouchEnd = (e) => {
 }
 
 .carousel-slide {
-  min-width: 100%;
+  flex: 0 0 100%;
+  width: 100%;
+  min-width: 0;
   height: 100%;
-  flex-shrink: 0;
+  box-sizing: border-box;
 }
 
+:deep(.slide-img),
 .slide-img {
   width: 100%;
   height: 100%;
