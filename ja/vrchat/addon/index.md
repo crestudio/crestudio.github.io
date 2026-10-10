@@ -12,7 +12,7 @@ aside: false
             title: 'MaterialTemplate',
             description: 'VRChatマテリアル・リアルタイム仮想適用アドオン',
             src: '/assets/addon/unity/materialtemplate.jpg',
-            link: '/vrchat/addon/unity/materialtemplate'
+            link: '/ja/vrchat/addon/unity/materialtemplate'
         }
     ]
     const UnityItem = [
