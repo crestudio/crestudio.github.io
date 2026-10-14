@@ -13,9 +13,14 @@ outline: [1, 2]
 import { VPButton } from 'vitepress/theme'
 const MaterialTemplateImages = [
   { src: '/assets/addon/unity/materialtemplate/materialtemplate_1.jpg', alt: '표지' },
-  { src: '/assets/addon/unity/materialtemplate/materialtemplate_2.jpg', alt: '아바타에 전체 적용' },
-  { src: '/assets/addon/unity/materialtemplate/materialtemplate_3.jpg', alt: '같은 의상, 다른 아바타' },
-  { src: '/assets/addon/unity/materialtemplate/materialtemplate_4.jpg', alt: '같은 아바타, 다른 템플릿' },
+  { src: '/assets/addon/unity/materialtemplate/materialtemplate_2.jpg', alt: '이런 분에게 추천' },
+  { src: '/assets/addon/unity/materialtemplate/materialtemplate_3.jpg', alt: '아바타에 전체 적용' },
+  { src: '/assets/addon/unity/materialtemplate/materialtemplate_4.jpg', alt: '같은 의상, 다른 아바타' },
+  { src: '/assets/addon/unity/materialtemplate/materialtemplate_5.jpg', alt: '같은 아바타, 다른 템플릿' },
+  { src: '/assets/addon/unity/materialtemplate/materialtemplate_6.jpg', alt: '기존 방식과 차이점' },
+  { src: '/assets/addon/unity/materialtemplate/materialtemplate_7.jpg', alt: '빠른 적용' },
+  { src: '/assets/addon/unity/materialtemplate/materialtemplate_8.jpg', alt: '복제 없이 적용' },
+  { src: '/assets/addon/unity/materialtemplate/materialtemplate_9.jpg', alt: '예시' }
 ]
 </script>
 
