@@ -1,4 +1,4 @@
-# Website
+# crestudio.github.io
 
 ```
 마끼아또 웹사이트용 Git 리포지토리
@@ -7,7 +7,7 @@
 ## 리포지토리 주소
 
 ```
-https://gitlab.vrsuya.com/Macchiato/Website.git
+https://github.com/crestudio/crestudio.github.io.git
 ```
 
 ## Copyright
