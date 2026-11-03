@@ -51,13 +51,15 @@ const RokonaImages = [
 - PhysBone 대응
 - LipSync 대응
 - Full-Tracking 대응
+- Face Tracking 대응
 - 전체 폴리곤 ＝ △107,051
 - 기본 폴리곤 ＝ △68,825
 - 퍼포먼스 등급 ＝ Very Poor
 - 머테리얼 ＝ 14개
 - 얼굴 쉐이프키<br>
 ┗ 표정 및 개변용 ＝ 550개<br>
-┗ MMD용 ＝ 51개
+┗ MMD용 ＝ 51개<br>
+┗ 페이셜용 ＝ 102개
 - 바디 쉐이프키<br>
 ┗ 개변용 ＝ 18개
 - 기타 쉐이프키<br>
@@ -79,8 +81,8 @@ const RokonaImages = [
 
 - Blender 3.6.22 LTS
 - Unity 2022.3.22f1
-- VRChat Avatar SDK 3.9.0
-- lilToon 2.3.2
+- VRChat Avatar SDK 3.10.6
+- lilToon 2.4.1
 
 1. Unity 프로젝트에 VRChat SDK 및 lilToon 패키지를 도입합니다
 1. 로코나 아바타 Unity 패키지를 도입합니다
@@ -129,6 +131,10 @@ const RokonaImages = [
 - [Lunword](https://twitter.com/Lunword) 님
 - Rigidbody 님
 - [ケロちゃん](https://twitter.com/dekakerochan) 님
+
+### 페이셜 제작 협력 {#facial}
+
+- [귀등](https://twitter.com/Guideung_VRC) 님
 
 ### PNG 압축 툴 협력 {#png}
 

@@ -69,3 +69,20 @@ outline: [1, 2]
 - 아바타의 휴머노이드 Collider를 더 정확하게 수정
 - Viseme와 표정의 간섭을 줄이는 FX 레이어 추가
 - 풀트래킹 시 VRChat 의자에 앉아도 계속 트래킹하도록 기능 추가
+
+## 2026-11-04 / 버전 1.04 {#1.04}
+
+### 모델 {#1.04-model}
+
+- 페이셜용 쉐이프키 (Unified Expressions) 추가
+- 가슴 버텍스 14개 미러가 안 되어있는 현상 수정 (오른쪽 기준으로 수정)
+- Tangent 데이터 삭제
+
+### 머테리얼 및 텍스쳐 {#1.04-material}
+
+- 머테리얼 속성 개선 및 텍스쳐 프로퍼티 속성 통일
+
+### Unity 분야 {#1.04-unity}
+
+- AnimationHashSet 프로퍼티 삭제
+- VRChat Face Tracking 대응

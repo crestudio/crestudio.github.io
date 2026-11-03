@@ -51,13 +51,15 @@ const RokonaImages = [
 - PhysBone 対応
 - LipSync 対応
 - Full-Tracking 対応
+- Face Tracking 対応
 - ポリゴン数 ＝ △107,051
 - 着せ替えポリゴン数 ＝ △68,825
 - パフォーマンスランク ＝ Very Poor
 - マテリアル数 ＝ 14個
 - 顔シェイプキー<br>
 ┗ 表情・改変用 ＝ 550個<br>
-┗ MMD用 ＝ 51個
+┗ MMD用 ＝ 51個<br>
+┗ フェイシャル用 ＝ 102個
 - ボディシェイプキー<br>
 ┗ 改変用 ＝ 18個
 - その他シェイプキー<br>
@@ -79,8 +81,8 @@ const RokonaImages = [
 
 - Blender 3.6.22 LTS
 - Unity 2022.3.22f1
-- VRChat Avatar SDK 3.9.0
-- lilToon 2.3.2
+- VRChat Avatar SDK 3.10.6
+- lilToon 2.4.1
 
 1. UnityプロジェクトにVRChat SDKおよびlilToonパッケージを導入します。
 1. ロコナアバターのUnityパッケージを導入します。
@@ -129,6 +131,10 @@ const RokonaImages = [
 - [Lunword](https://twitter.com/Lunword) 様
 - Rigidbody 様
 - [ケロちゃん](https://twitter.com/dekakerochan) 様
+
+### フェイシャル制作協力 {#facial}
+
+- [Guideung](https://twitter.com/Guideung_VRC) 様
 
 ### PNG圧縮ツール協力 {#png}
 
