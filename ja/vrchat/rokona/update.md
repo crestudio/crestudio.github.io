@@ -72,6 +72,8 @@ outline: [1, 2]
 
 ## 2026-11-04 / バージョン 1.04 {#1.04}
 
+![フェイシャル対応](/assets/rokona/update/rokona_update_1.04_1_ja.jpg)
+
 ### モデル {#1.04-model}
 
 - フェイシャル用シェイプキー（Unified Expressions）を追加

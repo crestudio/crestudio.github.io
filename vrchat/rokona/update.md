@@ -72,6 +72,8 @@ outline: [1, 2]
 
 ## 2026-11-04 / 버전 1.04 {#1.04}
 
+![페이셜 대응](/assets/rokona/update/rokona_update_1.04_1_ko.jpg)
+
 ### 모델 {#1.04-model}
 
 - 페이셜용 쉐이프키 (Unified Expressions) 추가
