@@ -19,7 +19,7 @@ features:
   - title: 🎨 머테리얼 템플릿 발매 개시
     details: VRChat 아바타의 머테리얼을 모듈러 아바타처럼 적용된 모습만 볼 수 있는 비파괴 형태의 애드온이 발매개시하였습니다! 실시간 프리뷰와 실제 머테리얼에 적용하는 기능까지 있습니다, 매우 편리하답니다!
     icon: {
-      src: '/assets/news/website_news_materialtemplate_card.jpg',
+      src: '/assets/news/materialtemplate_card.jpg',
       alt: 'MaterialTemplate',
       width: '100%',
       height: 'auto'

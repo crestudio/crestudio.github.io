@@ -19,7 +19,7 @@ features:
   - title: 🎨 MaterialTemplate 販売開始
     details: VRChatアバターのマテリアルを、Modular Avatarのように適用後の状態を確認できる非破壊型アドオンを販売開始しました！リアルタイムプレビューはもちろん、実際のマテリアルに設定を適用する機能も備えていて、とても便利です！
     icon: {
-      src: '/assets/news/website_news_materialtemplate_card.jpg',
+      src: '/assets/news/materialtemplate_card.jpg',
       alt: 'MaterialTemplate',
       width: '100%',
       height: 'auto'
