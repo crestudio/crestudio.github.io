@@ -16,6 +16,26 @@ hero:
       text: 고객문의
       link: "https://macchiato.booth.pm/conversations/new"
 features:
+  - title: 👧 로코나 페이셜 대응
+    details: VRChat 업데이트로 이제 공식적으로 페이스 트래킹 기능을 사용할 수 있게 되었습니다, 이에 맞춰서 페이셜 쉐이프키를 추가하여 기본적으로 페이스 트래킹을 사용하실 수 있게 업데이트를 진행하였습니다
+    icon: {
+      src: '/assets/news/rokona_facial_card.jpg',
+      alt: '로코나 페이셜 업데이트',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://macchiato.booth.pm/items/7682496"
+    linkText: 더 알아보기
+  - title: 🏬 METAFES 2026 참가
+    details: METAFES 2026 이벤트에 아바타 부문으로 참가하였습니다, 여름을 생각하며 제작한 아바타라서 그런지 여름 월드에 배정을 받았네요! 내년 여름에도 로코나와 함께 해 주었으면 좋겠습니다
+    icon: {
+      src: '/assets/news/rokona_metafes_2026_card.jpg',
+      alt: 'METAFES 2026 로코나 부스',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrchat.com/home/world/wrld_567959fe-b9ed-4d03-b3a6-527e57635ffb"
+    linkText: 더 알아보기
   - title: 🎨 머테리얼 템플릿 발매 개시
     details: VRChat 아바타의 머테리얼을 모듈러 아바타처럼 적용된 모습만 볼 수 있는 비파괴 형태의 애드온이 발매개시하였습니다! 실시간 프리뷰와 실제 머테리얼에 적용하는 기능까지 있습니다, 매우 편리하답니다!
     icon: {
@@ -55,26 +75,6 @@ features:
       height: 'auto'
     }
     link: "https://vrsuya.com/addon/installer"
-    linkText: 더 알아보기
-  - title: 🏬 Vket 2026 Summer 포스터 참가
-    details: Vket 2026 Summer 이벤트에 포스터 부문으로 참가하였습니다, 많은 분들께서 로코나 아바타 포스터와 함께 사진을 찍어주셔서 감사했습니다! 브로드웨이 월드에서 다양한 크기의 포스터로 찾아 볼 수 있습니다
-    icon: {
-      src: '/assets/news/rokona_vket_card.jpg',
-      alt: '로코나 아바타 Vket 2026 포스터',
-      width: '100%',
-      height: 'auto'
-    }
-    link: "https://vket.com/2026Summer/worlds"
-    linkText: 더 알아보기
-  - title: 👮‍♀️ Chained UP 기믹 제작
-    details: Libero Boutique 스토어의 Chained UP 의상용 기믹들을 제작하였습니다, 리볼버 권총의 모듈러 아바타 대응 작업, 손전등과 무전기와 같은 다양한 경찰용 아이템 Unity 기믹 구현을 하였습니다
-    icon: {
-      src: '/assets/news/chained_up_card.jpg',
-      alt: 'Chained UP',
-      width: '100%',
-      height: 'auto'
-    }
-    link: "https://liberoboutique.booth.pm/items/8355832"
     linkText: 더 알아보기
 ---
 

@@ -4,6 +4,26 @@ description: 마끼아또의 새로운 이야기나 업데이트 알림, 각종 
 layout: home
 
 features:
+  - title: 👧 로코나 페이셜 대응
+    details: VRChat 업데이트로 이제 공식적으로 페이스 트래킹 기능을 사용할 수 있게 되었습니다, 이에 맞춰서 페이셜 쉐이프키를 추가하여 기본적으로 페이스 트래킹을 사용하실 수 있게 업데이트를 진행하였습니다
+    icon: {
+      src: '/assets/news/rokona_facial_card.jpg',
+      alt: '로코나 페이셜 업데이트',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://macchiato.booth.pm/items/7682496"
+    linkText: 더 알아보기
+  - title: 🏬 METAFES 2026 참가
+    details: METAFES 2026 이벤트에 아바타 부문으로 참가하였습니다, 여름을 생각하며 제작한 아바타라서 그런지 여름 월드에 배정을 받았네요! 내년 여름에도 로코나와 함께 해 주었으면 좋겠습니다
+    icon: {
+      src: '/assets/news/rokona_metafes_2026_card.jpg',
+      alt: 'METAFES 2026 로코나 부스',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrchat.com/home/world/wrld_567959fe-b9ed-4d03-b3a6-527e57635ffb"
+    linkText: 더 알아보기
   - title: 🎨 머테리얼 템플릿 발매 개시
     details: VRChat 아바타의 머테리얼을 모듈러 아바타처럼 적용된 모습만 볼 수 있는 비파괴 형태의 애드온이 발매개시하였습니다! 실시간 프리뷰와 실제 머테리얼에 적용하는 기능까지 있습니다, 매우 편리하답니다!
     icon: {

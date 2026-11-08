@@ -4,6 +4,26 @@ description: マキアートの新しい活動やアップデートのお知ら�
 layout: home
 
 features:
+  - title: 👧 ロコナ Face Tracking 対応
+    details: VRChatのアップデートにより、公式にFace Tracking機能を利用できるようになりました！これに合わせてフェイシャル用のシェイプキーを追加し、基本的なFace Tracking機能をそのまま利用できるようにアップデートしました。
+    icon: {
+      src: '/assets/news/rokona_facial_card.jpg',
+      alt: 'ロコナ Face Tracking アップデート',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://macchiato.booth.pm/items/7682496"
+    linkText: 詳しく見る
+  - title: 🏬 METAFES 2026 出展
+    details: METAFES 2026のアバター部門に参加しました！夏をイメージして制作したアバターだからか、夏のワールドにブースが配置されました。来年の夏もロコナと一緒に過ごしていただけたら嬉しいです！
+    icon: {
+      src: '/assets/news/rokona_metafes_2026_card.jpg',
+      alt: 'METAFES 2026 ロコナブース',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrchat.com/home/world/wrld_567959fe-b9ed-4d03-b3a6-527e57635ffb"
+    linkText: 詳しく見る
   - title: 🎨 MaterialTemplate 販売開始
     details: VRChatアバターのマテリアルを、Modular Avatarのように適用後の状態を確認できる非破壊型アドオンを販売開始しました！リアルタイムプレビューはもちろん、実際のマテリアルに設定を適用する機能も備えていて、とても便利です！
     icon: {

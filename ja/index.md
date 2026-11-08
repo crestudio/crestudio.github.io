@@ -16,6 +16,26 @@ hero:
       text: お問い合わせ
       link: "https://macchiato.booth.pm/conversations/new"
 features:
+  - title: 👧 ロコナ Face Tracking 対応
+    details: VRChatのアップデートにより、公式にFace Tracking機能を利用できるようになりました！これに合わせてフェイシャル用のシェイプキーを追加し、基本的なFace Tracking機能をそのまま利用できるようにアップデートしました。
+    icon: {
+      src: '/assets/news/rokona_facial_card.jpg',
+      alt: 'ロコナ Face Tracking アップデート',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://macchiato.booth.pm/items/7682496"
+    linkText: 詳しく見る
+  - title: 🏬 METAFES 2026 出展
+    details: METAFES 2026のアバター部門に参加しました！夏をイメージして制作したアバターだからか、夏のワールドにブースが配置されました。来年の夏もロコナと一緒に過ごしていただけたら嬉しいです！
+    icon: {
+      src: '/assets/news/rokona_metafes_2026_card.jpg',
+      alt: 'METAFES 2026 ロコナブース',
+      width: '100%',
+      height: 'auto'
+    }
+    link: "https://vrchat.com/home/world/wrld_567959fe-b9ed-4d03-b3a6-527e57635ffb"
+    linkText: 詳しく見る
   - title: 🎨 MaterialTemplate 販売開始
     details: VRChatアバターのマテリアルを、Modular Avatarのように適用後の状態を確認できる非破壊型アドオンを販売開始しました！リアルタイムプレビューはもちろん、実際のマテリアルに設定を適用する機能も備えていて、とても便利です！
     icon: {
@@ -55,26 +75,6 @@ features:
       height: 'auto'
     }
     link: "https://vrsuya.com/addon/installer"
-    linkText: 詳しく見る
-  - title: 🏬 Vket 2026 Summer ポスター参加
-    details: Vket 2026 Summerにポスター部門で参加しました。ロコナアバターのポスターと一緒にたくさんの方に写真を撮っていただき、ありがとうございました！ブロードウェイワールドでは、さまざまなサイズのポスターを見ることができます。
-    icon: {
-      src: '/assets/news/rokona_vket_card.jpg',
-      alt: 'ロコナアバター Vket 2026 ポスター',
-      width: '100%',
-      height: 'auto'
-    }
-    link: "https://vket.com/2026Summer/worlds"
-    linkText: 詳しく見る
-  - title: 👮‍♀️ Chained UP ギミック制作
-    details: Libero Boutiqueストアの「Chained UP」衣装向けギミックを制作しました。リボルバー拳銃のModular Avatar対応や、懐中電灯・無線機など、さまざまな警察用アイテムのUnityギミックを実装しています。
-    icon: {
-      src: '/assets/news/chained_up_card.jpg',
-      alt: 'Chained UP',
-      width: '100%',
-      height: 'auto'
-    }
-    link: "https://liberoboutique.booth.pm/items/8355832"
     linkText: 詳しく見る
 ---
 
