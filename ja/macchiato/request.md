@@ -61,7 +61,7 @@ SD、実写、ソフトコア、男性キャラクターはお申し込みいた
 
 :::
 
-- 相談が必要な場合は[Twitter](https://twitter.com/Art_Macchiato)または[Discord](https://discord.gg/macchiato)を利用できますが、申し込み·進行は必ずメールにて行います。
+- 相談が必要な場合は[Twitter](https://twitter.com/Art_Macchiato)または[Discord](https://discord.gg/VahWck6)を利用できますが、申し込み·進行は必ずメールにて行います。
 
 ## コミッション単価 {#price}
 

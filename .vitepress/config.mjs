@@ -24,7 +24,7 @@ export default defineConfig({
         ariaLabel: 'BOOTH'
       },
       { icon: 'twitter', link: 'https://twitter.com/VRC_Macchiato' },
-      { icon: 'discord', link: 'https://discord.gg/macchiato' },
+      { icon: 'discord', link: 'https://discord.gg/VahWck6' },
       { icon: 'youtube', link: 'https://www.youtube.com/@%EB%A7%88%EB%81%BC%EC%95%84%EB%98%90-Art' },
       { icon: 'github', link: 'https://github.com/crestudio' }
     ],

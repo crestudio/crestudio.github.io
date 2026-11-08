@@ -70,7 +70,7 @@ minecraft.macchiato.kr
 
 # サーバーへの参加方法 {#join}
 
-1. [Caramel Macchiato Discordサーバー](https://discord.gg/macchiato)に参加し、Approve認証を受けます。
+1. [Caramel Macchiato Discordサーバー](https://discord.gg/VahWck6)に参加し、Approve認証を受けます。
 1. Minecraft Zone内の[#reportチャンネル](https://discord.com/channels/499108058727972864/1113329910354821141)で、マインクラフトID<small>(メールアドレスではありません)</small>と一緒に申請します。
 1. 運営が確認してホワイトリストに追加すると、プレイできるようになります。
 1. または、すでにサーバーに登録されているプレイヤーがいる場合、そのプレイヤーがロビーサーバーから新規プレイヤーを登録することもできます。

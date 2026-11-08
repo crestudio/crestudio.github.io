@@ -70,7 +70,7 @@ minecraft.macchiato.kr
 
 # 서버 가입 방법 {#join}
 
-1. [카라멜 마끼아또 디스코드 서버](https://discord.gg/macchiato)에 가입 및 Approve 인증을 받습니다
+1. [카라멜 마끼아또 디스코드 서버](https://discord.gg/VahWck6)에 가입 및 Approve 인증을 받습니다
 1. Minecraft Zone 하위의 [#report 채널](https://discord.com/channels/499108058727972864/1113329910354821141)에 마인크래프트 아이디<small>(이메일 주소가 아닙니다)</small>와 함께 신청합니다
 1. 운영진이 확인 후 화이트리스트에 추가를 하면 플레이를 하실 수 있습니다
 1. 또는 이미 서버에 등록된 플레이어가 있다면, 해당 플레이어가 로비 서버에서 신규 플레이어를 등록할 수 있습니다

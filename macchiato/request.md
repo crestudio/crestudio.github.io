@@ -61,7 +61,7 @@ SD, 실사, 소프트코어, 남성 캐릭터는 신청이 가능하나, 퀄리�
 
 :::
 
-- 상담이 필요한 경우 [트위터](https://twitter.com/Art_Macchiato) 또는 [디스코드](https://discord.gg/macchiato)를 이용할 수 있으나, 신청 및 진행은 반드시 메일로 진행합니다
+- 상담이 필요한 경우 [트위터](https://twitter.com/Art_Macchiato) 또는 [디스코드](https://discord.gg/VahWck6)를 이용할 수 있으나, 신청 및 진행은 반드시 메일로 진행합니다
 
 ## 커미션 단가 {#price}
 
